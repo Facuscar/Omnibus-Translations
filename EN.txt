@@ -1,0 +1,59 @@
+REVIEWS AND RATINGS NOTICE
+ 
+Published [X] July 2022
+ 
+1. Calculation of the restaurant rating
+ 
+When Users rate a restaurant, we ask them to evaluate 3 criteria:
+The quality of the meal, which corresponds to 50% of the rating
+The service, which corresponds to 25% of the rating
+The ambience of the restaurant, which corresponds to 25% of the rating
+ 
+The calculation of the restaurant rating on the TheFork platform is an average of all User ratings from the past year. TheFork relies on the arithmetic method (Bayesian method in the Netherlands) to calculate the average rating of any partner restaurant.
+ 
+Users can also rate the quality-price ratio, the level of noise, the waiting time, and the quality of food. These extra criteria do not impact the rating, but they can help improve the restaurant’s service by giving the restaurant feedback on these points.
+ 
+Finally, Users can also leave a review to back up their rating; briefly explaining how their experience at the restaurant was, what their favorite dish was, the ambience, and the service.
+ 
+Users' opinions are not only important to us, but also beneficial to all in TheFork’s community.
+ 
+ 
+2. 	Management of reviews by Users
+ 
+If Users made a reservation with TheFork and enjoyed a meal, they have up to 3 months from the date of the meal to share their dining experience. We suggest that Users leave a review as soon as possible to avoid forgetting details of their experience.
+ 
+To leave a gastronomic experience review, Users have the following 3 options:
+ 
+Using the link provided from TheFork in the email received after the meal, if the meal was honored
+By going through the User’s TheFork account in the app
+By scanning the TheFork QR code at the table in restaurants that offer this feature, and only after paying the bill with TheFork PAY
+ 
+These 3 options are the only avenues for Users to provide reviews, as this allows TheFork to verify that Users visited the restaurant they are leaving a review for.
+ 
+We would like to emphasize the fact that our platform, and the reviews of any restaurants listed, consist of all reviews provided by Users. This means that all reviews, positive or not, are published for all users to consider (if they otherwise comply with our Terms of Use, see our moderation process below). We believe all reviews about dining experiences have their place on our platform and are essential to the TheFork community.
+ 
+ 
+3. 	Moderation of reviews by TheFork
+ 
+To maintain a high level of reliability and transparency, all reviews submitted by Users and replies from restaurants will go through our moderation process.
+ 
+Reviews are verified by both an automated moderation tool and our team of moderators if needed:
+ 
+We use a sophisticated automated moderation tool to identify reviews which may not be genuine or breach our rules on reviews as set out in our Terms of Use (Article 6.1 Conditions for posting reviews and Article 6.2 Reasons for rejecting Users Content). Reviews which are not flagged as potentially inauthentic or breaching our rules will be published automatically.
+When our moderation tool notices a potential problem, our moderation team verifies the review and confirms if it is from a consumer who had a genuine experience eating at the restaurant in question and otherwise meets our Terms of Use. This may include, for example, contacting Users by email or telephone to reconfirm information.
+When our moderation team confirms that the review does not comply with the requirements (e.g., when Users did not eat at the restaurant, they cannot leave a review about the gastronomic experience; if the booking is set as no show by the restaurant or if diners cancel the booking) we do not publish it and Users will not have the opportunity to reformulate their review.
+When the review does not comply with our other rules (e.g. when the whole review is incomprehensible, when the review is discriminatory, when there is a high inconsistency between the rating and the comment, etc.), we will inform the User and ask them to reformulate their review in a manner that complies with our Terms of Use.
+If you suspect that a review is not genuine or does not comply with our rules, please contact us at contact@thefork.com specifying the reason for your concerns and our moderation team will investigate as described above. We respond to all requests for moderation, from both restaurants and Users equally.
+ 
+As a lot of reviews are submitted each day, there may be some delay in the publication:
+ 
+The rating is published immediately (if the rating does not comply with the requirement above regarding honoring the booking, it is then deleted).
+The review can take up to 15 days to be published when it needs to be checked by our moderating team.
+The review will only be visible on the TheFork once the restaurant has 3 or more reviews. If the restaurant has less than 3 reviews, the first 3 reviews will be saved and published when the restaurant has reached the threshold.
+ 
+ 
+4. 	Right of reply of the restaurant
+ 
+Once a review is published, restaurant owners have the right to reply within 3 months of the review being submitted. The response should not exceed the review length and, in any case, cannot exceed 1024 characters.
+ 
+All restaurants’ replies undergo the same moderation process as described in point 3 above.
