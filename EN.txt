@@ -43,7 +43,7 @@ We use a sophisticated automated moderation tool to identify reviews which may n
 When our moderation tool notices a potential problem, our moderation team verifies the review and confirms if it is from a consumer who had a genuine experience eating at the restaurant in question and otherwise meets our Terms of Use. This may include, for example, contacting Users by email or telephone to reconfirm information.
 When our moderation team confirms that the review does not comply with the requirements (e.g., when Users did not eat at the restaurant, they cannot leave a review about the gastronomic experience; if the booking is set as no show by the restaurant or if diners cancel the booking) we do not publish it and Users will not have the opportunity to reformulate their review.
 When the review does not comply with our other rules (e.g. when the whole review is incomprehensible, when the review is discriminatory, when there is a high inconsistency between the rating and the comment, etc.), we will inform the User and ask them to reformulate their review in a manner that complies with our Terms of Use.
-If you suspect that a review is not genuine or does not comply with our rules, please contact us at contact@thefork.com specifying the reason for your concerns and our moderation team will investigate as described above. We respond to all requests for moderation, from both restaurants and Users equally.
+If you suspect that a review is not genuine or does not comply with our rules, please contact us at contact@thefork.com.au specifying the reason for your concerns and our moderation team will investigate as described above. We respond to all requests for moderation, from both restaurants and Users equally.
  
 As a lot of reviews are submitted each day, there may be some delay in the publication:
  
@@ -57,3 +57,5 @@ The review will only be visible on the TheFork once the restaurant has 3 or more
 Once a review is published, restaurant owners have the right to reply within 3 months of the review being submitted. The response should not exceed the review length and, in any case, cannot exceed 1024 characters.
  
 All restaurants’ replies undergo the same moderation process as described in point 3 above.
+
+<p><strong><u><a href="#reviews-and-ratings-notice">D. Reviews and ratings notice</a></u></strong></p>
