@@ -4,7 +4,9 @@
 
 <p><strong><u><a href="#datenschutzerklarung-und-cookie-richtlinien">C. Datenschutzerklärung und cookie-richtlinien</a></u></strong></p>
 
-<p><strong><u><a href="#thefork-webseiten-und-unternehmen">D. TheFork webseiten und unternehmen</a></u></strong></p>
+<p><strong><u><a href="#besprechungen-und-bewertungen">D. Besprechungen und Bewertungen: Hinweise</a></u></strong></p>
+
+<p><strong><u><a href="#thefork-webseiten-und-unternehmen">E. TheFork webseiten und unternehmen</a></u></strong></p>
 
 <h1 id="RechtlicherHinweis">A. RECHTLICHER HINWEIS</h1>
 
@@ -189,8 +191,8 @@
 </ul>
 
 <p>La Fourchette SAS<br>
-          70 Rue Saint-Lazare<br>
-          75009 Paris, Frankreich.</p>
+              70 Rue Saint-Lazare<br>
+              75009 Paris, Frankreich.</p>
 
 <p>Darüber hinaus verpflichten  Nutzer sich, Folgendes nicht zu tun:</p>
 
@@ -874,18 +876,18 @@
 <p>Die Kontaktinformationen unseres Vertreters in der Europäischen Union lauten wie folgt:</p>
 
 <p>La Fourchette SAS<br>
- 70 rue Saint Lazare<br>
- 75009 Paris<br>
- Frankreich<br>
- Attn: Privacy Officer</p>
+   70 rue Saint Lazare<br>
+   75009 Paris<br>
+   Frankreich<br>
+   Attn: Privacy Officer</p>
 
 <p>Die Kontaktinformationen unseres Vertreters im Großbritannien lauten wie folgt:</p>
 
 <p>Bookatable Limited<br>
- 7 Soho Square<br>
-London W1D 3QB<br>
- Vereinigtes Königreich<br>
- Attn: Privacy Officer</p>
+   7 Soho Square<br>
+  London W1D 3QB<br>
+   Vereinigtes Königreich<br>
+   Attn: Privacy Officer</p>
 
 <p><br>
 </p>
@@ -912,7 +914,7 @@ London W1D 3QB<br>
 
   <li>Das Recht, Ihre  personenbezogenen Daten zu berichtigen, wenn sie nicht korrekt sind.  Unvollständige persönliche Daten können Sie außerdem ergänzen, wobei stets die  Zwecke der Verarbeitung berücksichtigt werden sollten.</li>
 
-  <li>Das Recht, die  Löschung Ihrer personenbezogenen Daten anzufordern, wenn:                                                                                                                                                                                                                                                  
+  <li>Das Recht, die  Löschung Ihrer personenbezogenen Daten anzufordern, wenn:                                                                                                                                                                                                                                                                        
     <ul>
       <li>Ihre personenbezogenen Daten für die Zwecke,  zu denen sie von uns erfasst oder verarbeitet wurden, nicht mehr erforderlich  sind; oder</li>
 
@@ -928,7 +930,7 @@ London W1D 3QB<br>
 
   <li>Das Recht, der  Verarbeitung Ihrer personenbezogenen Daten zu widersprechen. Wir halten uns an  Ihre Anforderung; es sei denn, wir verfolgen mit der Verarbeitung ein  zwingendes legitimes Interesse oder wir müssen die Verarbeitung Ihrer  personenbezogenen Daten fortsetzen, um einen Rechtsanspruch zu erheben, geltend  zu machen oder zu verteidigen.</li>
 
-  <li>Das Recht, die  Verarbeitung Ihrer personenbezogenen Daten zu beschränken, wenn:                                                                                                                                                                                                                                                  
+  <li>Das Recht, die  Verarbeitung Ihrer personenbezogenen Daten zu beschränken, wenn:                                                                                                                                                                                                                                                                                                  
     <ul>
       <li>die Richtigkeit Ihrer personenbezogenen Daten  für den Zeitraum, in dem wir die Richtigkeit der personenbezogenen Daten  überprüfen müssen, von Ihnen angefochten wird; oder</li>
 
@@ -982,7 +984,86 @@ London W1D 3QB<br>
 <p align="center"><br>
 </p>
 
-<h1 id="thefork-webseiten-und-unternehmen">D. THEFORK WEBSEITEN UND UNTERNEHMEN</h1>
+<h1 style="text-align: justify;" id="besprechungen-und-bewertungen">D. BESPRECHUNGEN UND BEWERTUNGEN: HINWEISE</h1>
+
+<p>Veröffentlicht am 7. September 2022</p>
+
+<h3><strong>1. Berechnungsweise der Restaurantbewertung</strong></h3>
+
+<p>Wenn Benutzer ein Restaurant bewerten, bitten wir sie, 3 Kriterien zu beurteilen:</p>
+
+<ul>
+  <li>Die Qualität des Essens, die 50 % der Bewertung entspricht</li>
+
+  <li>Den Service, der 25 % der Bewertung entspricht</li>
+
+  <li>Atmosphäre, Umgebung und Ambiente des Restaurants, was 25 % der Bewertung entspricht</li>
+</ul>
+
+<p>Die Berechnung der Restaurantbewertung auf der TheFork-Plattform ist ein Durchschnitt aller Nutzerbewertungen des vergangenen Jahres. TheFork stützt sich auf die arithmetische Methode (Bayes‘sches Verfahren in den Niederlanden), um die durchschnittliche Bewertung eines jeden Partnerrestaurants zu berechnen.</p>
+
+<p>Benutzer können auch das Preis-Leistungs-Verhältnis, den Geräuschpegel, die Wartezeit und die Qualität des Essens bewerten. Diese zusätzlichen Kriterien wirken sich nicht auf die Bewertung aus, können aber dazu beitragen, den Service des Restaurants zu verbessern, indem sie dem Restaurant Feedback zu diesen Punkten geben.</p>
+
+<p>Schließlich können Benutzer auch eine Besprechung hinterlassen, um ihre Bewertung zu unterfüttern: Kurz erklären, wie ihr Erlebnis im Restaurant war, welches ihr Lieblingsgericht war, wie das Ambiente und der Service waren.</p>
+
+<p>Die Meinungen der Benutzer sind nicht nur für uns wichtig, sondern auch für alle in der TheFork Community von Vorteil.</p>
+
+<h3><strong>2. Management von Benutzerbesprechungen</strong></h3>
+
+<p>Wenn Benutzer eine Reservierung mit TheFork vorgenommen und eine Mahlzeit genossen haben, haben sie ab dem Datum der Mahlzeit bis zu 3 Monate Zeit, um ihr Gourmet-Erlebnis weiterzugeben. Wir empfehlen den Benutzern jedoch, so schnell wie möglich eine Besprechung abzugeben, um zu vermeiden, dass sie Einzelheiten ihres Erlebnisses vergessen.</p>
+
+<p>Um eine Bewertung Ihres gastronomischen Erlebnisses abzugeben, haben Benutzer die folgenden 3 Optionen:</p>
+
+<ul>
+  <li>Verwenden des von TheFork bereitgestellten Link in der E-Mail, die sie nach dem Essen erhalten, wenn die Mahlzeit stattgefunden hat</li>
+
+  <li>Durch das TheFork-Benutzerkonto in der App</li>
+
+  <li>Durch Scannen des TheFork-QR-Codes am Tisch in Restaurants, die diese Funktion anbieten, und erst nach dem Bezahlen der Rechnung mit TheFork PAY</li>
+</ul>
+
+<p>Diese 3 Optionen sind die einzigen Möglichkeiten für Benutzer, Besprechungen abzugeben, da TheFork dadurch überprüfen kann, ob Benutzer das Restaurant besucht haben, für das sie eine Besprechung abgeben.</p>
+
+<p>Wir möchten die Tatsache betonen, dass unsere Plattform und die Besprechungen aller aufgelisteten Restaurants aus allen von Benutzern abgegebenen Besprechungen bestehen. Dies bedeutet, dass alle Besprechungen, ob positiv oder nicht, veröffentlicht werden, damit alle Benutzer sie berücksichtigen können (wenn sie ansonsten unsere <a href="#nutzungsbedingungen">Nutzungsbedingungen</a> einhalten, siehe unseren Moderationsprozess unten). Wir glauben, dass alle Besprechungen zu gastronomischen Erlebnissen ihren Platz auf unserer Plattform haben und für die TheFork Community von wesentlicher Bedeutung sind.</p>
+
+<h3><strong>3. Moderation von Besprechungen durch TheFork</strong></h3>
+
+<p>Um ein hohes Maß an Zuverlässigkeit und Transparenz zu gewährleisten, durchlaufen alle von Benutzern eingereichten Besprechungen und Antworten von Restaurants unseren Moderationsprozess.</p>
+
+<p>Besprechungen werden sowohl von einem automatisierten Moderationstool als auch bei Bedarf von unserem Moderatorenteam überprüft:</p>
+
+<ul>
+  <li>Wir verwenden ein ausgeklügeltes automatisiertes Moderationstool, um Besprechungen zu identifizieren, die möglicherweise nicht echt sind oder gegen unsere Regeln für Besprechungen verstoßen, die in unseren <a href="#nutzungsbedingungen">Nutzungsbedingungen</a> festgelegt sind (Artikel 6.1 Bedingungen für das Posten von Besprechungen und Artikel 6.2 Gründe für das Ablehnen von Benutzerinhalten). Besprechungen, die nicht als potenziell unecht gekennzeichnet werden oder gegen unsere Regeln verstoßen, werden automatisch veröffentlicht.</li>
+
+  <li>Wenn unser Moderationstool ein potenzielles Problem feststellt, überprüft unser Moderationsteam die Besprechungen und bestätigt, ob sie von einem Verbraucher stammt, der ein echtes Erlebnis vom Essen in dem betreffenden Restaurant gemacht hat und ansonsten unsere <a href="#nutzungsbedingungen">Nutzungsbedingungen</a> erfüllt. Dies kann beispielsweise die Kontaktaufnahme mit Benutzern per E-Mail oder Telefon umfassen, um Informationen erneut zu bestätigen.</li>
+
+  <li>Wenn unser Moderationsteam bestätigt, dass die Bewertung nicht den Anforderungen entspricht (etwa: Wenn Benutzer nicht im Restaurant gegessen haben, können sie keine Besprechung über das gastronomische Erlebnis hinterlassen; wenn die Buchung vom Restaurant als Nichterscheinen festgelegt wird oder wenn die Gäste die Buchung stornieren), veröffentlichen wir sie nicht und die Benutzer haben keine Möglichkeit, ihre Besprechung neu zu formulieren.</li>
+
+  <li>Wenn die Besprechung nicht unseren anderen Regeln entspricht (etwa: Wenn die gesamte Besprechung unverständlich ist, wenn die Besprechung diskriminierend ist, wenn eine große Unstimmigkeit zwischen der Bewertung und dem Kommentar besteht usw.), werden wir den Benutzer informieren und ihn bitten, seine Besprechung so umzuformulieren, dass sie unseren <a href="#nutzungsbedingungen">Nutzungsbedingungen</a> entspricht.</li>
+
+  <li>Wenn Sie den Verdacht haben, dass eine Besprechung nicht echt ist oder nicht unseren Regeln entspricht, kontaktieren Sie uns bitte unter <a href="mailto:kontakt@thefork.at">kontakt@thefork.at</a> und geben Sie den Grund für Ihre Bedenken an. Unser Moderationsteam wird dies wie oben beschrieben untersuchen. Wir beantworten alle Anfragen zur Moderation, von Restaurants und von Benutzern gleichermaßen.</li>
+</ul>
+
+<p>Da jeden Tag viele Besprechungen eingereicht werden, kann es zu Verzögerungen bei der Veröffentlichung kommen:</p>
+
+<ul>
+  <li>Die <strong>Bewertung</strong> wird sofort veröffentlicht (entspricht die Bewertung nicht den oben genannten Anforderungen zum Erfüllen der Buchung, wird sie anschließend gelöscht).</li>
+
+  <li>Es kann bis zu 15 Tage dauern, bis die <strong>Besprechung</strong> veröffentlicht wird, wenn sie von unserem Moderationsteam überprüft werden muss.</li>
+
+  <li>Die <strong>Besprechung</strong> wird erst auf TheFork zu sehen sein, wenn das Restaurant 3 oder mehr Besprechungen aufweist. Wenn das Restaurant weniger als 3 Besprechungen hat, werden die ersten 3 Besprechungen gespeichert und veröffentlicht, wenn das Restaurant diese Schwelle erreicht hat.</li>
+</ul>
+
+<h3><strong>4. Gegendarstellungsrecht des Restaurants</strong></h3>
+
+<p>Sobald eine Besprechung veröffentlicht wurde, haben Restaurantbesitzer das <strong>Recht, innerhalb von 3 Monaten</strong> nach dem Einreichen der Besprechung zu antworten. Die Antwort sollte die Länge der Besprechung nicht überschreiten und auf keinen Fall mehr als 1024 Zeichen haben. </p>
+
+<p>Sämtliche Antworten von Restaurants durchlaufen den gleichen Moderationsprozess wie in Punkt 3 oben beschrieben.</p>
+
+<p><br>
+</p>
+
+<h1 id="thefork-webseiten-und-unternehmen">E. THEFORK WEBSEITEN UND UNTERNEHMEN</h1>
 
 <p>La Fourchette SAS  und die Tochterunternehmen und Beteiligungen besitzen und betreiben ein  Portfolio von Webseiten und Unternehmen, die folgenden Markennamen umfassen:</p>
 
