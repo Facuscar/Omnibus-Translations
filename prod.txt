@@ -1,0 +1,691 @@
+A. Rechtlicher Hinweis
+
+B. Nutzungsbedingungen
+
+C. Datenschutzerklärung und cookie-richtlinien
+
+D. TheFork webseiten und unternehmen
+
+A. RECHTLICHER HINWEIS
+Die Webseite https://www.thefork.at und die zugehörige App werden veröffentlicht von:
+
+
+
+La Fourchette SAS
+
+Eine vereinfachte Aktiengesellschaft mit einem Kapital von 117 454 518,00  Euro
+
+Firmensitz: 70, rue Saint-Lazare, 75009 Paris, Frankreich
+
+RCS PARIS 494 447 949
+
+Europäische Umsatzsteuer-Identifikationsnummer: FR71494447949
+
+
+
+Publikationsleiter: Almir Ambeskovic.
+
+Telefon: +33 (0)1 77 48 75 67  
+
+E-Mail: contact@thefork.fr
+
+
+
+Die Webseite http://www.thefork.at wird gehostet von :
+
+Amazon Web Services EMEA SARL
+
+38 avenue John F. Kennedy, L-1855 Luxembourg
+
+http://aws.amazon.com/
+
+
+
+B. NUTZUNGSBEDINGUNGEN
+Letztes Update: 1. April 2020
+
+Diese Nutzungsbedingungen und die Datenschutzerklärung und cookie-richtlinien stellen Ihre Vereinbarung mit La Fourchette SAS dar (wenn Sie als Restaurantbesitzer Reservierungen über die TheFork-Webseite annehmen, gelten diese Bestimmungen für Sie zusätzlich zu den Allgemeinen Verkaufs- und Nutzungsbedingungen sowie den Sonderbedingungen zum Zeitpunkt Ihrer Anmeldung). Lesen Sie diese sorgfältig durch, diese Bestimmungen sind für Sie bindend, sobald Sie die TheFork-Webseite benutzen.
+
+Hinweis: Wenn Sie mit allen oder einigen dieser Nutzungsbedingungen nicht einverstanden sind, sollten Sie die TheFork-Webseite nicht nutzen.
+
+
+
+TEIL 1. ALLGEMEINE NUTZUNGSBEDINGUNGEN
+Definitionen
+
+„TheFork“: bezeichnet das Unternehmen La Fourchette SAS.
+
+„TheFork-Webseite“: bezieht sich auf sämtliche Web- und mobile Webseites, die unter https://www.thefork.at  und in den mobilen Anwendungen  für Tablets zur Verfügung stehen.
+
+„Nutzer“: bezeichnet jede Person über 18 Jahren, die in der Lage ist, Verträge abzuschließen, und die die TheFork-Webseite besucht und/oder ein Konto auf der TheFork-Webseite hat.
+
+„Nutzungsbedingungen“: bezieht sich auf diese Allgemeinen Nutzungsbedingungen und alle Besonderen Nutzungsbedingungen.
+
+„Inhalte des Restaurantbetreibers“: bezieht sich auf Elemente der Restaurant-Seite, die TheFork vom Restaurantbetreiber zur Verfügung gestellt wurden oder bezüglich derer der Restaurantbetreiber TheFork das Hochladen auf die TheFork, Webseite erlaubt hat, wie zum Beispiel Lebensmittel- und Getränkepreise, Durchschnittspreis einer Mahlzeit, Name des Kochs, Verfügbarkeit des Restaurants, Speisekarte, Kalender, Restaurantthemen und Fotos des Restaurants.
+
+„Nutzerinhalt“: bezieht sich auf alle Elemente, die der Nutzer auf der TheFork-Webseite zur Verfügung stellt, einschließlich Text, Dokumenten, Bildern, Fotos, Bewertungen oder das Recht auf Gegendarstellung.
+
+
+
+Annahme und Änderung der Nutzungsbedingungen
+
+TheFork stellt dem Nutzer einen Online-Restaurant-Such- und Reservierungsservice zur Verfügung, der im Gegenzug die vorbehaltlose Annahme dieser Nutzungsbedingungen voraussetzt.
+
+Die Nutzer erklären und bestätigen, diese Nutzungsbedingungen vollständig gelesen zu haben. Darüber hinaus akzeptieren die Nutzer durch die Nutzung der auf der TheFork-Webseite angebotenen Services vorbehaltlos, an diese Nutzungsbedingungen gebunden zu sein.
+
+TheFork behält sich vor, diese Nutzungsbedingungen oder zusätzliche Bedingungen jederzeit ganz oder teilweise zu ändern, um zum Beispiel Änderungen des rechtlichen Rahmens oder Änderungen der auf der TheFork-Webseite angebotenen Services zu berücksichtigen. Wir werden Mitteilungen zu Änderungen der Nutzungsbedingungen oder zusätzlicher Bedingungen auf der TheFork-Webseite veröffentlichen. Es liegt daher im Verantwortungsbereich des Nutzers, sich regelmäßig über die neueste Version dieser Nutzungsbedingungen zu informieren. Bei jeder neuen Nutzung der TheFork-Webseite wird davon ausgegangen, dass der Nutzer diese neueste Version akzeptiert.
+
+Durch den Zugriff auf die TheFork-Webseite oder deren Nutzung in irgendeiner Form erklärt sich der Nutzer mit diesen Nutzungsbedingungen einverstanden.
+
+1. Beschreibung der TheFork-Webseite
+Die Nutzung der TheFork-Webseite unterliegt Haftungsbeschränkungen seitens von TheFork. Einzelheiten dazu finden Sie in Artikel 8 „Haftungsbeschränkung“.
+
+1.1 Einführungsplattform
+Die TheFork-Webseite ist eine Plattform, die es dem Nutzer ermöglicht, sich unter anderem mit den auf der TheFork-Webseite aufgeführten Restaurants in Verbindung zu setzen. TheFork fungiert dabei ausschließlich als Vermittler in Verbindung mit einer Reservierung in den genannten Restaurants durch den Nutzer.
+
+1.2 Suche und Reservierung von Tischen in einem Restaurant in Echtzeit
+Die TheFork-Webseite ermöglicht es dem Nutzer, einen Tisch in einem Restaurant in Echtzeit zu suchen und zu reservieren.
+
+Die TheFork-Webseite ermöglicht es dem Nutzer auch, seine Reservierung im Fall von unvorhergesehenen Umständen zu stornieren.
+
+1.3 Werbeangebote von Restaurants, die auf der TheFork-Webseite aufgeführt sind
+Die TheFork-Webseite ermöglicht es dem Nutzer, sofern die Reservierung über die TheFork-Webseite erfolgt, von Werbeangeboten der Restaurants auf der TheFork-Webseite zu profitieren. Nicht alle Restaurants bieten Werbeangebote. Die Bedingungen für die Gültigkeit solcher Werbeangebote sind auf der TheFork-Webseite dargelegt. Die Nutzer verpflichten sich, die Gültigkeitsbedingungen eines Werbeangebots vor der Reservierung auf der TheFork-Webseite zu überprüfen und können in keinem Fall die Vorteile eines Werbeangebots des Restaurants außerhalb der auf der TheFork-Webseite angegebenen Gültigkeitsbedingungen und/oder außerhalb des Reservierungsverfahrens, das das Werbeangebot enthält, in Anspruch nehmen.
+
+Eine der Bedingungen für die Gültigkeit ist es, dass der Nutzer und seine gesamte Gruppe zum reservierten Zeitpunkt im reservierten Restaurant eintreffen müssen. Wenn ein Nutzer und alle seine Gäste nicht bis 15 Minuten nach der reservierten Zeit im Restaurant erscheinen, kann sich das Restaurant dazu entschließen, das mit der Reservierung verbundene Werbeangebot für den Nutzer und seine Gruppe nicht gelten zu lassen. Zur Klarstellung: Dies bedeutet, dass der Nutzer oder einer seiner Gäste, sollten er oder einer seiner Gäste mehr als 15 Minuten zu spät kommen, den automatischen Vorteil des Werbeangebots verlieren und das Restaurant entscheiden kann, ob es das Werbeangebot auf alle oder einige der Gäste anwenden will.
+
+
+
+2. Kostenfreie Nutzung der TheFork-Webseite
+Die auf der TheFork-Webseite angebotenen Services sind im Allgemeinen kostenfrei.
+
+Tarife können insbesondere je nach Änderung der angebotenen Services, der Entwicklung des Netzwerks und von technischen und/oder rechtlichen Einschränkungen gelten. Nutzer werden durch eine Änderung der vorliegenden Nutzungsbedingungen und/oder durch die Einfügung von Sonderbedingungen für die kostenpflichtigen Services auf der TheFork-Webseite ordnungsgemäß informiert.
+
+
+
+3. Webseites und Services Dritter
+3.1 Von Dritten angebotene Services
+Nutzer erkennen an, dass sich die TheFork-Webseite auf kostenpflichtige Services bezieht. Insbesondere bezieht sich jede auf der TheFork-Webseite vorgenommene Reservierung auf einen Restaurantservice, der von einem Dritt-Restaurantbetreiber erbracht wird und für die eine Bezahlung erforderlich ist.
+
+Alle auf der TheFork-Webseite angezeigten Preise oder Preisspannen bezüglich eines Drittanbieters werden nur zu Informationszwecken und aus Gründen der Bequemlichkeit angegeben. TheFork garantiert in keinem Fall die Richtigkeit dieser Informationen.
+
+
+
+3.2 Links zu Webseites Dritter
+Die TheFork-Webseite kann Links zu Webseites enthalten, die von Dritten verwaltet werden. Diese Links dienen lediglich Informationszwecken. TheFork kontrolliert diese Webseites nicht und ist nicht verantwortlich für deren Inhalt oder für die Datenschutzrichtlinien oder andere Praktiken solcher Webseites. Die Anzeige von Links zu solchen Seiten stellt weder eine Zustimmung zu den darauf enthaltenen Elementen noch eine Verbindung mit den Herausgebern dieser Seiten dar. Es liegt im Verantwortungsbereich der Nutzer, alle für notwendig oder angemessen erachtete Überprüfungen durchzuführen, bevor sie diese Webseites nutzen oder eine Transaktion mit einer dieser Webseites abschließen.
+
+
+
+4. Zugang zu und Nutzung der TheFork-Webseite
+4.1 Teilnahmebedingungen
+Die Nutzung der TheFork-Webseite unterliegt den folgenden kumulativen Teilnahmevoraussetzungen: als Nutzer (i) sind Sie mindestens 18 Jahre alt; (ii) besitzen die Rechtsfähigkeit, an rechtliche Verpflichtungen gebunden zu sein; (iii) und die Reservierungen, die Sie auf der TheFork-Webseite für sich oder eine andere Person, in deren Namen Sie handeln dürfen, vornehmen, sind rechtmäßig.
+
+4.2 Zugang zur TheFork-Webseite
+TheFork behält sich vor, die TheFork-Webseite oder die auf der TheFork-Webseite kostenlos angebotenen Services ohne vorherige Ankündigung ganz oder teilweise auszusetzen, zu löschen oder zu ändern. TheFork behält sich außerdem das Recht vor, den Zugang zur TheFork-Webseite für alle oder einzelne Nutzer aufgrund von Wartungsarbeiten, Notfällen (Cyber-Angriffe usw.) oder aus anderen nachvollziehbaren Gründen und zu jeder Zeit auszusetzen.
+
+4.3 Bedingungen für die Eröffnung eines Kontos
+Mit der Eröffnung eines Kontos akzeptiert der Nutzer ausdrücklich und vorbehaltlos diese Nutzungsbedingungen.
+
+Nutzer verpflichten sich, genaue, aktuelle und wahrheitsgemäße Angaben zu machen, insbesondere hinsichtlich von Anrede, Nachname, Vorname, E-Mail-Adresse und Telefonnummer, die für ihre ordnungsgemäße Identifizierung in Zusammenhang mit der Eröffnung und Führung ihres Kontos erforderlich sind.
+
+4.4 Vertraulichkeit der Kontoangaben
+Bei der Erstellung ihres Kontos wählen Nutzer einen Benutzernamen und ein Passwort („Anmeldedaten“), mit denen sie auf ihr Konto zugreifen können.
+
+Diese Anmeldedaten sind persönlich und vertraulich. Sie können nur auf Wunsch des betreffenden Nutzers oder auf Initiative von TheFork geändert werden.
+
+Die Nutzer sind allein und vollständig für die Nutzung ihres Kontos und der sie betreffenden Anmeldedaten verantwortlich und verpflichten sich, alle möglichen und angemessenen Maßnahmen zu unternehmen, um ihre Anmeldedaten geheim zu halten und sie in keiner Form an Dritte weiterzugeben.
+
+Im Falle des Verlusts oder Diebstahls der Anmeldedaten eines Nutzers haftet dieser Nutzer für sämtliche Folgeschäden, die sich aus dem Verlust oder Diebstahl ergeben, und muss so schnell wie möglich das Verfahren befolgen, dass eine Änderung der Anmeldedaten ermöglicht und das auf der Seite www.thefork.at/#user-account  zu finden ist.
+
+4.5 Schließung des Kontos
+Nutzer können ihr Konto jederzeit schließen. Dazu müssen sie ihren Antrag auf Kontoschließung per E-Mail an folgende Adresse senden: kontakt@thefork.at.
+
+TheFork wird sich bemühen, jeden Antrag auf Kontoschließung innerhalb eines angemessenen Zeitraums zu bearbeiten.
+
+Die Nutzer werden darüber informiert, dass sie ab der Schließung ihres Kontos die von TheFork angebotenen Services nicht mehr in Anspruch nehmen können, ihre aktuellen Reservierung storniert und gegebenenfalls gesammelte Yums gelöscht werden.
+
+4.6 Nutzerpflichten - Verbotene Handlungen
+Nutzer erklären sich damit einverstanden, die TheFork-Webseite in Übereinstimmung mit diesen Nutzungsbedingungen und geltendem Recht zu nutzen. Insbesondere verpflichten Nutzer sich dazu, keine der folgenden aufgezählten verbotenen Handlungen vorzunehmen:
+
+Nicht im Restaurant zu erscheinen, ohne die Reservierung zuvor zu stornieren (Nichterscheinen).
+
+Der Inhalt und die Daten der TheFork-Webseite (insbesondere Nachrichten, Daten, Informationen, Text, Musik, Geräusche, Fotos, Grafiken, Videos, Karten, Symbole, Software, Codes oder andere Elemente) sowie die zur Bereitstellung solcher Inhalte und Informationen verwendete Infrastruktur sind Eigentum von TheFork; die Nutzer verpflichten sich, keine Informationen, Software, Produkte oder Services, die sie von oder über die TheFork-Webseite erhalten haben, zu ändern, zu kopieren, zu verbreiten, zu übermitteln, anzuzeigen, zur Verfügung zu stellen, zu reproduzieren, zu veröffentlichen, zu lizenzieren, daraus abgeleitete Werke zu erstellen, zu übertragen, zu verkaufen oder weiterzuverkaufen.
+
+Das ganz oder teilweise Kopieren, Übermitteln, Reproduzieren, Neuausgeben, Verteilen oder Übertragen des Inhalts der TheFork-Webseite ist ohne vorherige schriftliche Genehmigung von TheFork strengstens verboten. Um diese Genehmigung zu erhalten, wenden Sie sich unter folgender Adresse an TheFork:
+
+La Fourchette SAS
+70 Rue Saint-Lazare
+75009 Paris, Frankreich.
+
+Darüber hinaus verpflichten Nutzer sich, Folgendes nicht zu tun:
+
+die TheFork-Webseite oder ihren Inhalt für illegale, unrechtmäßige oder betrügerische Zwecke zu verwenden;
+
+Nutzerinhalte oder Inhalte von Restaurantbetreibern an die TheFork-Webseite zu übermitteln, die falsch und illegal sind und insbesondere die Privatsphäre verletzen, beleidigend, unanständig oder bedrohlich sind, zu Hass oder Gewalt aufstacheln oder deren Rechte am geistigen Eigentum nicht bei ihnen liegen und für die sie nicht die ausdrückliche Genehmigung des Rechteinhabers besitzen;
+
+die Architektur, den Inhalt oder die Daten der TheFork-Webseite oder die Handlungen eines Nutzers auf der TheFork-Webseite zu verwenden, zu überwachen, zu extrahieren oder zu kopieren, indem ein Roboter, ein Spider, ein Scraper, Spyware, ein Tastaturrekorder oder ein anderes Programm oder ein automatisches Gerät oder ein manuelles Verfahren zu irgendeinem Zweck verwendet wird;
+
+Beschränkungen bezüglich von Roboter-Ausschlussdateien auf der TheFork-Webseite zu verletzen oder Maßnahmen zu umgehen, die den Zugang zur TheFork-Webseite verhindern oder einschränken;
+
+jedwede Maßnahme zu ergreifen, die die Infrastruktur der TheFork-Webseite unangemessen oder übermäßig belastet oder belasten könnte;
+
+aus irgendeinem Grund eine unsichtbare Verbindung zur TheFork-Webseite herzustellen;
+
+einen beliebigen Teil der TheFork-Webseite auf eine andere Webseite zu „rahmen“, zu „spiegeln“ oder zu integrieren; und
+
+zu versuchen, Softwareprogramme, die von TheFork in Verbindung mit der TheFork-Webseite oder ihren Services verwendet werden, zu modifizieren, zu übersetzen, anzupassen, zu überarbeiten, zu dekompilieren, zu disassemblieren oder rückzuentwickeln.
+
+4.7 Strafe bei Vertragsbruch
+4.7.1 Aussetzung oder Beendigung der Services der TheFork-Webseite
+Im Fall der vollständigen oder teilweisen Nichteinhaltung oder bei Nichtbefolgung einer der Verpflichtungen oder Bestimmungen dieser Nutzungsbedingungen durch einen Nutzer oder im Falle der Durchführung einer der in diesen Nutzungsbedingungen festgelegten verbotenen Handlungen durch einen Nutzer oder aus anderen nachvollziehbaren Gründen kann TheFork den Zugang zu einigen oder allen Services der TheFork-Webseite ändern, aussetzen, einschränken oder entfernen, einschließlich der Deaktivierung des Benutzerkontos, mit oder ohne Vorankündigung und ohne jegliches Recht des Nutzers, eine Entschädigung zu fordern, und unbeschadet jeglicher Entschädigung, die TheFork anderweitig vor Gericht einfordern kann.
+
+4.7.2 Schäden
+Unbeschadet der von TheFork gemäß Art. 4.7.1 auferlegten Vertragsstrafen ist TheFork auch berechtigt, Ersatz für entstandene Schäden zu verlangen.
+
+
+
+5. Bewertungen und Nutzerinhalte
+Nutzer müssen die folgenden Regeln beachten, wenn sie Nutzerinhalte veröffentlichen und insbesondere, wenn sie eine Bewertung auf der TheFork-Webseite veröffentlichen, die ein auf der TheFork-Webseite aufgeführtes Restaurant betrifft.
+
+5.1 Bedingungen für die Veröffentlichung von Bewertungen
+Um eine Bewertung zu veröffentlichen, müssen Nutzer ein Konto auf der TheFork-Webseite haben, das sie identifiziert, oder sie müssen über eine von TheFork verschickte E-Mail zur Einreichung einer Bewertung eingeladen worden sein und über die TheFork-Webseite in einem Restaurant reserviert haben oder in ein Restaurant eingeladen worden sein, und die Reservierung im Restaurant wahrgenommen haben.
+
+Zur Vermeidung von Interessenkonflikten und aus offensichtlichen Gründen der Objektivität ist es Nutzern, die im Gaststättengewerbe arbeiten, nicht gestattet eine Bewertung auf der TheFork-Webseite zu veröffentlichen.
+
+Die Bewertung muss mehr als 200 Zeichen umfassen und sich ausschließlich auf das besuchte Restaurant beziehen. Jede Bewertung, die ein anderes Restaurant erwähnt, kann von TheFork abgelehnt werden.
+
+5.2 Gründe für die Ablehnung von Nutzerinhalten
+Nutzerinhalte können aus folgenden Gründen abgelehnt werden:
+
+wenn der Nutzer sich nicht an die „Bedingung für die Veröffentlichung von Bewertungen“, wie oben beschrieben, hält;
+
+wenn TheFork der Ansicht ist, dass TheFork zivil- oder strafrechtlich haftbar gemacht werden könnte;
+
+wenn der Nutzerinhalt oder die Teile, die sich auf die Identität des Autors beziehen, Beleidigungen oder Vulgaritäten enthalten;
+
+wenn der Text des Nutzerinhalts zufällige Zeichen oder Wortfolgen ohne Bedeutung enthält;
+
+wenn der Nutzerinhalt keinen Bezug zu dem bewerteten Restaurant enthält;
+
+wenn der Nutzerinhalt eine Verletzung der Rechte des geistigen Eigentums Dritter darstellt oder dies vermutet wird;
+
+wenn die Bewertung Fragen hinsichtlich eines Interessenkonflikts oder eines Betrugs aufwirft oder TheFork davon ausgeht, dass sie auf einen solchen Konflikt oder einem Betrug hinausläuft;
+
+wenn der Text des Nutzerinhalts so schlecht geschrieben ist, dass er unverständlich ist;
+
+wenn ein Nutzer einen unangemessenen Kommentar zu einem anderen Teil des Nutzerinhalts oder dessen Autor abgibt;
+
+wenn der Nutzerinhalt persönliche Informationen oder Elemente enthält, die zu einem Identitätsdiebstahl führen könnten, wie zum Beispiel Vor- oder Nachnamen von Personen, die keine öffentlichen Personen sind, eine Telefonnummer, eine Postanschrift oder eine E-Mail-Adresse;
+
+wenn der Nutzerinhalt Webseites, Hypertext- Links, URLs, E-Mail-Adressen oder Telefonnummern nennt; oder
+
+es sich eindeutig um Spam handelt.
+
+
+
+Wenn ein Nutzer als Verfasser von betrügerischen Inhalten identifiziert wird, oder wenn TheFork davon ausgeht, dass er betrügerische Inhalte veröffentlicht hat, kann TheFork nach Anwendung der Verfahren zur Ablehnung oder Löschung der Bewertung das Konto des Nutzers deaktivieren (was dessen sämtliche aktuellen Reservierungen storniert und alle gesammelten Yums ungültig macht) und seine gesamten Beiträge löschen.
+
+5.3 Moderation von Bewertungen
+TheFork ist nicht verpflichtet, Bewertungen zu moderieren oder zu entfernen. TheFork moderiert Bewertungen auf Grundlage angemessener Bemühungen, um sicherzustellen, dass Bewertungen diesen Nutzungsbedingungen hinsichtlich ihrer Veröffentlichung, Ablehnung oder Löschung entsprechen. Jede Bewertung wird vor der Veröffentlichung durch automatische Filter moderiert und bei Kennzeichnung durch einen Menschen moderiert. Die Moderationsdauer beträgt maximal zwei Wochen. Nutzer können die Moderation einer zuvor veröffentlichten Bewertung beantragen, indem sie eine E-Mail an kontakt@thefork.at unter Angabe der Gründe für ihren Moderationsantrag senden.
+
+Jeder Nutzer, der eine Bewertung veröffentlicht hat, kann später deren Löschung beantragen, indem er an kontakt@thefork.at schreibt. Stellt TheFork fest, dass ein Restaurant geschlossen wurde oder ein Eigentümerwechsel stattfand, werden Bewertungen, die vor diesem Ereignis abgegeben wurden, gelöscht. TheFork kann Nutzer per E-Mail und/oder Telefon kontaktieren, um die Authentizität ihrer Bewertung zu überprüfen. Die Bewertung kann an eine Webseite, mit der TheFork eine Partnerschaft hat, weitergeleitet und auf dieser Webseite veröffentlicht werden. Nutzer verstehen und erklären sich damit einverstanden, dass TheFork ihre Bewertungen um die folgenden Informationen ergänzen kann: Datum der Registrierung auf der Webseite, Anzahl veröffentlichter Bewertungen, Vorname, der erste Buchstaben des Nachnamens, Status und Datum des Restaurantbesuchs. Gemäß geltendem Recht haben Nutzer das Recht, auf ihre Daten zuzugreifen, sie zu ändern, zu berichtigen und zu löschen, sowie das Recht, der Verarbeitung ihrer Informationen aus legitimen Gründen zu widersprechen. Nutzer können diese Rechte gelten machen, indem sie an kontakt@thefork.at schreiben.
+
+5.4 Bewertungen von mehreren Gästen
+Ein Nutzer, der in einem Restaurant für mehrere Gäste reserviert, wird eingeladen, die E-Mail-Adressen dieser Gäste anzugeben, so dass diese praktische Informationen über die Reservierung erhalten (Adresse des Restaurants, Zeitpunkt der Reservierung …). Nutzer gewährleisten, dass sie die vorherige Genehmigung ihrer Gäste eingeholt haben, deren E-Mail-Adressen gegenüber TheFork anzugeben. Jeder Gast wird eingeladen, eine Bewertung seiner Erfahrungen hinsichtlich des Restaurants, in dem der Nutzer reserviert hat, zu veröffentlichen.
+
+Die zu diesem Zweck gesammelten personenbezogenen Daten werden von TheFork nicht wiederverwendet.
+
+5.5 Recht auf Gegendarstellung
+Jeder Restaurantbetreiber besitzt das Recht auf Gegendarstellung, insbesondere, um:
+
+seine Version der Fakten darzulegen;
+
+dem Verbraucher für seinen Beitrag zu danken; und/oder
+
+Änderungen bezüglich des Restaurants anzugeben, die sich seit dem Verfassen der Bewertung ergeben haben.
+
+Das Recht auf Gegendarstellung muss innerhalb von drei Monaten nach Veröffentlichung der betroffenen Bewertung durch Verwendung des TheFork-Manager-Tools oder durch Absenden einer E-Mail an kontakt@thefork.at ausgeübt werden. Jeder Antrag auf Ausübung des Rechts auf Gegendarstellung per E-Mail muss die folgenden Angaben umfassen:
+
+Einzelheiten der Bewertung;
+
+Angabe des Verfassers;
+
+Angabe der strittigen Abschnitte;
+
+Inhalt der verlangten Antwort (die Antwort darf nicht länger sein als die Bewertung, auf die sie antwortet).
+
+Die Antwort muss den Bestimmungen dieser Nutzungsbedingungen entsprechen und wird gemäß denselben Bedingungen moderiert wie die Bewertung von Nutzern und wird bei Veröffentlichung nach der Bewertung angezeigt, auf die sie sich bezieht.
+
+5.6 Gesamtwertung
+Jeder Nutzer, der über die TheFork-Webseite eine Reservierung in einem Restaurant vorgenommen und diese Reservierung auch wahrgenommen hat, wird eingeladen, sein Esserlebnis zu bewerten.
+
+Die auf der TheFork-Webseite für jedes Restaurant angezeigte Gesamtwertung entspricht einem gewichteten Durchschnitt der abgegebenen Gesamtwertungen.
+
+5.7 Verwendung des Nutzerinhalts
+Nutzer erklären sich damit einverstanden, dass sie durch die Veröffentlichung von Nutzerinhalten auf der TheFork-Webseite automatisch eine unwiderrufliche, dauerhafte, nicht-exklusive, gebührenfreie Lizenz an TheFork erteilen, diesen Nutzerinhalt zu verwenden, zu kopieren, anzuzeigen, anzupassen, zu modifizieren, zu übersetzen, zu vertreiben, zu verteilen oder bewerben zu lassen, in Werbung oder anderen Materialien zu integrieren, abgeleitete Werke davon zu erstellen, diese Nutzerinhalte zu verbessern, zu verbreiten oder anderweitig weltweit zu veröffentlichen und Dritten zu ermöglichen, dies ebenfalls in allen Medien, ob online oder nicht, zu tun. Darüber hinaus gewähren Nutzer durch die Veröffentlichung von Nutzerinhalten auf der TheFork-Webseite automatisch alle Rechte gegenüber TheFork, die notwendig sind, um jegliche Anzeige, Zusammenführung, Vervielfältigung oder Nutzung solcher Nutzerinhalte durch Dritte zu jeglichem Zweck zu verbieten. Nutzer stimmen zu, ihr Urheberpersönlichkeitsrecht hinsichtlich des Nutzerinhalts nicht in einer Weise auszuüben, die mit den oben gewährten Lizenzen unvereinbar ist. Nutzer erklären und garantieren, dass sie berechtigt sind, die oben genannten Lizenzen zu erteilen.
+
+
+
+6. Datenschutz
+TheFork verfügt über eine Datenschutzerklärung und Cookie-Richtlinien zum Schutz der Privatsphäre der Nutzer. Klicken Sie hier, um unsere aktuelle Datenschutzerklärung und Cookie-Richtlinien einzusehen, die auch für die Nutzung der TheFork-Webseite gilt.
+
+
+
+7. Geistiges Eigentum
+7.1 Einhaltung der Bestimmungen nationaler und internationaler Gesetze über geistiges Eigentum
+Nutzer erklären sich damit einverstanden, keine Inhalte, Daten, Informationen oder Gegenstände, die sie von TheFork erhalten haben oder die auf der TheFork-Webseite verfügbar sind, an andere natürliche oder juristische Personen aus irgendeinem Land zu übermitteln, zu kopieren, weiterzuverkaufen, wieder zu veröffentlichen oder allgemein in irgendeiner Form zugänglich zu machen. Nutzer erklären sich dazu bereit, die folgenden Bestimmungen zu geistigem Eigentum zu befolgen.
+
+7.2 Rechtsinhaberschaft
+Sämtliche Urheberpersönlichkeitsrechte und Rechte am geistigen Eigentum, die sich auf Inhalte und Informationen der TheFork-Webseite beziehen, gehören TheFork, mit Ausnahme der Rechte Dritter, für die TheFork die erforderlichen Rechte oder Lizenzen erhalten hat.
+
+Rechte, die den Nutzern durch die Verwendung der TheFork-Webseite und der von TheFork angebotenen Services übertragen werden, beinhalten keine Lizenz oder Erlaubnis zur ganz- oder teilweisen Nutzung oder Verwertung der TheFork-Webseite.
+
+7.3 Schutz aller Elemente: Marken, Designs, Logos, Hyperlinks, Informationen usw.
+Sämtliche Elemente (Marken, Designs, Texte, Hyperlinks, Logos, Bilder, Videos, Geräusche, Software, Bildschirm-Layout, Datenbanken, Codes usw.) in/auf der TheFork-Webseite und zugehörigen Webseites sind durch nationale und internationale Gesetze zum Schutz des geistigen Eigentums geschützt. Diese Elemente bleiben das alleinige Eigentum von TheFork und/oder seinen Lizenzgebern.
+
+7.4 Verbot der unbefugten Verwendung
+Daher dürfen Nutzer ohne vorherige schriftliche Genehmigung von TheFork und/oder den Partnern von TheFork Informationen von der TheFork-Webseite weder ganz noch teilweise reproduzieren, darstellen, neu veröffentlichen, weiterverbreiten, anpassen, übersetzen und/oder ändern oder auf andere Medien übermitteln.
+
+7.5 Strafen
+Nutzer erkennen an und verstehen, dass die Nichteinhaltung der Bestimmungen dieses Artikels 7 eine Verletzung darstellt, die zivil- und strafrechtlich geahndet werden kann.
+
+
+
+8. Haftungsbeschränkungen
+8.1a Warnung für Nutzer mit Wohnsitz außerhalb Deutschlands und Österreichs
+Es ist Sache der Nutzer, vor einer Reservierung in einem der auf der TheFork-Webseite aufgeführten Restaurants alle notwendigen oder zweckmäßigen Überprüfungen vorzunehmen.
+
+TheFork bietet keinerlei Garantie hinsichtlich von Inhalten des Restaurantbetreibers oder von Services und/oder Geschäftspraktiken der auf der TheFork-Webseite aufgeführten Dritten. Dementsprechend garantiert TheFork nicht, dass Nutzer mit den Produkten, Services und/oder Geschäftspraktiken, die sie nach einer über die TheFork-Webseite vorgenommenen Reservierung erfahren haben, zufrieden sind.
+
+TheFork bietet keine Garantie in Bezug auf den Inhalt, die Objektivität oder die Genauigkeit von Nutzerinhalt, insbesondere von auf der Webseite von TheFork veröffentlichten Bewertungen.
+
+8.1b Für Nutzer mit Wohnsitz in Deutschland und Österreich
+Es ist Sache der Nutzer, vor einer Reservierung in einem der auf der TheFork-Webseite aufgeführten Restaurants alle notwendigen oder zweckmäßigen Überprüfungen vorzunehmen.
+
+Eine vertragliche oder außervertragliche Schadensersatzpflicht seitens TheFork besteht nur, sofern der Schaden auf grobe Fahrlässigkeit oder Vorsatz zurückzuführen ist. Für die schuldhafte Verletzung von Leib, Leben oder Gesundheit einer natürlichen Person haftet TheFork nach Maßgabe der gesetzlichen Bestimmungen auch bei nur einfacher Fahrlässigkeit. Zusätzlich haftet TheFork nach Maßgabe der Gesetze auch für die nur einfach fahrlässige Verletzung einer wesentlichen Vertragspflicht („Kardinalpflicht“), allerdings der Summe nach begrenzt auf die Vermögensnachteile, die TheFork bei Abschluss des Vertrages als mögliche Folge der Vertragsverletzung hätte voraussehen müssen. „Wesentliche Vertragspflichten“ im vorgenannten Sinne sind solche Verpflichtungen, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages und die Erreichung des Vertragszweckes überhaupt erst ermöglichen und auf deren Einhaltung der Nutzer regelmäßig nach Inhalt und Zweck des Vertrages vertrauen darf. In diesen oder zusätzlichen Bedingungen vereinbarte Beschränkungen der Haftung von TheFork gelten auch für eine etwaige persönliche Haftung der Organe, Angestellten oder Erfüllungsgehilfen von TheFork. Eventuelle zwingende Produkthaftungsansprüche nach Produkthaftungsgesetz sowie Ansprüche aus einer etwaigen Beschaffenheitsgarantie, bleiben von den vorstehenden Einschränkungen unberührt.
+
+Der Nutzer verpflichtet sich, geeignete Maßnahmen zur Vermeidung und Minderung von Schäden zu ergreifen.
+
+8.2 Änderung der TheFork-Webseite
+Angesichts der Interaktivität der TheFork-Webseite können alle darin enthaltenen Informationen jederzeit geändert werden, ohne dass TheFork dafür verantwortlich ist.
+
+8.3 Nutzung der TheFork-Webseite
+Aufgrund der besonderen Beschaffenheit des Internets garantiert TheFork keinen ununterbrochenen Zugang zu der TheFork-Webseite oder die Kontinuität des Services, wobei die einzige Verpflichtung von TheFork darin besteht, sich in dieser Hinsicht angemessen zu bemühen.
+
+TheFork haftet nicht für den Ausfall des Zugriffs auf die TheFork-Webseite oder für Schäden oder Verluste, die sich aus der Nutzung oder der Unmöglichkeit der Nutzung der TheFork-Webseite oder ihres Inhalts ergeben, außer in den Fällen, in denen dies gesetzlich vorgeschrieben ist.
+
+TheFork garantiert nicht, dass die angezeigten Informationen detailliert, vollständig, geprüft, oder zutreffend sind. Inhalte des Restaurantbetreibers, Informationen, Restaurantseiten und allgemein jeder Inhalt auf der TheFork-Webseite werden „wie besehen“ ohne ausdrückliche oder stillschweigende Gewährleistung jeglicher Art zur Verfügung gestellt.
+
+Nutzer erkennen ausdrücklich an, dass die Fotos auf der TheFork-Webseite nicht vertraglich festgelegt sind.
+
+Nutzer akzeptieren und erkennen generell an, dass die Reservierung bei einem Restaurant nicht garantiert ist. Entsprechend garantiert TheFork nicht die Wirksamkeit des Reservierungsservices.  Die Verfügbarkeit wird in Echtzeit per Computer überprüft. Da TheFork jedoch die Richtigkeit der von den Restaurants gesammelten und/oder bereitgestellten Informationen nicht physisch überprüfen kann, stimmen die Nutzer zu, dass TheFork nicht haftbar gemacht werden kann, wenn die Nutzer von den Services des Restaurants nicht profitieren. Tatsächlich sind die Einstellungen der Echtzeit-Reservierungssoftware teilweise von den vom Restaurant bereitgestellten und/oder aufgezeichneten Informationen abhängig und entsprechen möglicherweise nicht der Realität. Daher erkennen Nutzer zum Beispiel und unbeschränkt an und akzeptieren, dass TheFork in keiner Weise haftet, wenn eine Reservierung storniert wird, das Restaurant aus irgendeinem Grund geschlossen ist oder sich Dritte aus irgendeinem Grund weigern, irgendeinen Service zu erbringen.
+
+Ebenso akzeptieren Nutzer, dass TheFork in keiner Weise haftbar ist, wenn Nutzer nicht von Werbeaktionen oder Sonderangeboten eines Restaurants profitieren. Nutzer erkennen an und akzeptieren, dass TheFork in keiner Weise haftbar ist, falls das Restaurant eine Werbeaktion oder ein Sonderangebot aus irgendeinem Grund nicht einhält.
+
+8.4 Garantien und Entschädigung für Nutzer
+Nutzer garantieren, dass sie mit den Funktionen und Einschränkungen des Internets voll vertraut sind. Insbesondere erkennen sie an, dass es unmöglich ist, eine Garantie dafür abzugeben, dass von Nutzern über das Internet gesendete Daten vollständig sicher sind. TheFork kann nicht für Vorfälle verantwortlich gemacht werden, die sich aus dieser Datenübermittlung ergeben können.
+
+Nutzer erklären sich damit einverstanden, TheFork für jegliche Haftung, Schäden, Ausgaben, Ansprüche oder Kosten zu entschädigen, die TheFork aufgrund von gerichtlichen oder außergerichtlichen Ansprüchen oder Streitigkeiten in Verbindung mit der Nutzung der Services von TheFork, einschließlich der Veröffentlichung von Nutzerinhalten auf der TheFork-Webseite durch Nutzer, entstehen.
+
+In jedem Fall erkennen Nutzer ausdrücklich an und erklären sich damit einverstanden, die TheFork-Webseite auf eigenes Risiko und im Rahmen ihrer alleinigen Verantwortung zu nutzen.
+
+8.5 Benachrichtigung und Entfernung illegaler Inhalte
+Jeder Nutzer kann eine Forderung oder einen Einspruch in Bezug auf illegale Elemente oder Inhalte, die auf der TheFork-Webseite veröffentlicht wurden, vorbringen.
+
+Wenn ein Nutzer glaubt, dass Elemente oder Inhalte, die auf der TheFork-Webseite veröffentlicht sind, illegal sind und/oder gegen sein Urheberrecht verstoßen, muss er TheFork per Einschreiben mit Rückschein an die „Rechtsabteilung“ oder per E-Mail an kontakt@thefork.at benachrichtigen und in der Betreffzeile „zu Händen der Rechtsabteilung“ angeben und alle verfügbaren Beweise für die Inhaberschaft der Rechte, falls vorhanden, beifügen. Sobald dieses Verfahren befolgt wurde und nachdem die Richtigkeit des Hinweises überprüft wurde, bemüht sich TheFork darum, den illegalen Inhalt umgehend zu entfernen.
+
+TheFork fungiert als Vermittler bei der Bereitstellung seines Services für die Nutzer. Folglich und in Übereinstimmung mit Art. 6 I.3 des französischen Gesetzes über das Vertrauen in die digitale Wirtschaft (LCEN) vom 21. Juni 2004 (in der aktuellen Fassung) und der Richtlinien 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte rechtliche Aspekte der Dienste der Informationsgesellschaft, insbesondere des elektronischen Geschäftsverkehrs im Binnenmarkt („Richtlinien über den elektronischen Geschäftsverkehr“), kann TheFork nicht für die auf der TheFork-Webseite gespeicherten Informationen verantwortlich gemacht werden, wenn TheFork keine tatsächliche Kenntnis von der illegalen Aktivität oder Information hatte (einschließlich von Nutzerinhalten, Inhalten von Restaurantbetreibern usw.) oder wenn, sobald TheFork davon Kenntnis erlangte, unverzüglich Maßnahmen ergriffen wurden, um diese Information zu entfernen oder den Zugang zu ihnen zu sperren.
+
+
+
+9. Sonstige Bestimmungen
+9.1 Trennbarkeit - Abgrenzung - Überschriften
+Sollte eine Bestimmung dieser Nutzungsbedingungen für nichtig, ungesetzlich, nicht durchsetzbar oder nicht anwendbar erklärt werden, so wird die Gültigkeit, Rechtmäßigkeit, Durchsetzbarkeit oder Anwendung der anderen Bestimmung dieser Nutzungsbedingungen in keiner Weise beeinträchtigt und die verbleibenden Bestimmungen bleiben in Kraft und behalten ihre volle Wirksamkeit.
+
+TheFork kann eine neue Klausel mit der Wirkung der Wiederherstellung des gemeinsamen Willens der Parteien, wie er in der ursprünglichen Klausel zum Ausdruck kommt, in Übereinstimmung mit dem geltenden Recht ausarbeiten.
+
+Die Überschriften der hierin enthaltenen Artikel dienen nur zur Veranschaulichung und sind nicht als Bestandteil dieser Nutzungsbedingungen zu betrachten.
+
+9.2 Kein Verzicht
+Sofern in diesen Nutzungsbedingungen nichts anderes vorgesehen ist, stellt die Nichtausübung oder verzögerte Ausübung durch TheFork hinsichtlich eines ihrer Rechte oder Rechtsmittel gemäß den Bedingungen dieser Nutzungsbedingungen keinen Verzicht auf das Recht oder das Rechtsmittel dar und verhindert auch nicht die weitere Ausübung des Rechts oder Rechtsmittels. Im Gegenteil, ein solches Recht oder Rechtsmittel bleibt in vollem Umfang in Kraft und wirksam.
+
+9.3 Anwendbares Recht
+Soweit gesetzlich zulässig, werden die vorliegenden Nutzungsbedingungen und die Beziehung zwischen TheFork und den Nutzern gemäß französischem Recht geregelt und ausgelegt. Soweit gesetzlich zulässig, hat in Fällen, in denen diese Nutzungsbedingungen in andere Sprachen verfasst oder übersetzt wurden, nur die französische Version dieser Nutzungsbedingungen Vorrang.
+
+9.4 Gerichtsbarkeit
+Soweit gesetzlich zulässig, werden alle Ansprüche, Streitigkeiten oder Angelegenheiten, die sich aus oder in Verbindung mit diesen Nutzungsbedingungen ergeben, von den zuständigen Gerichten in Paris behandelt.
+
+Gemäß der EU-Richtlinien 2013/11/EU vom 21. Mai 2013 über die außergerichtliche Beilegung von Verbraucherrechtsstreitigkeiten finden Sie den Link zur europäischen Online-Streitschlichtungsplattform unter https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.show&lng=EN
+
+
+
+TEIL 2. TREUEPROGRAMM - BESONDERE BEDINGUNGEN
+Dieses „Treueprogramm - Besondere Bedingungen“ ergänzt Teil 1: „Allgemeine Nutzungsbedingungen“. Im Falle eines Widerspruchs zwischen den Bestimmungen in diesem Teil 2, „Treueprogramm - Besondere Bedingungen“, und den Bestimmungen in Teil 1, „Allgemeine Nutzungsbedingungen“, haben die Bestimmungen in diesem Teil 2, „Treueprogramm - Besondere Bedingungen“ Vorrang.
+
+
+
+1. Beschreibung des Treueprogramms
+Das Treueprogramm ermöglicht es den Nutzern, nach einer Reservierung über die TheFork-Webseite, die ordnungsgemäß wahrgenommen wurde, Treuepunkte („Yums“) zu sammeln (das „Treueprogramm“).
+
+
+
+2. Teilnahme am Treueprogramm
+Jeder Nutzer, der ein Konto auf der TheFork-Webseite hat, ist zur Teilnahme am Treueprogramm berechtigt.
+
+Die Teilnahme am Treueprogramm ist kostenlos und automatisch.
+
+
+
+3. Der Erwerb von Yums
+3.1 Allgemeine Bedingungen für den Erwerb von Yums
+Das Treueprogramm ermöglicht es den Nutzern, nach einer Reservierung über die TheFork-Webseite, die ordnungsgemäß wahrgenommen wurde, Treuepunkte zu sammeln, unabhängig davon, in welchem Restaurant über die TheFork-Webseite reserviert wurde und ob die Reservierung mit oder ohne Werbeangebot erfolgte.
+
+Wenn eine Reservierung auf der TheFork-Webseite vorgenommen und ordnungsgemäß wahrgenommen wurde, erhalten die Nutzer sieben Tage nach dem Datum des Essens eine vordefinierte Anzahl von Yums (die insbesondere je nach Reservierungsmethode - Webseite, Mobiltelefon oder Anwendung - variieren kann), unabhängig von der Anzahl der mit der Reservierung verbundenen Gäste und unabhängig vom Land, in dem die Reservierung vorgenommen wurde.
+
+Falls die Reservierung mit einem Treuerabatt (wie in Artikel 4.1 unten definiert) vorgenommen oder vom Nutzer storniert wird oder falls der Nutzer nicht ins Restaurant geht und die Reservierung einlöst (Nichterscheinen), verdient der Nutzer keine Yums.
+
+Die Zahl der von jedem Nutzer verdienten Yums wird gespeichert und kann im Abschnitt „Mein Treuekonto“ des Nutzerkontos abgerufen werden.
+
+3.2 Besondere Bedingungen für den Erwerb von Yums
+3.2.1 Sonderaktionen mit Werbecode
+Von Zeit zu Zeit führt TheFork für einen begrenzten Zeitraum Sonderaktionen durch, bei denen die Nutzer mehr Yums als gewöhnlich erhalten können (die „Sonderaktion“).
+
+Während jeder Sonderaktion erhalten die Nutzer eine E-Mail, in der die Bedingungen für den Erwerb zusätzlicher Yums angegeben sind. Eine dieser Bedingungen ist die Verpflichtung zur Teilnahme an einer Werbeaktion, wenn der Nutzer seine nächste Reservierung auf der TheFork-Webseite vornimmt (der „Werbecode“).
+
+Die Summe der durch die Sonderaktion erhalten Yums wird gespeichert und kann im Bereich „Mein Treuekonto“ des Benutzerkontos abgerufen werden.
+
+Nach Ausgabe ist die Gültigkeitsdauer des Werbecodes auf die Dauer der Sonderaktion begrenzt. Der Werbecode hat keinen Geldwert und kann an niemanden verliehen, übertragen oder verkauft werden oder für andere Zwecke als die von TheFork in diesem Abschnitt „Treueprogramm - Besondere Bedingungen“ definierten Zwecke verwendet werden.
+
+
+
+4. Verwendung von Yums
+4.1 Umrechnung des Treuerabatts
+Sobald sie erworben wurden und nachdem eine Reservierung über die TheFork-Webseite erfolgt ist, können Yums in einen Preisrabatt umgerechnet werden, der von der Rechnung des Restaurants, das am Treueprogramm teilnimmt, abgezogen wird (der „Treuerabatt“).
+
+Die Tabelle für die Umrechnung von Yums in einen Treuerabatt ist hier verfügbar.
+
+Die Liste aller am Treueprogramm teilnehmenden Partnerrestaurants ist im Treue-Bereich des Nutzerkontos auf der TheFork-Webseite verfügbar. Die Partnerrestaurants sind ebenfalls überall auf der TheFork-Webseite mit einer speziellen Erwähnung gekennzeichnet.
+
+Um Yums in einen Treuerabatt umzuwandeln, müssen Nutzer ein Partnerrestaurant des Treueprogramms auswählen, die Option Treuerabatt und ein Zeitfenster, in dem der Treuerabatt akzeptiert wird, wählen, bevor sie ihre Reservierung bestätigen.
+
+Das Treueprogramm-Partnerrestaurant ist dann dafür verantwortlich, den Treuerabatt automatisch und ohne weitere Formalitäten von der Rechnung abzuziehen.
+
+Wenn der Betrag des Treuerabatts höher ist als der Rechnungsbetrag, darf der vom Restaurant vorgenommene Abzug den Rechnungsbetrag nicht überschreiten. Mit anderen Worten, das Restaurant kann dem Nutzer nicht die Differenz zwischen dem Betrag des Treuerabatts und dem Rechnungsbetrag auszahlen.
+
+Falls es ein Werbeangebot gibt, das mit einem Treuerabatt kombiniert werden kann, wendet das Restaurant das Werbeangebot vor dem Abzug des Treuerabatts an.
+
+Von Nutzern erworbene Yums können während ihres Gültigkeitszeitraums in einen Treuerabatt umgerechnet werden, wie auf der Treueprogramm-Präsentationsseite auf der TheFork-Webseite dargestellt. Das Ablaufdatum von Yums kann im Bereich „Mein Treuekonto“ des Nutzerkontos eingesehen werden.
+
+Yums sind streng personengebunden, haben keinen Geldwert und können an niemanden ausgeliehen, übertragen oder verkauft oder für andere Zwecke als die von TheFork in diesem „Treueprogramm - Besondere Bedingungen“ definierten Zwecke verwendet werden.
+
+4.2 Stornierung / Nichterscheinen
+Wenn ein Nutzer mit einem Treuerabatt reserviert hat und die Reservierung storniert oder wenn das Restaurant die Reservierung storniert, werden die zum Zeitpunkt der Reservierung in einen Treuerabatt umgewandelten Yums dem Konto des Benutzers wieder gutgeschrieben und können für eine neue Reservierung verwendet werden.
+
+Wenn ein Nutzer das Restaurant nicht aufsucht (Nichterscheinen), gehen der Treuerabatt und die so umgewandelten Yums verloren und werden dem Konto des Nutzers nicht wieder gutgeschrieben.
+
+
+
+5. Löschung von Yums
+TheFork behält sich vor, Yums, die durch die Verwendung von Werbecodes oder Sponsoringcodes durch einen Nutzer erhalten wurden, zurückzuhalten oder zu löschen, wenn TheFork in nachvollziehbarer Weise feststellt oder glaubt, dass die Verwendung oder Einlösung des Werbecodes oder Sponsoringcodes betrügerisch, illegal, irrtümlich oder unter Verletzung der anwendbaren Sonderaktions-Bedingungen oder dieses Abschnitts „Treueprogramm - Besondere Bedingungen“ erfolgt ist.
+
+Darüber hinaus kann die Nichteinhaltung dieser Nutzungsbedingungen durch Nutzer (einschließlich der Nichtwahrnehmung mehrerer Reservierungen (Nichterscheinen)), jeglicher Missbrauch oder betrügerischer Gebrauch der TheFork-Webseite und/oder der Yums oder jegliches Verhalten, das den Interessen von TheFork schadet, die Deaktivierung des Nutzerkontos und/oder die sofortige Löschung aller oder eines Teils der Yums, die im Treuebereich des Nutzerkontos auf der TheFork-Webseite gespeichert sind, ohne vorherige Ankündigung oder Entschädigung zur Folge haben.
+
+
+
+6. Änderung/Aussetzung/Einstellung/Schließung des Treueprogramms
+TheFork behält sich vor, das Treueprogramm jederzeit zu modifizieren, auszusetzen oder zu beenden, ohne jegliche Haftung dafür zu übernehmen. In diesem Fall wird TheFork die Nutzer per E-Mail und/oder durch Veröffentlichung auf der TheFork-Webseite unter Angabe der neuen Bedingungen des Treueprogramms und/oder der Bedingungen für die Beendigung des Treueprogramms informieren.
+
+
+
+7. Haftungsbeschränkung
+In Bezug auf das Treueprogramm ist TheFork nur verpflichtet, angemessene Anstrengungen zu unternehmen und die Haftung nur in Bezug auf die Zuteilung von Yums an die Nutzer zu übernehmen. Folglich kann TheFork nicht für irgendwelche Ansprüche in Bezug auf Yums haftbar gemacht werden, nachdem diese einem Nutzer von TheFork ordnungsgemäß zugeschrieben wurden. Insbesondere haftet TheFork nicht mehr, wenn Yums von einem Nutzer in einen Treuerabatt umgewandelt wurden.
+
+Daher ist TheFork nicht verantwortlich für das Versäumnis des Restaurants, den Treuerabatt auf den Nutzer anzuwenden.
+
+In jedem Fall lehnt TheFork jegliche Verantwortung in Zusammenhang mit dem Treueprogramm im Falle eines Vertragsbruchs und/oder Fehlers des Nutzers ab.
+
+Darüber hinaus gelten die in Artikel 8 von Teil 1 - Allgemeine Nutzungsbedingungen - vorgesehenen Haftungsbeschränkungen.
+
+
+
+
+
+
+
+C. DATENSCHUTZERKLÄRUNG UND COOKIE-RICHTLINIEN
+
+
+
+
+Letzte Aktualisierung: 3. Juni 2021
+
+Wir wissen, dass das Teilen Ihrer personenbezogenen Daten auf Ihrem Vertrauen uns gegenüber basiert. Diese Verantwortung nehmen wir ernst und verpflichten uns, Ihre Daten zu schützen, wenn Sie unsere Webseite besuchen oder unsere Dienste nutzen. Bitte lesen Sie sich diese Erklärung sorgfältig durch, damit Sie über unsere Datenschutzpraktiken informiert sind.
+
+Wir betreiben einen Online-Dienst, der den Benutzern („Sie“, „Ihnen“) ermöglicht, einen Tisch in einem Restaurant zu reservieren und, in bestimmten Locations, für die Bewirtung zu bezahlen. In dieser Erklärung werden diese oben genannten Dienstleistungen zusammenfassend als unsere Dienste bezeichnet.
+
+Unsere Dienste werden von La Fourchette SAS in der Eigenschaft als Eigentümer und Datenverantwortlicher betrieben. Indem Sie unsere Webseites und die damit verbundenen Anwendungen besuchen, entweder auf einem Computer, Smartphone, Tablet-PC oder einem ähnlichen Gerät (diese werden alle jeweils als "Gerät" bezeichnet), stimmen Sie den nachfolgend beschriebenen Praktiken zu.
+
+Als globales Unternehmen sind wir in vielen unterschiedlichen Ländern und Gebieten tätig, in denen sich die Gesetze und Gepflogenheiten voneinander unterscheiden. Diese Erklärung gibt Ihnen einen generellen Überblick über unsere Datenschutzpraktiken; bestimmte länderspezifische Informationen finden Sie durch Auswahl Ihres Wohnsitzes in den Links am Ende dieser Erklärung.
+
+Erfasste Daten
+Wenn Sie auf unsere Dienste zugreifen oder diese nutzen, erfassen wir Informationen von Ihnen und über Sie, um ein personalisierteres und relevanteres Nutzererlebnis bereitzustellen. Manche Informationen erfassen wir automatisch. Andere Informationen erhalten wir aus verschiedenen Quellen, unter anderem von verbundenen Unternehmen, Geschäftspartnern und anderen unabhängigen Drittquellen. Wenn Sie unsere Dienste nutzen, indem Sie sich von einer Webseite eines Drittanbieters "durchklicken", oder wenn Sie Webseites von Drittanbietern über unsere Dienste besuchen, können diese Webseites von Drittanbietern Informationen über Ihre Nutzung ihrer Dienste mit uns teilen. Die erfassten Informationen können folgendes beinhalten:
+
+Kontaktinformationen, einschließlich Name, Telefonnummer sowie Post- und E-Mail-Adressen
+Rechnungs- oder Zahlungsinformationen (wie z. B. Ihre Kreditkartennummer, Name des Karteninhabers, Ablaufdatum, Authentifizierungscode und Rechnungsadresse) über unsere Partnerschaft mit einem vertrauenswürdigen Zahlungsdienstleister
+Benutzername und Passwort
+Fotos, Bewertungen, Beiträge in sozialen Medien, die Sie uns zur Verfügung gestellt haben
+Informationen zur Geolokalisierung
+Geräteinformationen, beispielsweise wenn Sie auf unsere Dienste zugreifen, und Informationen über das verwendete Gerät (zum Beispiel IP-Adresse, verwendete Software oder Internetbrowser, bevorzugte Sprachen, eindeutige Gerätekennungen und Werbekennzeichen)
+Online-Aktivitäten, einschließlich der von Ihnen besuchten Seiten, bewerteter Inhalte und bewerteter Apps
+Übersicht über getätigte Restaurant-Reservierungen
+Informationen über Ihre Restaurant-Reservierungen und Präferenzen
+Wir können außerdem in Fällen, in denen Sie dies zur Verfügung gestellt haben, Informationen über andere Restaurantgäste, einschließlich ihrer E-Mail-Adresse und anderer Reservierungsinformationen, erfassen, wie beispielsweise ihren Vor- und Nachnamen. Sie müssen die Einwilligung anderer Personen einholen, wenn Sie deren Daten an uns weitergeben.
+
+Zusätzlich zu den oben genannten Kategorien erfassen wir gegebenenfalls Standortdaten, wenn Sie Ihr Gerät über die Datenschutzeinstellungen so eingestellt haben, dass Ihr Gerät diese Informationen sendet, oder wenn Sie beispielsweise Fotos hochgeladen haben, die mit Standortinformationen gekennzeichnet sind. Wir können Ihre Standortdaten direkt verwenden und/oder Ihren Standort an Dritte weitergeben. Wir sammeln und teilen die Standortdaten weiter, um Ihnen relevante Inhalte anzubieten, um Ihre Nutzung unserer Dienste zu analysieren, um unsere Dienste zu verbessern und um Empfehlungen bereitzustellen. Beispielsweise nutzen wir Ihren Standort gegebenenfalls dazu, um Ihnen Restaurants in Ihrer Nähe anzuzeigen.
+
+Sie können die Datenschutzeinstellungen Ihres Geräts jederzeit ändern, um die Funktion zum Erfassen und Freigeben von Standortinformationen und/oder die Funktion zum Markieren Ihrer Fotos mit Standortinformationen zu deaktivieren. Das Deaktivieren der Standortfreigabe kann sich jedoch auf bestimmte von uns angebotene Funktionen auswirken. Wenn Sie Fragen zu den Datenschutzeinstellungen Ihres Geräts haben, wenden Sie sich bitte an den Hersteller Ihres Geräts oder an Ihren Mobilfunkanbieter.
+
+Weitere Informationen über die Verwendung von Cookies und anderen in diesem Abschnitt beschriebenen Technologien, einschließlich Ihrer Entscheidungen in Bezug auf diese Technologien, finden Sie unten.
+
+Nutzung von Daten
+Wir verpflichten uns, Ihnen relevante Inhalte auf unseren Diensten zur Verfügung zu stellen und die Datenschutzgesetze der verschiedenen Länder, in denen wir geschäftlich tätig sind, einzuhalten. Wir verwenden Informationen über Sie, damit wir Sie folgendermaßen dabei unterstützen können, unsere Dienste zu genießen und zu nutzen:
+
+Registrieren und Verwalten Ihres Kontos, auch um Ihnen den Zugriff auf und die Nutzung unserer Dienste zu ermöglichen
+Erleichterung Ihrer Restaurant-Reservierungen
+Messen des Interesses an und Verbesserung unserer Dienste
+Um Sie über Sonderangebote oder Dienste von uns, unseren verbundenen Unternehmen, Partnern oder über Restaurants zu benachrichtigen, die möglicherweise für Sie interessant sind
+Durchführung und Verwaltung des Treueprogramms
+Kommunikation mit Ihnen
+Um uns zu ermöglichen, Ihre Bewertungen, Ratings, Forumposts, Fotos und andere Inhalte zu veröffentlichen
+Um Preisausschreiben, Wettbewerbe oder Umfragen zu organisieren
+Anpassen des Benutzererlebnisses, einschließlich der Anpassung der Werbung, die Ihnen auf unseren Diensten und im Internet angezeigt wird
+Rückschlüsse auf Ihre Interessen oder Präferenzen ziehen
+Bereitstellen eines optimierten Erlebnisses und Gruppieren der Benutzer unserer Dienste anhand von z. B. Nutzung und demographischer Zusammensetzung
+Versenden von Einladungen zu Umfragen oder Marktforschungen
+Beantwortung Ihrer Fragen und Kommentare
+Beilegung von Streitigkeiten und Behebung von Problemen
+Verhindern von möglicherweise verbotenen oder rechtswidrigen Aktivitäten
+Durchsetzung unserer Nutzungsbedingungen und Datenschutzerklärungen; und wie Ihnen anderweitig zum Zeitpunkt der Erfassung erläutert
+Bitte beachten Sie, dass wir bestimmte Informationen über Sie benötigen, um Ihnen relevante Angebote unserer verbundenen Unternehmen, Partner und Restaurants bereitzustellen und es Ihnen zu ermöglichen, andere Vorteile registrierter Benutzer in Anspruch zu nehmen. Weitere Informationen zu Ihren Wahlmöglichkeiten in Bezug auf die Erhebung und Nutzung Ihrer Daten finden Sie im Abschnitt "Datenwahlmöglichkeiten".
+
+Weitergabe von Daten
+Um einige unserer Dienste bereitstellen zu können, müssen wir unter den folgenden Umständen Informationen an bestimmte andere Dritte, einschließlich unserer Unternehmensgruppe, weitergeben:
+
+Unsere Unternehmensgruppe. Wir geben Informationen an Unternehmen unserer Unternehmensgruppe weiter, um Ihnen Informationen zu Restaurants und anderen Produkten und Dienstleistungen bereitstellen zu können, die für Sie von Interesse sein könnten. Diese Unternehmen und Webseites halten sich an die vorliegende Datenschutzerklärung und alle anwendbaren Gesetze für die Übermittlung von Werbematerial.
+Restaurants. Wir geben Ihre Informationen an unsere Partnerrestaurants weiter, damit diese Ihre Restaurantreservierung durchführen und verwalten und Beschwerden oder Streitigkeiten in Bezug auf diese Restaurants bearbeiten können. Wenn Sie eine Reservierung vornehmen, können Sie sich möglicherweise dafür entscheiden, Marketingmitteilungen von dem betreffenden Restaurant zu erhalten. Wenn Sie dem Erhalt von Marketingmitteilungen des Restaurants zustimmen, ist das Restaurant dann für die gesamte Verarbeitung der Informationen, die wir an das Restaurant weitergeben, verantwortlich.
+Anbieter. Wir geben Informationen an bestimmte Anbieter weiter, die wir zur Erleichterung unserer Dienste beauftragen, einschließlich zur Unterstützung von Transaktionen.. 
+Geschäftspartner. Wir können Informationen über Sie, Ihre Geräte und Ihre Nutzung unserer Dienste an unsere vertrauenswürdigen Geschäftspartner weitergeben. So können wir beispielsweise Informationen weitergeben, um Ihnen relevante Inhalte zur Verfügung zu stellen oder um die Bezahlung Ihrer Bewirtung in einem Restaurant zu erleichtern. Diese Weitergabe erfolgt im Allgemeinen auf der Grundlage von schriftlichen Vereinbarungen, die Vertraulichkeits-, Datenschutz- und Sicherheitsverpflichtungen beinhalten; bitte beachten Sie jedoch, dass wir die Datenschutzpraktiken dieser externen Geschäftspartner nicht kontrollieren.
+Soziale Medien. Wenn Sie unsere Dienste nutzen und sich dafür entscheiden, Informationen mit Social-Media-Webseites von Drittanbietern zu teilen, unterliegen die von Ihnen geteilten Informationen den Datenschutzrichtlinien dieser Social-Media-Webseites und den Datenschutzeinstellungen, die Sie für diese Social-Media-Webseites festgelegt haben.
+Werbenetzwerke. Manchmal erheben und teilen wir Informationen über Ihre Interessen mit Werbenetzwerken. Einige dieser Unternehmen sind Mitglieder der Network Advertising Initiative oder der Digital Advertising Alliance, die es ermöglichen, die Zustimmung zu zielgerichteten Anzeigen von Mitgliedsunternehmen von einem Ort aus zu verweigern. Wenn Sie weitere Informationen erhalten möchten, klicken Sie bitte hier.
+Andere Dritte, wie beispielsweise verweisende Webseites.Dritte können uns bei der Erfassung von Informationen unterstützen, zum Beispiel indem sie Funktionen auf unserer Webseite betreiben oder die Bereitstellung von auf Ihre Interessen abgestimmter Online-Werbung ermöglichen. Wir können Zielgruppensegmente und andere Informationen an Dritte weitergeben, die diese Informationen für maßgeschneiderte Werbung für Sie verwenden.
+Dritte dürfen nur dann Informationen erheben oder darauf zugreifen, wenn dies zur Erfüllung ihrer zulässigen Funktionen erforderlich ist.
+
+Einige Versionen der Betriebssysteme bestimmter Geräte ermöglichen es Ihnen, bestimmte Arten des Informationsaustauschs, einschließlich in bestimmten Werbenetzwerken, abzulehnen. Bitte überprüfen Sie Ihre Geräteeinstellungen, wenn Sie die Nachverfolgung einschränken möchten.
+
+Datenwahlmöglichkeiten
+Sie verfügen in Bezug auf die Erhebung und Nutzung Ihrer Daten über bestimmte Rechte und Wahlmöglichkeiten. Über die Seite „Meine persönlichen Informationen“ auf unserer Webseite können Sie auf Ihr Konto zugreifen, es aktualisieren oder sogar schließen.
+
+Ihre Optionen:
+
+Sie könne die Art und Weise, wie wir mit Ihnen kommunizieren sollen, auswählen. Sie können auswählen, dass Sie uns bestimmte Daten nicht bereitstellen möchten, auch wenn diese möglicherweise erforderlich sind, um bestimmte auf unseren Webseites angebotene Funktionen nutzen zu können.
+Sie können die Erhebung von Informationen zur Geolokalisierung ausschalten; beachten Sie jedoch, dass sich das Deaktivieren der Standortinformationen auf bestimmte Funktionen unserer Dienste auswirken kann.
+Sie können auch Informationen hinzufügen oder aktualisieren und Ihr Konto schließen. Wenn Sie Ihr Benutzerkonto schließen, werden wir Ihr Konto deaktivieren und Ihre Profilinformationen aus der aktiven Ansicht entfernen. Wir können einige Informationen, die mit Ihrem Konto verbunden sind (einschließlich früherer Reservierungen), für interne Zwecke wie Backups, Betrugsprävention, Streitbeilegung, Untersuchungen und Rechtskonformität für den Zeitraum aufbewahren, der zur Erfüllung der in dieser Erklärung genannten Zwecke erforderlich ist.
+Als registrierter Benutzer können Sie Ihre Werbeabonnements, einschließlich der Optionen für E-Mail-Abonnements, jederzeit in Ihren Kontoeinstellungen ändern. Sie haben die Gelegenheit, Werbemitteilungen in E-Mails von uns abzubestellen.
+Übertragungen von Daten
+Wir sind ein globales Unternehmen und sind in vielen unterschiedlichen Ländern tätig. Wenn wir Ihre Daten in andere Länder übermitteln, verwenden und schützen wir diese Informationen wie in dieser Erklärung beschrieben und in Übereinstimmung mit geltendem Recht.
+
+Sicherheit von Daten
+Wir haben geeignete administrative, technische und physische Sicherheitsverfahren eingerichtet, um Ihre Daten zu schützen.
+
+Wir berechtigen nur bestimmte Mitarbeiter dazu, auf personenbezogene Daten zugreifen, und dies auch nur für zulässige Geschäftsfunktionen. Wir verwenden eine Verschlüsselung bei der Übertragung Ihrer Daten zwischen Ihrem und unserem System sowie zwischen unserem System und den Systemen der Drittparteien, mit denen wir Informationen teilen. Außerdem haben wir Firewalls und Angriffserkennungssysteme installiert, um zu verhindern, dass nicht autorisierte Personen Zugriff auf Ihre Informationen erhalten. Wir können die Sicherheit von Informationen vor unbefugtem Zugriff oder unbefugter Nutzung, Hardware- oder Softwareausfall oder anderen Umständen außerhalb unserer Kontrolle jedoch nicht garantieren.
+
+Aufbewahrung von Daten
+Wir speichern so lange Kopien Ihrer Daten, wie Sie Ihr Konto unterhalten oder wie es im Zusammenhang mit den in dieser Erklärung dargelegten Zwecken erforderlich ist, es sei denn, nach geltendem Recht ist eine längere Aufbewahrungsfrist erforderlich. Darüber hinaus können wir Ihre Daten für die Dauer eines Zeitraums aufbewahren, der zur Begründung, Ausübung oder Verteidigung von Rechten erforderlich ist.
+
+DNT-Signale (Do Not Track)
+Unsere Webseite ist derzeit nicht darauf ausgelegt, auf „Do Not Track” ("DNT")-Signalanfragen von Browsern zu reagieren. Dies liegt daran, dass es keine weltweit einheitliche Interpretation gibt, die "Do Not Track"-Signale definiert. Sobald die Branche diesbezüglich Standards vereinbart hat, werden wir diesen Ansatz möglicherweise neu bewerten.
+
+Cookies
+Wir möchten, dass Ihr Zugriff auf unsere Dienste so einfach, effizient und nützlich wie möglich ist. Um uns dabei zu helfen, verwenden wir Cookies und ähnliche Technologien, um Ihr Erlebnis zu verbessern, die Sicherheit der Webseite zu erhöhen und Ihnen relevante Werbung zu zeigen.
+
+Was sind Cookies?
+
+Cookies sind kleine Textdateien, die beim Besuch fast jeder Webseite automatisch auf Ihrem Gerät gespeichert werden. Sie werden von Ihrem Internet-Browser gespeichert und enthalten grundlegende Informationen über Ihre Internetnutzung. Ihr Browser sendet diese Cookies jedes Mal an eine Webseite zurück, wenn Sie diese besuchen, damit Ihr Gerät wiedererkannt und Ihr Erlebnis unter anderem dadurch verbessert wird, dass Sie personalisierte Inhalte erhalten. Wir verwenden Cookies auch, um Ihre Zugangsdaten zu speichern, damit Sie diese nicht wiederholt eingeben müssen, wenn Sie unsere Dienste nutzen. Andere Cookies helfen uns dabei, Ihre Präferenzen zu verstehen.
+
+Die Cookies, die wir verwenden, lassen sich in drei Kategorien einteilen.
+
+Kategorie
+
+Beispiel
+
+Essenziell
+
+Diese Cookies sind notwendig, um Ihnen den Zugriff auf die Webseite zu erleichtern, sich auf der Webseite zu bewegen und alle ihre Funktionen zu nutzen. Ohne diese Cookies würde die Webseite nicht richtig funktionieren und Sie könnten bestimmte wichtige Funktionen nicht nutzen. Zum Beispiel wir verwenden ein Cookie, damit Sie während Ihres gesamten Besuchs angemeldet bleiben und sich nicht wiederholt anmelden müssen, um auf verschiedene Seiten zuzugreifen. Wir können Essential-Cookies auch zur Betrugserkennung und -prävention verwenden.
+
+Sie können Essential-Cookies nicht deaktivieren, da diese Cookies für den Zugriff und die Nutzung der Funktionen der Webseite erforderlich sind.
+
+
+
+Analyse und Anpassung
+
+Wir verwenden diese Cookies, um zu verstehen, wie die Webseite genutzt wird und wie wir Ihr Erlebnis damit verbessern können. Diese Cookies können uns Informationen liefern, die uns helfen zu verstehen, welche Teile der Webseite unsere Besucher interessieren und ob Fehler auftreten. Wir verwenden diese Cookies, um verschiedene Designs und Funktionen für unsere Webseites zu testen, und wir verwenden sie auch, um zu überwachen, wie Besucher die Webseite erreichen.
+
+Wir verwenden Cookies ferner, um Ihre Einstellungen und Präferenzen auf der Webseite zu speichern, wie zum Beispiel Spracheinstellungen und Informationen, die Sie zuvor bei der Suche nach Restaurants eingegeben haben. Einige Anpassungs-Cookies sind wesentlich, wenn Sie bestimmte Funktionen der Webseite nutzen möchten.
+
+
+
+Werbung
+
+Werbe-Cookies helfen sicherzustellen, dass die Ihnen angezeigte Werbung für Sie so relevant wie möglich ist. Beispielsweise helfen einige Werbe-Cookies bei der Auswahl von Anzeigen, die auf Ihren Interessen basieren. Andere helfen zu verhindern, dass Ihnen immer wieder die gleiche Anzeige präsentiert wird.
+
+Wir verwenden auch Cookies, um es Ihnen zu erleichtern, Inhalte der Webseite über Ihre bevorzugten sozialen Netzwerke mit Ihren Freunden zu teilen. Social-Media-Webseites können Cookies setzen, die Sie erkennen, wenn Sie Inhalte auf der Webseite ansehen, und es Ihnen ermöglichen, Inhalte sowohl auf der Webseite als auch auf der Social-Media-Webseite mithilfe der "Teilen"-Einstellungen zu teilen. Weitere Informationen finden Sie in den Nutzungsbedingungen und der Datenschutzerklärung Ihrer Social-Media-Webseite.
+
+Wir arbeiten außerdem mit Drittanbietern zusammen, um Ihnen Zugang zu Restaurant-Inhalten zu geben, die von Interesse sein könnten, und können Cookies in unseren Diensten setzen, um Ihnen Werbung anzuzeigen, die Ihren Interessen und Präferenzen entspricht. Diese "Drittanbieter-Cookies" erfassen Informationen über Ihr Browserverhalten und die Interaktion mit Anzeigen oder den Diensten im Allgemeinen. Diese Informationen helfen uns auch, die Anzahl der Male, die Sie möglicherweise dieselben Anzeigen sehen, zu begrenzen und Ihr Online-Erlebnis zu verbessern.
+
+
+
+Cookie Consent Tool
+Um Ihnen die Möglichkeit der Kontrolle zu geben, stellen wir Ihnen das "Cookie Consent Tool" zur Verfügung, mit dem Sie die über unsere Webseite gesetzten Cookies von Erstanbietern und Drittanbietern überprüfen und Ihre Cookie-Einstellungen anpassen können, einschließlich der Entscheidung, ob Sie solche Cookies akzeptieren oder ablehnen.
+
+Sie können auf das Cookie Consent Tool zugreifen, indem Sie hier klicken, oder jederzeit über den Link "Cookie Consent" am Ende jeder Seite oder indem Sie Ihre Einstellungen in unserem Cookie-Banner ändern. Darüber hinaus können Sie die Cookies über die Einstellungen Ihres Internetbrowsers verwalten. Sie haben die Möglichkeit, über den Browser Benachrichtigungen zu neuen Cookies zu erhalten und einzelne oder alle Cookies zu löschen.
+
+Die meisten Werbenetzwerke bieten Ihnen die Möglichkeit, Werbe-Cookies abzulehnen. Unter www.aboutads.info/choices/ und www.youronlinechoices.com finden Sie nützliche Informationen, wie Sie dies tun können.
+
+Wenn Sie Ihre Cookies löschen, kann Ihr Zugriff auf einige Funktionen und Bereiche unserer Dienste herabgestuft oder eingeschränkt sein.
+
+Die Verwendung von Informationen, die wir über Cookies erfassen, unterliegt dieser Erklärung, die auf jeder Seite unserer Webseite verlinkt ist.
+
+Änderungen an dieser Erklärung und Benachrichtigung
+Wir können in Zukunft Aktualisierungen an dieser Erklärung vornehmen. Wenn wir der Meinung sind, dass Änderungen wesentlich sind, werden wir Sie darüber informieren, indem wir eine oder mehrere der folgenden Maßnahmen ergreifen: Ihnen eine Mitteilung über die Änderungen senden, einen Hinweis auf der Webseite platzieren und/oder eine aktualisierte Erklärung auf der Webseite veröffentlichen. Wir werden oben in dieser Erklärung vermerken, wann sie zuletzt aktualisiert wurde. Wir empfehlen Ihnen, sich von Zeit zu Zeit die aktuellste Version durchzulesen und diese Erklärung regelmäßig zu überprüfen, um die neuesten Informationen über unsere Datenschutzpraktiken zu erhalten.
+
+Kontakt
+Bei Datenschutzanliegen, beispielsweise im Hinblick auf Anfragen zum Löschen oder Einsehen Ihrer Daten, besuchen Sie bitte unser eigens für diesen Zweck eingerichtetes Datenschutzportal, indem Sie hier klicken. Bei allgemeinen Fragen rund um das Thema Datenschutz oder zu unserer Datenschutz- und Cookie-Richtlinie wenden Sie sich bitte an unser Datenschutzteam, indem Sie hier klicken.
+
+
+
+EUROPA
+Datenschutzerklärung zur Datenschutz-Grundverordnung ("DSGVO-Erklärung")
+Diese DSGVO-Erklärung gilt für Personen im Europäischen Wirtschaftsraum ("EWR"), einschließlich im Vereinigten Königreich ansässiger Personen. Diese DSGVO-Erklärung ergänzt unsere Erklärung; wenn die Erklärung jedoch im Widerspruch zur DSGVO-Erklärung steht, gilt die DSGVO-Erklärung für Personen im EWR.
+
+Für die personenbezogenen Daten Verantwortlicher
+La Fourchette SAS ist der Verantwortlicher für die von uns gesammelten personenbezogenen Daten, jedoch haben wir gemäß den geltenden datenschutzrechtlichen Bestimmungen einen Vertreter in Großbritannien benannt.
+
+Die Kontaktinformationen unseres Vertreters in der Europäischen Union lauten wie folgt:
+
+La Fourchette SAS
+70 rue Saint Lazare
+75009 Paris
+Frankreich
+Attn: Privacy Officer
+
+Die Kontaktinformationen unseres Vertreters im Großbritannien lauten wie folgt:
+
+Bookatable Limited
+7 Soho Square
+London W1D 3QB
+Vereinigtes Königreich
+Attn: Privacy Officer
+
+
+
+
+
+
+
+Die Rolle von Bookatable Limited beschränkt sich hierbei ausschließlich darauf, Kontaktstelle  für Fragen des Datenschutzes von Britische Bürgern und Britische Aufsichtsbehörden zu sein. Um Zweifel auszuräumen kann Bookatable Limited keine anderen Mitteilungen oder rechtlichen Verfahren im Namen von La Fourchette SAS bearbeiten.
+
+
+
+Ihre Rechte gemäß der DSGVO
+
+Sie haben bestimmte Rechte in Bezug auf Ihre personenbezogenen Daten.
+
+Ihre Rechte in Bezug auf Ihre eigenen personenbezogenen Daten umfassen die folgenden Punkte:
+
+Das Recht, Zugriff auf Ihre personenbezogenen Daten anzufordern. Sie können eine Kopie der personenbezogenen Daten anfordern, die wir von Ihnen speichern.
+Das Recht, Ihre personenbezogenen Daten zu berichtigen, wenn sie nicht korrekt sind. Unvollständige persönliche Daten können Sie außerdem ergänzen, wobei stets die Zwecke der Verarbeitung berücksichtigt werden sollten.
+Das Recht, die Löschung Ihrer personenbezogenen Daten anzufordern, wenn:
+Ihre personenbezogenen Daten für die Zwecke, zu denen sie von uns erfasst oder verarbeitet wurden, nicht mehr erforderlich sind; oder
+Sie Ihre Zustimmung widerrufen, für den Fall, dass die Erfassung Ihrer personenbezogenen Daten von Ihrer Zustimmung abhing und es keine anderen gesetzlichen Gründe dafür gibt; oder
+Sie der Verarbeitung Ihrer personenbezogenen Daten widersprechen und wir keine zwingende legitime Grundlage für die Verarbeitung haben; oder
+Ihre personenbezogenen Daten auf unrechtmäßige Art verarbeitet werden; oder
+Ihre personenbezogenen Daten zwecks Einhaltung einer gesetzlichen Verpflichtung gelöscht werden müssen.
+Das Recht, der Verarbeitung Ihrer personenbezogenen Daten zu widersprechen. Wir halten uns an Ihre Anforderung; es sei denn, wir verfolgen mit der Verarbeitung ein zwingendes legitimes Interesse oder wir müssen die Verarbeitung Ihrer personenbezogenen Daten fortsetzen, um einen Rechtsanspruch zu erheben, geltend zu machen oder zu verteidigen.
+Das Recht, die Verarbeitung Ihrer personenbezogenen Daten zu beschränken, wenn:
+die Richtigkeit Ihrer personenbezogenen Daten für den Zeitraum, in dem wir die Richtigkeit der personenbezogenen Daten überprüfen müssen, von Ihnen angefochten wird; oder
+die Verarbeitung unrechtmäßig ist und Sie die Löschung Ihrer personenbezogenen Daten ablehnen und eine Beschränkung der Verarbeitung beantragen; oder
+wir Ihre personenbezogenen Daten für die Zwecke der Verarbeitung nicht länger benötigen, Ihre Daten jedoch von Ihnen aufgrund bestimmter Rechtsansprüche weiterhin benötigt werden; oder
+Sie der Verarbeitung widersprochen haben; und zwar für den Zeitraum, in dem wir überprüfen, ob zwingende legitime Gründe vorliegen.
+Das Recht auf Datenübertragbarkeit. Sie können beantragen, dass diese personenbezogenen Daten an Dritte gesendet werden, sofern dies praktikabel ist. Dieses Recht haben Sie nur dann, wenn es sich um personenbezogene Daten handelt, die Sie uns zur Verfügung gestellt haben, und die Verarbeitung von Ihrer Zustimmung abhängt oder für die Umsetzung eines Vertrags zwischen Ihnen und uns erforderlich ist und die Verarbeitung mit automatisierten Methoden erfolgt.
+Sie haben auch das Recht, eine Beschwerde bei Ihrer nationalen Datenschutzbehörde einzureichen.
+Sie müssen keine Gebühr zahlen, um auf Ihre personenbezogenen Daten zuzugreifen (oder um Ihre in dieser Erklärung beschriebenen Rechte auszuüben). Wir berechnen jedoch gegebenenfalls eine Gebühr, wenn sich Ihre Anfrage als ungerechtfertigt, repetitiv oder unverhältnismäßig erweisen sollte.
+
+Eventuell benötigen wir spezifische Informationen von Ihnen, damit wir Ihre Identität überprüfen und Ihr Recht auf Zugriff auf Ihre personenbezogenen Daten (oder auf Ausübung Ihrer anderen Rechte) gewährleisten können. Dies ist eine Sicherheitsmaßnahme, mit der sichergestellt wird, dass personenbezogene Daten nicht gegenüber Personen offengelegt werden, die kein Recht darauf haben. Wir kontaktieren Sie möglicherweise auch, um Sie um weitere Informationen in Bezug auf Ihre Anfrage zu bitten, damit wir diese schnellstmöglich bearbeiten können. Sie können diverse Rechte über den Bereich zu Ihren personenbezogenen Informationen in Ihrem Konto ausüben. Um Ihre anderen Rechte geltend zu machen, können Sie einen Antrag stellen, indem Sie hier klicken.
+
+Nutzung von Daten
+Wir verwenden Ihre personenbezogenen Daten nur, wenn dies gesetzlich zulässig ist.
+
+Gemäß der DSGVO verwenden wir Ihre personenbezogenen Daten in einem oder mehreren der folgenden Fälle:
+
+Wenn wir den Vertrag ausführen müssen, den wir mit Ihnen abschließen oder abgeschlossen haben
+Wenn dies zur Wahrung unserer legitimen Interessen (oder der Interessen Dritter) notwendig ist und diese Interessen nicht durch Ihre Interessen und Grundrechte außer Kraft gesetzt werden
+Wenn wir eine gesetzliche oder regulatorische Verpflichtung einhalten müssen
+Mit Ihrer Zustimmung
+Internationale Übertragungen
+Ihre personenbezogenen Daten können zu den in dieser Erklärung dargelegten Zwecken in Länder außerhalb des EWR übertragen werden bzw. dort verwahrt werden. Wenn wir Ihre personenbezogenen Daten in Ländern außerhalb des EWR speichern, treffen wir die folgenden Sicherheitsvorkehrungen, um zu gewährleisten, dass Ihre personenbezogenen Daten hinreichend geschützt werden.
+
+Wenn wir Ihre personenbezogenen Daten in Ländern außerhalb des EWR speichern oder sie in diese Länder übertragen, halten wir uns dabei stets an die anwendbaren Gesetze und stellen sicher, dass entsprechende Sicherheitsvorkehrungen getroffen werden, um ein hinreichendes Maß an Schutz zu gewährleisten. Übertragungen von personenbezogenen Daten erfolgen:
+
+in Länder, die laut der Europäischen Kommission ein angemessenes Schutzniveau vorweisen können; oder
+an Länder, die nicht über ausreichende Schutzmaßnahmen verfügen, deren Übertragung jedoch den gängigen Vertragsklauseln der Europäischen Kommission unterliegen oder die grenzübergreifend andere angemessene Übertragungslösungen durchführen, um ausreichende Schutzmaßnahmen bereitzustellen.
+Durch die Nutzung unserer Services erkennen Sie an, dass Ihre personenbezogenen Daten möglicherweise an unsere Einrichtungen und die Einrichtungen von Dritten übertragen werden, mit denen wir die Informationen wie in dieser Erklärung beschrieben teilen.
+
+
+
+D. THEFORK WEBSEITEN UND UNTERNEHMEN
+La Fourchette SAS und die Tochterunternehmen und Beteiligungen besitzen und betreiben ein Portfolio von Webseiten und Unternehmen, die folgenden Markennamen umfassen:
+
+www.thefork.fr, www.theforkmanager.com, www.thefork.ch, www.thefork.es, und www.thefork.com sowie Länder-Versionen, wie www.thefork.it, www.thefork.be, etc.
+
+
+
+© 2022 La Fourchette SAS – Alle Rechte vorbehalten
