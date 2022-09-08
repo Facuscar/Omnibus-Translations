@@ -1,693 +1,721 @@
-<p><strong><a href="#MentionsLegales">A. Mentions Légales</a></strong></p>
+<p><strong><a href="#NoteLegali">A. Note legali</a></strong></p>
 
-<p><strong><a href="#ConditionsdUtilisation">B. Conditions d’Utilisation</a></strong></p>
+<p><strong><a href="#TerminiDiUtilizzo">B. Termini di Utilizzo</a></strong></p>
 
-<p><strong><a href="#PolitiqueDeConfidentialite">C. Déclaration Relative à La  Confidentialité et aux Cookies</a></strong></p>
+<p><strong><a href="#NormativaSullaPrivacy">C.  Informativa  Sulla Privacy e Sui Cookie</a></strong></p>
 
-<p><strong><a href="#les-sites-web-et-entreprises-lafourchette">D. Les Sites Web et Entreprises TheFork</a></strong></p>
+<p><strong><a href="#GiftCard">D. Condizioni d’Uso  delle Gift Card TheFork</a></strong></p>
 
-<h1 id="MentionsLegales" style="text-align: justify;"><strong>A.  MENTIONS LEGALES&nbsp;</strong></h1>
+<p><strong><a href="#siti-web-e-business-di-thefork">E. Siti Web e Business di TheFork</a></strong></p>
 
-<p style="text-align: justify;"> Le site "    <a href="https://www.thefork.ch/" rel="nofollow">https://www.thefork.ch/</a>" et     les applications mobiles et tablettes TheFork sont édités par:     <br>
-<br>
-<strong>La Fourchette SAS </strong><br>
-                          Société par actions simplifiée au capital de 117 454 518,00&nbsp;euros   &nbsp;<br>
-                          Siège social : 70, rue Saint-Lazare, 75009 Paris     <br>
-                          RCS PARIS 494 447 949     <br>
-                          N° TVA intracom : FR71494447949 </p>
+<h1 id="NoteLegali" style="text-align: justify;"><strong>A. NOTE LEGALI</strong></h1>
 
-<p style="text-align: justify;">     Directeur de la publication : M. Almir Ambeskovic.     <br>
-                          Téléphone :<span open="" style="-webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); color: rgb(78, 78, 86); display: inline !important; float: none; font-family: ;"><span style="color: rgb(51, 51, 51); font-family: ;">+33 (0)1 77 48 75 67&nbsp;</span></span>&nbsp; &nbsp;<br>
-                      Email :    <a href="mailto:contact@thefork.fr">contact@thefork.fr</a><br>
-<br>
-                          Le site     <a href="https://www.thefork.ch" rel="nofollow">         https://www.thefork.ch/     </a>     est hébergé par:     </p>
+<p style="text-align: justify;">     Il sito web <a href="https://www.thefork.it/">https://www.thefork.it/ </a>     e le app TheFork per telefono e tablet sono distribuite da: </p>
+
+<p style="text-align: justify;"><br>
+<strong>La Fourchette SAS</strong></p>
+
+<p style="text-align: start;">     una società per azioni semplificata con capitale di&nbsp;117 454 518,00 euros</p>
+
+<p style="text-align: justify;">     Sede legale: 70, rue Saint-Lazare, 75009 Parigi, Francia </p>
+
+<p style="text-align: justify;">     RCS di PARIGI 494 447 949 </p>
+
+<p style="text-align: justify;">     N. di partita IVA europeo: FR71494447949</p>
+
+<p><br>
+</p>
+
+<p style="text-align: justify;">     Direttore di pubblicazione: Almir Ambeskovic. </p>
+
+<p style="text-align: justify;">     Telefono:&nbsp;<span open="" style="-webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); color: rgb(78, 78, 86); display: inline !important; float: none; font-family: ;"><span style="color: rgb(51, 51, 51); font-family: ;">+33 (0)1 77 48 75 67&nbsp;</span></span>&nbsp;</p>
+
+<p style="text-align: justify;"> Email:    <a href="mailto:contact@thefork.fr">contact@thefork.fr</a></p>
+
+<p><br>
+</p>
+
+<p style="text-align: justify;"> Il sito&nbsp;<a href="https://www.thefork.it/">https://www.thefork.it/ </a> è ospitato     da: </p>
 
 <p style="text-align: justify;">Amazon Web Services EMEA SARL<br>
-             38 avenue John F. Kennedy, L-1855 Luxembourg<br>
+               38 avenue John F. Kennedy, L-1855 Luxembourg<br>
 <a href="http://aws.amazon.com/">http://aws.amazon.com/</a></p>
 
 <p style="text-align: justify;"><br>
 </p>
 
-<h1 id="ConditionsdUtilisation" style="text-align: justify;"><strong>B. CONDITIONS D'UTILISATION</strong></h1>
+<h1 id="TerminiDiUtilizzo" style="text-align: justify;"><strong>B. TERMINI DI UTILIZZO</strong></h1>
 
-<p>Dernière mise à jour : 19 juin 2019</p>
+<p style="text-align: justify;">     Ultimo aggiornamento: 19 giugno 2019&nbsp;</p>
 
-<p style="text-align: justify;">Les présentes Conditions d’Utilisation ainsi que la Déclaration relative à la confidentialité et aux  cookies forment votre contrat avec TheFork (si vous êtes     propriétaire d’un restaurant acceptant les réservations par le biais du     Site&nbsp;TheFork, ces dispositions s’appliquent également à vous en plus     des conditions générales et particulières de vente que vous avez acceptées     lors de votre inscription). Lisez-les attentivement ; ces dispositions vous     engagent dès lors que vous utilisez le Site TheFork. </p>
+<p style="text-align: justify;">     Questi Termini di Utilizzo e la Informativa sulla privacy e  sui cookie  &nbsp; costituiscono il     contratto stipulato con La Fourchette SAS (per i ristoratori che accettano     prenotazioni attraverso il sito TheFork, queste disposizioni si applicano     in aggiunta alle Condizioni generali di vendita e di utilizzo e alle     condizioni speciali al momento della registrazione). Si prega di leggere     con attenzione; queste disposizioni diventano vincolanti non appena si     utilizza il Sito TheFork. </p>
 
-<p style="text-align: justify;">     Attention : Si vous n'êtes pas en accord avec tout ou partie des présentes     Conditions d’Utilisation, il vous est vivement recommandé de ne pas     utiliser le Site TheFork. </p>
-
-<p style="text-align: justify;"><br>
-</p>
-
-<h2 style="text-align: justify;"><strong>TITRE 1. CONDITIONS GENERALES D’UTILISATION</strong></h2>
-
-<h4 style="text-align: justify;"><u>Définitions</u></h4>
-
-<p style="text-align: justify;">     « <strong><em>TheFork</em></strong> » : désigne la société La     Fourchette SAS. </p>
-
-<p style="text-align: justify;"><strong><em>« Site TheFork »</em></strong> : désigne l’ensemble des sites web et mobile accessibles à l’adresse "    <a href="https://www.thefork.ch/" rel="nofollow">https://www.thefork.ch/</a>" et     des applications mobiles et tablettes TheFork. </p>
-
-<p style="text-align: justify;"><strong><em>« Utilisateur »</em></strong>     : désigne toute personne physique âgée de plus de 18 ans, capable de     souscrire des contrats, visitant le Site TheFork et/ou titulaire d’un     compte sur le Site TheFork. </p>
-
-<p style="text-align: justify;">     « <strong><em>Conditions d’Utilisation</em></strong> » : désigne l’ensemble     des présentes conditions générales d’utilisation et conditions     particulières d’utilisation. </p>
-
-<p style="text-align: justify;">     « <strong><em>Contenu Restaurateur</em></strong>» : désigne les     éléments de la fiche restaurant fournis à TheFork par le restaurateur     ou que le restaurateur a autorisé TheFork à téléchargé sur le Site     TheFork, notamment les prix des plats et des boissons, le prix moyen     d’un repas, le nom du chef, les disponibilités du restaurant, la carte, le     calendrier, les thématiques du restaurant et les photos du restaurant. </p>
-
-<p style="text-align: justify;">     « <strong><em>Contenu Utilisateur</em></strong> » : désigne l’ensemble des     éléments fournis par l’Utilisateur sur le Site TheFork, composés     notamment de texte, document, image, photo, avis ou droit de réponse.</p>
-
-<h4 style="text-align: justify;"><br>
-</h4>
-
-<h4 style="text-align: justify;"><u>Acceptation et modification des Conditions d’Utilisation</u></h4>
-
-<p style="text-align: justify;">     Un service de recherche et de réservation en ligne de table de restaurant     est proposé par TheFork à l'Utilisateur, sous réserve de son     acceptation inconditionnelle des présentes Conditions d’Utilisation. </p>
-
-<p style="text-align: justify;">     L'Utilisateur déclare et reconnaît avoir lu l'intégralité des termes des     présentes Conditions d’Utilisation. En outre, la connexion à l'un     quelconque des services proposés sur le Site TheFork emporte une     acceptation sans réserve par l'Utilisateur des présentes Conditions     d’Utilisation. </p>
-
-<p style="text-align: justify;">     TheFork se réserve la possibilité de modifier à tout moment, en tout     ou partie, les Conditions d’Utilisation. Il appartient en conséquence à     l'Utilisateur de consulter régulièrement la dernière version des Conditions     d’Utilisation affichée sur le Site TheFork. L'Utilisateur est réputé     accepter cette dernière version à chaque nouvelle connexion sur le Site     TheFork. </p>
-
-<p style="text-align: justify;">     En accédant au Site TheFork ou en l’utilisant de quelque façon que ce     soit, l’Utilisateur accepte d’être lié par les présentes Conditions     d’Utilisation. </p>
+<p style="text-align: justify;">     Attenzione: In caso di disaccordo con questi Termini di Utilizzo, in toto o     in parte, non utilizzare il Sito TheFork. </p>
 
 <p style="text-align: justify;"><br>
 </p>
 
-<h3 style="text-align: justify;"><strong>1. <u>Description du Site TheFork</u></strong></h3>
+<h2 style="text-align: justify;"><strong>PARTE 1. CONDIZIONI GENERALI DI UTILIZZO</strong></h2>
 
-<p style="text-align: justify;">L’utilisation du Site TheFork est soumise à des limitations de     responsabilité de la part de TheFork. Merci de vous référer à     l’article 8 « Limitation de Responsabilité » pour en connaître le détail.</p>
+<h4 style="text-align: justify;"><u>Definizioni</u></h4>
 
-<h5 style="text-align: justify;">1.1 <u>Plateforme de mise en relation</u></h5>
+<p style="text-align: justify;"><strong><em>“TheFork”:</em></strong>     indica la societàLa Fourchette SAS. </p>
 
-<p style="text-align: justify;">     Le Site TheFork est une plateforme permettant la mise en relation de     l’Utilisateur avec les restaurants présents sur le Site TheFork. A ce     titre, TheFork agit exclusivement comme un intermédiaire dans le     cadre de la réservation desdits restaurants par l’Utilisateur.</p>
+<p style="text-align: justify;"><strong><em>“Sito TheFork”:</em></strong> si riferisce a tutti i siti web e mobili accessibili da    <a href="https://www.thefork.it/">https://www.thefork.it/ </a> e alle app     TheFork per telefono e tablet. </p>
 
-<h5 style="text-align: justify;"> 1.2 <u>Recherche et réservation de tables de restaurant en temps réel</u></h5>
+<p style="text-align: justify;"><strong><em>“Utente”</em></strong>     : indica qualsiasi persona che abbia compiuto 18 anni, in grado di     stipulare un contratto, che visiti il Sito TheFork e/o abbia un conto sul     Sito TheFork, anche nella forma plurale <strong><em>“Utenti"</em></strong>. </p>
 
-<p style="text-align: justify;">     Le Site TheFork permet notamment à l'Utilisateur de rechercher et de     réserver en temps réel une table dans un restaurant. </p>
+<p style="text-align: justify;"><strong><em>"Termini di Utilizzo":</em></strong>     si riferisce a queste condizioni generali di utilizzo e a tutte le     condizioni speciali di utilizzo. </p>
 
-<p style="text-align: justify;">     Le Site TheFork permet également à l’Utilisateur d’annuler sa     réservation en cas d’imprévu. </p>
+<p style="text-align: justify;"><strong><em>"Contenuto Ristoratore":</em></strong>     si riferisce agli elementi della pagina del ristorante forniti a TheFork dal ristoratore che sono stati caricati sul Sito TheFork da TheFork con l'autorizzazione del ristoratore, quali prezzi di cibi e     bevande, prezzo medio di un piatto, nome dello chef, disponibilità del     ristorante, menu, calendario, temi del ristorante e foto del ristorante. </p>
 
-<h5 style="text-align: justify;">     1.3     <u>         Offres promotionnelles proposées par les restaurants référencés sur TheFork     </u></h5>
-
-<p style="text-align: justify;">     Le Site TheFork permet à l'Utilisateur, si et seulement s'il réserve     par le biais du Site TheFork, de bénéficier d’offres promotionnelles     proposées par les restaurants référencés sur le Site TheFork. Tous les     restaurants ne proposent pas d’offres promotionnelles. Les conditions de     validité de ces offres promotionnelles sont explicitées sur le Site TheFork. L'Utilisateur s'oblige à vérifier les conditions de validité     d'une offre promotionnelle avant de réserver sur le Site TheFork et ne     pourra en aucun cas réclamer au restaurant le bénéfice d’une offre     promotionnelle en dehors des conditions de validité telles qu'explicitées     sur le Site TheFork, et/ou en dehors de la procédure de réservation     avec offre promotionnelle. </p>
-
-<p style="text-align: justify;">     Parmi ces conditions de validité, l’Utilisateur et l’ensemble de ses     convives doivent se présenter au restaurant réservé à l’horaire de     réservation. L’Utilisateur est informé que si lui et l’ensemble de ses     convives ne se sont pas présentés au restaurant dans les 15 minutes suivant     l’horaire de réservation, le restaurant pourra ne pas appliquer l’offre     promotionnelle associée à la réservation à l’Utilisateur ainsi qu’à     l’ensemble de ses convives. Par souci de clarté, cela signifie que si     l’Utilisateur ou un des convives est en retard de plus de 15 minutes, à la     fois l’Utilisateur et tout le groupe de ses convives perdront le bénéfice     automatique de l’offre promotionnelle et que le restaurant pourra seul     décider d’appliquer ou non l’offre promotionnelle à tout ou partie des     convives.</p>
-
-<p style="text-align: justify;"><br>
-</p>
-
-<h3 style="text-align: justify;"><strong>2. <u>Gratuité du Site TheFork</u></strong></h3>
-
-<p style="text-align: justify;">     Les services proposés sur le Site TheFork sont généralement gratuits. </p>
-
-<p style="text-align: justify;">     Des tarifs pourront éventuellement être applicables, notamment en fonction     de l'évolution des services proposés, l'évolution du réseau, de la     technique et/ou des contraintes légales. L'Utilisateur en sera alors dûment     informé par la modification des présentes Conditions d’Utilisation et/ou     par l'insertion dans le Site TheFork de conditions particulières     relatives aux services payants.</p>
-
-<p style="text-align: justify;"><br>
-</p>
-
-<h3 style="text-align: justify;"><strong>3. <u>Services et sites tiers </u></strong></h3>
-
-<h4 style="text-align: justify;">3.1 <u>Services offerts par des tiers</u></h4>
-
-<p style="text-align: justify;">     L'Utilisateur reconnaît que le Site TheFork renvoie à des prestations     de service payantes. En particulier, toute réservation effectuée sur le     Site TheFork renvoie à une prestation de restauration effectuée par un     tiers restaurateur qui sera payante. </p>
-
-<p style="text-align: justify;">     L’Utilisateur est informé que tout prix ou gamme de prix concernant un     tiers prestataire affiché sur le Site TheFork n’est fourni qu'à titre     indicatif et par souci de commodité. En aucun cas TheFork ne garantit     l'exactitude de telles informations. </p>
-
-<h4 style="text-align: justify;">     3.2 <u>Liens vers des sites tiers</u></h4>
-
-<p style="text-align: justify;">     Le Site TheFork peut contenir des liens renvoyant à des sites gérés     par des tiers. Ces hyperliens sont uniquement proposés à titre indicatif.     TheFork ne contrôle pas ces sites et n'est pas responsable de leur     contenu ni du respect de la vie privée ou d'autres pratiques de ces sites.     La présence de liens vers ces sites ne saurait constituer une approbation     des éléments présents sur ces sites ni une quelconque association avec les     gestionnaires de ces sites. Il appartient à l’Utilisateur de faire toutes     vérifications qui lui semblent nécessaires ou opportunes avant d’utiliser     ces sites et/ou de procéder à une quelconque transaction avec l'un d’eux. </p>
-
-<p style="text-align: justify;"><br>
-</p>
-
-<h3 style="text-align: justify;"><strong>4. <u>Accès et Utilisation du Site TheFork</u></strong></h3>
-
-<h4 style="text-align: justify;">4.1 <u>Conditions d’éligibilité</u></h4>
-
-<p style="text-align: justify;">     L’utilisation du Site TheFork est soumise aux conditions d’éligibilité     cumulatives suivantes : en tant qu’Utilisateur (i) vous avez au moins 18     ans ; (ii) vous disposez de la capacité juridique requise pour vous     soumettre à des obligations juridiques contraignantes; (iii) et les     réservations que vous effectuerez sur le Site TheFork, pour vous ou     pour toute autre personne pour laquelle vous êtes légalement autorisé à     agir, seront légitimes. </p>
-
-<h4 style="text-align: justify;">     4.2 <u>Accès au Site TheFork</u></h4>
-
-<p style="text-align: justify;">TheFork se réserve le droit de suspendre, supprimer ou de modifier     tout ou partie du Site TheFork ou des services offerts sur le Site TheFork sans préavis. TheFork se réserve de plus le droit de     suspendre l’accès au Site TheFork, à tous les, ou à une partie des,     Utilisateurs pour maintenance, en cas d’urgence (cyberattaque, etc.) ou     pour toute autre raison, et ce à tout moment.</p>
-
-<h4 style="text-align: justify;">4.3 <u>Conditions d’ouverture d’un compte</u></h4>
-
-<p style="text-align: justify;">     En ouvrant un compte, l'Utilisateur accepte, expressément et sans réserve,     les termes des présentes Conditions d’Utilisation. </p>
-
-<p style="text-align: justify;">     L'Utilisateur s'engage à transmettre des renseignements exacts, à jour et     véritables notamment sur sa civilité, son nom, son ou ses prénoms, son     adresse email, son numéro de téléphone, nécessaires à sa bonne     identification, en vue de l'ouverture et du maintien de son compte. </p>
-
-<h4 style="text-align: justify;">     4.4 <u>Confidentialité des identifiants du compte</u></h4>
-
-<p style="text-align: justify;">     Lors de la création de son compte, l'Utilisateur choisit un identifiant et     un mot de passe (ci-après « Identifiants ») lui permettant d'accéder à son     compte. </p>
-
-<p style="text-align: justify;">     Les Identifiants sont personnels et confidentiels. Ils ne peuvent être     changés que sur demande de l'Utilisateur ou à l'initiative de TheFork. </p>
-
-<p style="text-align: justify;">     L'Utilisateur est seul et entièrement responsable de l'utilisation de son     compte et/ou des Identifiants le concernant et s'engage à mettre tout en     œuvre pour conserver secret ses Identifiants et à ne pas les divulguer, à     qui que ce soit, sous quelque forme que ce soit. </p>
-
-<p style="text-align: justify;">     En cas de perte ou de vol d'un des Identifiants le concernant,     l'Utilisateur est responsable de toute conséquence dommageable de cette     perte ou de ce vol, et doit utiliser, dans les plus brefs délais, la     procédure lui permettant de les modifier, qui peut être consultée sur la     page accessible à l'adresse&nbsp;<a href="https://www.thefork.ch/#user-account" rel="nofollow">https://www.thefork.ch/#user-account</a>.</p>
-
-<h4 style="text-align: justify;">     4.5 <u>Clôture du compte</u></h4>
-
-<p style="text-align: justify;">     L’Utilisateur a la possibilité de clôturer son compte à tout moment. Pour cela, il doit envoyer sa demande de clôture de compte par email à :    <a href="mailto:contact@thefork.ch">contact@thefork.ch&nbsp;</a></p>
-
-<p style="text-align: justify;">     TheFork s’efforcera de traiter toute demande de clôture de compte     dans un délai raisonnable. </p>
-
-<p style="text-align: justify;">     L’Utilisateur est informé qu’à compter de la clôture de son compte,     celui-ci ne pourra plus bénéficier des services offerts par TheFork,     ses réservations en cours seront annulées et ses Yums éventuellement     cumulés seront supprimés. </p>
-
-<h4 style="text-align: justify;">     4.6 <u> Obligations de l’Utilisateur – Actions Prohibées</u></h4>
-
-<p style="text-align: justify;">     L’Utilisateur s’engage à utiliser le Site TheFork conformément aux     présentes Conditions d’Utilisation et au droit en vigueur. Notamment,     l’Utilisateur s’engage à ne pas réaliser les actions prohibées ci-dessous: </p>
-
-<p style="text-align: justify;">     · Le fait de ne pas se rendre au restaurant sans avoir annulé la     réservation au préalable (no-show) constitue une action prohibée. </p>
-
-<p style="text-align: justify;">     · Le contenu et les données du Site TheFork (incluant, mais sans s'y     limiter, les messages, données, informations, textes, musiques, sons,     photos, graphiques, vidéos, cartes, icônes, logiciels, codes ou tout autre     élément), tout comme l'infrastructure utilisée pour fournir ces contenus et     ces informations appartiennent à TheFork ; l’Utilisateur accepte de     ne pas modifier, copier, distribuer, transmettre, afficher, mettre à     disposition, reproduire, publier, octroyer une licence, créer des œuvres     dérivées, transférer, ou vendre ou revendre toute information, tout     logiciel, produit ou service obtenus depuis ou grâce au Site TheFork. </p>
-
-<p style="text-align: justify;">     · Sont strictement interdits toute copie, transmission, reproduction,     ré-édition, redistribution ou tout envoi du contenu du Site TheFork,     en totalité ou en partie, sans l'autorisation préalable et écrite de TheFork. Pour obtenir cette autorisation, contacter TheFork à     l'adresse suivante : </p>
-
-<p style="text-align: justify;">     La FourchetteSAS</p>
-
-<p style="text-align: justify;">     70 Rue Saint-Lazare </p>
-
-<p style="text-align: justify;">     75009 Paris, France. </p>
-
-<p style="text-align: justify;">     En outre, l’Utilisateur s’engage à ne pas : </p>
-
-<ul type="disc">
-  <li style="text-align: justify;">         utiliser le Site TheFork ou ses contenus à des fins illégales,         illégitimes ou frauduleuses ;     </li>
-
-  <li style="text-align: justify;">         déposer sur le Site TheFork de Contenu Utilisateur ou Contenu         Restaurateur inexact, illégal et notamment portant atteinte à la vie         privée, injurieux, indécent, menaçant, incitant à la haine ou la         violence, ou dont les droits de propriété intellectuelle ne lui         appartiennent pas et sans la permission expresse du titulaire de droits         ;     </li>
-
-  <li style="text-align: justify;">         utiliser, surveiller, extraire ou copier l’architecture, le contenu ou         les données du Site TheFork ou les actions des Utilisateurs sur le         Site TheFork à l'aide d'un robot, d'une araignée, d'un scraper,         d’un logiciel espion, d’un enregistreur de frappe clavier ou de tout         autre programme ou dispositif automatique ou procédé manuel, à quelque         fin que ce soit;     </li>
-
-  <li style="text-align: justify;">         violer les restrictions des fichiers d’exclusion des robots sur le Site TheFork ou contourner les mesures visant à empêcher ou limiter         l’accès au Site TheFork;     </li>
-
-  <li style="text-align: justify;">         prendre de mesure qui impose, ou pourrait imposer une charge         déraisonnable ou excessive aux infrastructures du Site TheFork;     </li>
-
-  <li style="text-align: justify;">         établir de lien invisible menant au Site TheFork pour toute         raison;     </li>
-
-  <li style="text-align: justify;">         « encadrer », « refléter » ou incorporer toute partie du Site         TheFork dans un autre site; et     </li>
-
-  <li style="text-align: justify;">         essayer de modifier, traduire, adapter, réviser, décompiler,         désassembler, assembler à rebours tout programme logiciel utilisé par         TheFork en lien avec le Site TheFork ou ses services.     </li>
-</ul>
-
-<h4 style="text-align: justify;">4.7 <u> Sanction des manquements contractuels</u></h4>
-
-<h5 style="text-align: justify;"><em>4.7.1  Suspension ou arrêt définitif du ou des services du Site TheFork</em></h5>
-
-<p style="text-align: justify;">     En cas d'inexécution ou de non-respect, total ou partiel, par l'Utilisateur     de l'une des obligations ou stipulations prévues par les présentes     Conditions d’Utilisation ou en cas d’exécution par L’Utilisateur d’une ou     plusieurs actions prohibées prévue par les présentes Conditions     d’Utilisation, ou pour tout autre motif raisonnable TheFork pourra     modifier, suspendre, limiter ou supprimer l'accès à tout ou partie du     service du Site TheFork, et notamment désactiver le compte de     l’Utilisateur, sans préavis et sans que l’Utilisateur ne puisse réclamer     aucune indemnité quelconque, et sans préjudice des indemnités que TheFork pourrait réclamer par ailleurs en justice. </p>
-
-<h5 style="text-align: justify;"><em>4.7.2  Dommages-intérêts</em></h5>
-
-<p style="text-align: justify;">     Sans préjudice des sanctions opérées par TheFork en vertu de     l’article 4.7.1, TheFork sera également en droit de réclamer des     indemnités destinées à compenser le préjudice subi.</p>
-
-<p style="text-align: justify;"><br>
-</p>
-
-<h3 style="text-align: justify;"><strong>     5. <u>Avis et Contenu Utilisateur</u></strong></h3>
-
-<p style="text-align: justify;">     L'Utilisateur doit suivre les règles suivantes pour publier tout Contenu     Utilisateur et notamment tout avis sur le site concernant un restaurant     référencé sur le Site TheFork. </p>
-
-<h4 style="text-align: justify;">     5.1 <u>Conditions de publication des avis</u></h4>
-
-<ul type="disc">
-  <li style="text-align: justify;">         Pour publier un avis, l'Utilisateur doit avoir un compte sur le Site         TheFork qui l'identifie ou avoir été invité à déposer un avis par         un email envoyé par TheFork et avoir réservé ou avoir été invité         dans un restaurant par l'intermédiaire du Site TheFork, tout en         ayant honoré la réservation dans ce restaurant.     </li>
-
-  <li style="text-align: justify;">         Afin d'éviter tout conflit d'intérêt et pour des raisons d'objectivité         évidentes, si l'Utilisateur travaille dans le domaine de la         restauration, celui-ci n'est pas autorisé à publier d'avis sur le Site         TheFork.     </li>
-
-  <li style="text-align: justify;">         L'avis doit contenir plus de 200 caractères et concerner exclusivement         le restaurant au sein duquel l'Utilisateur s'est rendu. Tout avis         mentionnant un autre restaurant pourra être refusé par TheFork.     </li>
-</ul>
-
-<h4 style="text-align: justify;">     5.2 <u> Motifs de rejet du Contenu Utilisateur</u></h4>
-
-<p style="text-align: justify;">     L’Utilisateur est informé que son Contenu Utilisateur peut être rejeté pour     les motifs suivants : </p>
-
-<ul type="disc">
-  <li style="text-align: justify;">         si les « Conditions de publication des avis » énoncées ci-dessus ne         sont pas respectées par l’Utilisateur ;     </li>
-
-  <li style="text-align: justify;">         si TheFork estime que sa responsabilité civile ou pénale peut         être engagée ;     </li>
-
-  <li style="text-align: justify;">         si le Contenu Utilisateur ou les éléments relatifs à l’identité de         l’auteur comportent des injures ou grossièretés ;     </li>
-
-  <li style="text-align: justify;">         si le Contenu Utilisateur textuel comporte des caractères aléatoires ou         des suites de mots sans aucune signification ;     </li>
-
-  <li style="text-align: justify;">         si le Contenu Utilisateur est sans rapport avec le restaurant noté ;     </li>
-
-  <li style="text-align: justify;">         si le Contenu Utilisateur est ou est soupçonné d’être une contrefaçon ;     </li>
-
-  <li style="text-align: justify;">         si l’avis soulève ou si TheFork estime que l’avis comporte des         éléments de conflits d’intérêts ou de fraude ;     </li>
-
-  <li style="text-align: justify;">         si le Contenu Utilisateur textuel est mal écrit au point d'en être         inintelligible ;     </li>
-
-  <li style="text-align: justify;">         si un Utilisateur formule un commentaire inapproprié sur un autre         Contenu Utilisateur ou son auteur ;     </li>
-
-  <li style="text-align: justify;">         si le Contenu Utilisateur comporte des informations personnelles ou des         éléments susceptibles d'aboutir à un vol d'identité, telles que le nom         ou prénom d'individus qui ne sont pas des personnes publiques, un         numéro de téléphone, une adresse physique précise ou une adresse email     </li>
-
-  <li style="text-align: justify;">         si le Contenu Utilisateur mentionne des sites Internet, liens         hypertexte, URL, adresses email ou numéros de téléphone ; ou     </li>
-
-  <li style="text-align: justify;">         si le Contenu Utilisateur est clairement du spam.</li>
-</ul>
-
-<p style="text-align: justify;">     En cas d’identification d’un Utilisateur ayant déposé un avis frauduleux ou     que TheFork estime être frauduleux, et après avoir appliqué les     procédures liées au rejet ou à la suppression d’avis, TheFork pourra     désactiver le compte de l’Utilisateur concerné (ce qui entraine     l’annulation des réservations en cours et la suppression des Yums     éventuellement cumulés), et supprimera l’ensemble des avis liés à cet     Utilisateur. </p>
-
-<h4 style="text-align: justify;">     5.3 <u> Modération des avis</u></h4>
-
-<p style="text-align: justify;">     TheFork n’a aucune obligation de modérer ou de supprimer les avis. TheFork procède à une modération des avis, dans le cadre d’une     obligation de moyens, dans le but de s'assurer de la conformité des avis aux     présentes Conditions d’Utilisation en vue de publier, rejeter ou supprimer     cet avis. Chaque avis est soumis à une modération a priori, par filtres     automatiques et, en cas de signalement particulier, à une modération     humaine. Le délai de modération est de 2 semaines au maximum. L'Utilisateur peut demander la modération d'un avis déjà publié à l'adresse    <a href="mailto:contact@thefork.ch">contact@thefork.ch</a>&nbsp;en     précisant les motifs de sa demande de modération. </p>
-
-<p style="text-align: justify;">     L'Utilisateur qui a publié un avis peut demander a posteriori la suppression de cet avis à l'adresse    <a href="mailto:contact@thefork.ch">contact@thefork.ch</a>. Si TheFork a connaissance d’une fermeture ou d’un changement de     propriétaire d’un restaurant, les avis s’y rapportant seront supprimés.     L'Utilisateur est informé qu'il peut être contacté par TheFork à des     fins de vérification de l'authenticité de son avis, par email et/ou par     téléphone. L'Utilisateur est informé que son avis peut être transmis à des     sites partenaires de TheFork et être publié sur ces sites     partenaires. Afin de faciliter la lecture des avis par les Utilisateurs du     Site TheFork, l’Utilisateur autorise TheFork à publier à côté de     l’avis déposé les éléments suivants : date d'inscription au site, nombre     d'avis déposés, prénom et 1ère lettre du nom, statut et date du repas.     Conformément à la loi ‘Informatique et Libertés’ du 6 janvier 1978     modifiée, l'Utilisateur dispose d'un droit d'accès, de modification, de     rectification et de suppression des données le concernant, ainsi que d'un     droit d'opposition pour motifs légitimes. L'Utilisateur peut exercer ces droits en cliquant <a href="https://privacyportal.onetrust.com/webform/da774af3-e615-4e8c-8a28-3d13e98367c5/091dbabd-4724-4ae9-a3a7-541da83969f3" rel="nofollow">ici</a>.&nbsp;</p>
-
-<h4 style="text-align: justify;">     5.4 <u> Avis de la part de plusieurs convives</u></h4>
-
-<p style="text-align: justify;">     L'Utilisateur qui réserve un restaurant pour plusieurs convives est invité     à indiquer les adresses email de ses convives pour que leur soient     transmises les informations pratiques concernant la réservation (adresse du     restaurant, heure de réservation…) L'Utilisateur reconnaît dans ce cas     avoir reçu l'autorisation préalable de ses convives pour transmettre leurs     adresses email à TheFork. Chaque convive est ensuite invité à poster     un avis sur son expérience dans le restaurant réservé par l’Utilisateur. </p>
-
-<p style="text-align: justify;">     Les données personnelles des convives collectées dans ce contexte ne seront     pas réutilisées par TheFork. </p>
-
-<h4 style="text-align: justify;">     5.5 <u> Droit de réponse</u></h4>
-
-<p style="text-align: justify;">     Chaque Restaurateur dispose d'un droit de réponse afin notamment de : </p>
-
-<ul type="disc">
-  <li style="text-align: justify;">         donner sa version des faits ;     </li>
-
-  <li style="text-align: justify;">         remercier le consommateur pour sa contribution ; et/ou     </li>
-
-  <li style="text-align: justify;">         indiquer les éventuels changements intervenus dans le restaurant depuis         la rédaction de l'avis.     </li>
-</ul>
-
-<p style="text-align: justify;">     Le droit de réponse doit être exercé dans les 3 mois de la diffusion de l’avis auquel il répond par le biais de l’outil <a href="https://login.theforkmanager.com/login" rel="nofollow">THEFORK&nbsp;MANAGER</a>, ou en écrivant à l’adresse email    <a href="mailto:contact@thefork.ch">contact@thefork.ch</a> , le     cas échéant. La demande d’exercice du droit de réponse par email doit     comporter les éléments suivants : </p>
-
-<ul>
-  <li style="text-align: justify;">         références de l'avis ;     </li>
-
-  <li style="text-align: justify;">         identification de son auteur ;     </li>
-
-  <li style="text-align: justify;">mention des passages contestés ; </li>
-
-  <li style="text-align: justify;"> teneur de la réponse sollicitée (la réponse ne peut être plus longue que     l'avis de l'Utilisateur auquel elle répond). </li>
-</ul>
-
-<p style="text-align: justify;">     La réponse devra être conforme aux dispositions des présentes Conditions     d’Utilisation et sera modérée dans les mêmes conditions que les avis des     Utilisateurs et publiée le cas échéant à la suite de l’avis auquel elle     répond. </p>
-
-<h4 style="text-align: justify;">     5.6 <u> Note des restaurants</u></h4>
-
-<p style="text-align: justify;">     Chaque Utilisateur ayant réservé un restaurant par le Site TheFork et     honoré sa réservation dans ce restaurant est invité à donner une note     correspondant à son expérience de consommation. </p>
-
-<p style="text-align: justify;">     L’Utilisateur est informé que la note indiquée sur le Site TheFork à     côté de chaque restaurant correspond à une moyenne pondérée des notes     données. </p>
-
-<h4 style="text-align: justify;">     5.7 <u>Utilisation du Contenu Utilisateur</u></h4>
-
-<p style="text-align: justify;">     L’utilisateur convient qu’en publiant le Contenu Utilisateur sur le Site     TheFork il accorde automatiquement à TheFork, une autorisation     irrévocable, permanente, non exclusive, sans contrepartie pécuniaire     d’utiliser, de copier, d’afficher, d’adapter, de modifier, de traduire, de     distribuer, de faire distribuer ou de promouvoir, d'incorporer à des     publicités ou autres documents, de créer des œuvres dérivées de celui-ci,     de mettre en valeur, de distribuer ledit Contenu Utilisateur, dans le monde     entier, mais aussi de permettre à des tiers d’agir de même, et ce sur tout     support en ligne ou non. En outre, en publiant un Contenu Utilisateur sur     le Site TheFork, l’Utilisateur accorde automatiquement à TheFork     tous les droits nécessaires pour interdire tout affichage, agrégation,     copie ou exploitation ultérieure dudit Contenu Utilisateur par un tiers à     quelque fin que ce soit. L’Utilisateur s’interdit d’exercer son droit moral     sur le Contenu Utilisateur de manière incompatible avec les autorisations     ci-dessus accordées. L’utilisateur déclare et garantit qu’il est en droit     d’accorder les autorisations ci-dessus accordées.</p>
-
-<h3><u><strong>6.   Confidentialité</strong></u></h3>
-
-<p>TheFork a mis en place une Déclaration relative  à la confidentialité et aux cookies afin de protéger au mieux les données  personnelles des Utilisateurs. <a href="#PolitiqueDeConfidentialite">Cliquer ici</a>&nbsp;pour consulter notre Déclaration relative à la confidentialité et aux cookies  actuellement en vigueur, qui s’applique également à l’utilisation du Site  TheFork.</p>
-
-<h3 style="text-align: justify;"><strong>7. <u>Propriété intellectuelle</u></strong></h3>
-
-<h4 style="text-align: justify;">7.1     <u>         Respect du droit national et international de la propriété         intellectuelle</u></h4>
-
-<p style="text-align: justify;">     L'Utilisateur s'engage à ne pas soumettre, copier, revendre, rééditer, ou,     en général, rendre disponible par quelque forme que ce soit tout contenu,     donnée, information ou élément, reçu de TheFork ou disponible sur le     Site TheFork, à une autre personne physique ou morale, de tous pays.     L'Utilisateur s'engage à respecter les dispositions ci-après relatives à la     propriété intellectuelle. </p>
-
-<h4 style="text-align: justify;">     7.2 <u>Propriété des droits</u></h4>
-
-<p style="text-align: justify;">     Tous les droits, patrimoniaux et moraux, de propriété intellectuelle,     afférents aux contenus et aux éléments d'information du Site TheFork     appartiennent en propre à TheFork, sous réserve de tout droit     patrimonial pouvant appartenir à un tiers et pour lesquels la Société TheFork a obtenu les cessions de droits ou les autorisations     nécessaires. </p>
-
-<p style="text-align: justify;">     Les droits conférés à l'Utilisateur en vue de l'utilisation du Site TheFork et des services fournis par TheFork n'emportent aucune     cession ni aucune autorisation d'exploiter ou d'utiliser l'un quelconque     des éléments du Site TheFork. </p>
-
-<h4 style="text-align: justify;">     7.3     <u>         Protection de tous les éléments : Marques, dessins, logos, liens         hypertextes, informations, etc.     </u></h4>
-
-<p style="text-align: justify;">     Tous les éléments (marques, dessins, textes, liens hypertextes, logos,     images, vidéos, éléments sonores, logiciels, mise en page, bases de     données, codes...) contenus sur le Site TheFork et dans les sites     associés sont protégés par le droit national et international de la     propriété intellectuelle. Ces éléments restent la propriété exclusive de TheFork et/ou de ses partenaires ou concédants. </p>
-
-<h4 style="text-align: justify;">     7.4 <u>Interdiction d'utilisation sans autorisation</u></h4>
-
-<p style="text-align: justify;">     Par conséquent, sauf autorisation préalable et écrite de TheFork     et/ou de ses partenaires, l'Utilisateur ne peut procéder à une quelconque     reproduction, représentation, réédition, redistribution, adaptation,     traduction et/ou transformation partielle ou intégrale, ou un transfert sur     un autre support de tout élément composant ou présent sur le Site     TheFork. </p>
-
-<h4 style="text-align: justify;">     7.5 <u>Sanctions</u></h4>
-
-<p style="text-align: justify;">     L'Utilisateur reconnaît et prend connaissance que le non-respect des     dispositions du présent article 7 est constitutif d'un acte de contrefaçon     répréhensible tant civilement que pénalement.</p>
-
-<p style="text-align: justify;"><br>
-</p>
-
-<h3 style="text-align: justify;"><strong>8. <u>Limitations de responsabilité</u></strong></h3>
-
-<h4 style="text-align: justify;">8.1 <u>Avertissement</u></h4>
-
-<p style="text-align: justify;">     Il appartient à l'Utilisateur de faire toutes vérifications qui semblent     nécessaires ou opportunes avant de procéder à une quelconque réservation     dans l'un des restaurants référencés sur le Site TheFork. </p>
-
-<p style="text-align: justify;">     TheFork ne garantit aucunement et de quelque façon que ce soit le     Contenu Restaurateur ou les services et/ou pratiques commerciales des tiers     présents sur le site TheFork. En ce sens, TheFork ne garantit     pas à l'Utilisateur qu'il soit satisfait des produits, services et/ou     pratiques commerciales qu'il a obtenus suite à une réservation par le biais     du Site TheFork. </p>
-
-<p style="text-align: justify;">     TheFork ne garantit aucunement et de quelque façon que ce soit la     teneur, l’objectivité ou l’exactitude du Contenu Utilisateur, et notamment     des avis déposés sur le Site TheFork. </p>
-
-<h4 style="text-align: justify;">     8.2 <u> Modification du Site TheFork</u></h4>
-
-<p style="text-align: justify;">     Toutes les informations contenues sur le Site TheFork sont     susceptibles d'être modifiées à tout moment, compte tenu de l'interactivité     du Site TheFork, sans que cela puisse engager la responsabilité de TheFork. </p>
-
-<h4 style="text-align: justify;">     8.3 <u> Utilisation du Site TheFork</u></h4>
-
-<p style="text-align: justify;">     Compte tenu des spécificités du réseau Internet, TheFork n'offre     aucune garantie d’accès au Site TheFork ou de continuité du service,     n'étant tenue à cet égard que d'une obligation de moyens. </p>
-
-<p style="text-align: justify;">     TheFork décline toute responsabilité en cas de de difficulté d’accès     au Site TheFork ou pour tout dommage ou perte lié à l'utilisation ou     l'impossibilité d'utiliser le Site TheFork ou son contenu, sauf     exception prévue par la loi. </p>
-
-<p style="text-align: justify;">     TheFork ne garantit pas que les informations présentées soient     détaillées, complètes, vérifiées ou exactes. Le Contenu Restaurateur, les     informations, fiches descriptives, et, en général, tout contenu présent sur     le Site TheFork sont fournis en "l'état", sans aucune garantie     expresse ou tacite de quelque sorte que ce soit. </p>
-
-<p style="text-align: justify;">     L'Utilisateur reconnaît expressément que les photos présentes sur le Site     TheFork ne soient pas contractuelles. </p>
-
-<p style="text-align: justify;">     De façon générale, l'Utilisateur accepte et reconnaît que la réservation     auprès d’un restaurant ne soit pas garantie. En ce sens, TheFork ne     garantit pas l'effectivité du service de réservation. La disponibilité est     vérifiée en temps réel informatiquement. Toutefois, TheFork ne     pouvant pas matériellement vérifier l'exactitude des renseignements     collectés et/ou donnés par les restaurants, l'Utilisateur accepte que la     responsabilité de TheFork ne puisse être engagée si l'Utilisateur ne     parvient pas à bénéficier des prestations du restaurant. En effet, les     paramétrages du logiciel de réservation en temps réel dépendent pour partie     des informations fournies et/ou enregistrées par le restaurant et peuvent     ne pas correspondre à la réalité. Ainsi, par exemple et de façon non     exhaustive, l'Utilisateur reconnaît et accepte que la responsabilité de TheFork ne soit en aucun cas recherchée en cas d'annulation de     réservation, en cas d'établissement fermé, et ce pour quelque raison que ce     soit, ou encore en cas de refus de prestation, et ce pour quelque raison     que ce soit.     <br>
-<br>
-                          De même, l'Utilisateur accepte que la responsabilité de TheFork ne     puisse pas être engagée si l'Utilisateur ne parvient pas à bénéficier des     promotions ou offres spéciales proposées par le restaurant. L'Utilisateur     reconnaît et accepte que la responsabilité de TheFork ne soit en     aucun cas recherchée dans le cas où le restaurant n'honorerait pas une     promotion ou une offre spéciale, et ce pour quelque raison que ce soit. </p>
-
-<h4 style="text-align: justify;">     8.4 <u> Garanties de l'Utilisateur</u></h4>
-
-<p style="text-align: justify;">     L'Utilisateur déclare qu'il connaît parfaitement les caractéristiques et     les contraintes de l'Internet. Il reconnaît notamment qu'il est impossible     de garantir que les données que l'Utilisateur aura transmises via Internet     seront entièrement sécurisées. TheFork ne pourra être tenue     responsable des incidents qui pourraient découler de cette transmission. </p>
-
-<p style="text-align: justify;">     L'Utilisateur s'engage à indemniser TheFork à hauteur des coûts que TheFork devrait supporter à la suite de toute réclamation ou     contestation, judiciaire ou extrajudiciaire, liées à l'utilisation des     services de TheFork et notamment le dépôt de Contenu Utilisateur sur     le Site TheFork par l'Utilisateur et garantit TheFork de toute     condamnation à ce titre. </p>
-
-<p style="text-align: justify;">     En tout état de cause, l'Utilisateur reconnaît expressément et accepte     d'utiliser le Site TheFork à ses propres risques et sous sa     responsabilité exclusive. </p>
-
-<h4 style="text-align: justify;">     8.5 <u> Notification et retrait de contenu illicite</u></h4>
-
-<p style="text-align: justify;">     TheFork informe tout Utilisateur qu'il peut notifier une réclamation     ou une objection quant à des éléments ou des contenus du Site TheFork. </p>
-
-<p style="text-align: justify;">     Si l'Utilisateur estime que des éléments ou des contenus du Site TheFork sont illicites et/ou contrefont des droits d'auteur qu'il     détient, l'Utilisateur doit adresser une notification à TheFork par     Lettre Recommandée avec Accusé de Réception adressée au ‘Service Juridique’ ou par courriel à    <a href="mailto:contact@thefork.ch">contact@thefork.ch</a>&nbsp;avec     la mention « A l’attention du Service Juridique » dans la ligne d’objet et     contenant tous les éléments justificatifs de titularité des droits le cas     échéant. Une fois cette procédure suivie et après vérification de     l'exactitude de la notification, TheFork s'efforcera, dans une mesure     raisonnable et dans les meilleurs délais, de retirer le contenu illicite. </p>
-
-<p style="text-align: justify;">     TheFork agit comme intermédiaire dans le cadre de la fourniture de     ses services à l’Utilisateur. A ce titre, conformément à l’article 6 I.3 de     la loi pour la confiance dans l’économie numérique (LCEN) du 21 juin 2004,     modifiée, TheFork ne saurait voir sa responsabilité pénale engagée à     raison des informations stockées sur le Site TheFork si elle n'avait     pas effectivement connaissance de l'activité ou de l'information illicites     (notamment Contenu Utilisateur et Contenu Restaurateur) ou si, dès le     moment où elle en a eu connaissance, elle a agi promptement pour retirer     ces informations ou en rendre l'accès impossible. </p>
-
-<p style="text-align: justify;"><br>
-</p>
-
-<h3 style="text-align: justify;"><strong>9. <u>Dispositions diverses</u></strong></h3>
-
-<h4 style="text-align: justify;">9.1 <u>Nullité partielle - Dissociation - Titres</u></h4>
-
-<p style="text-align: justify;">     Dans l'hypothèse où une disposition des présentes conditions générales     serait nulle, illégale, inopposable ou inapplicable d'une manière     quelconque, la validité, la légalité, l’opposabilité ou l'application des     autres dispositions des présentes Conditions d’Utilisation n'en serait     aucunement affectée ou altérée, ces autres dispositions demeurant en     vigueur et conservant leur plein et entier effet. </p>
-
-<p style="text-align: justify;">     TheFork pourra le cas échéant procéder à la rédaction d'une nouvelle     clause ayant pour effet de rétablir la volonté commune des Parties telle     qu'exprimée dans la clause initiale, et ce, dans le respect du droit en     vigueur applicable aux présentes Conditions d’Utilisation.     <br>
-<br>
-                          Les titres des articles des présentes n'ont qu'une valeur indicative et ne     doivent pas être considérés comme faisant partie intégrante des présentes     Conditions d’Utilisation. </p>
-
-<h4 style="text-align: justify;">     9.2 <u>Absence de renonciation</u></h4>
-
-<p style="text-align: justify;">     Sauf stipulation contraire prévue éventuellement dans les présentes     Conditions d’Utilisation, aucune tolérance, inaction, abstention ou     omission, aucun retard de TheFork pour se prévaloir de l'un     quelconque de ses droits conformément aux termes des présentes, ne portera     atteinte audit droit, ni ne saurait impliquer une renonciation pour     l'avenir à se prévaloir d'un tel droit. Au contraire, ledit droit demeurera     pleinement en vigueur. </p>
-
-<h4 style="text-align: justify;">     9.3 <u>Loi applicable</u></h4>
-
-<p style="text-align: justify;">     Dans la mesure permise par la loi, les présentes Conditions d’Utilisation     et les relations qui se nouent entre TheFork et l'Utilisateur sont     soumises au droit français. Dans la mesure permise par la loi, en cas de     rédaction des présentes Conditions d’Utilisation en plusieurs langues ou de     traduction, seule la version française fera foi. </p>
-
-<h4 style="text-align: justify;">     9.4 <u>Compétence juridictionnelle</u></h4>
-
-<p style="text-align: justify;">     Dans la mesure permise par la loi, toute contestation et/ou difficulté     d'interprétation ou d'exécution des présentes Conditions d‘Utilisation     relèvera des tribunaux compétents de la ville de Paris. </p>
-
-<p style="text-align: justify;">En application de la directive européenne 2013/11/EU du 21 mai 2013     relative au règlement extrajudiciaire des litiges de consommation,     veuillez-trouver ci-dessous le lien vers la plateforme européenne de     règlement en ligne des litiges de consommation :              <a href="https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.show&amp;lng=FR" rel="nofollow">https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.show&amp;lng=FR</a></p>
-
-<p style="text-align: justify;"><br>
-</p>
-
-<h2 style="text-align: justify;"><strong>TITRE 2. CONDITIONS PARTICULIERES&nbsp;D’UTILISATION DU PROGRAMME DE FIDELITE</strong></h2>
-
-<p style="text-align: justify;">     Les présentes Conditions Particulières d’Utilisation du Programme de     Fidélité viennent compléter le Titre 1 : Conditions Générales     d’Utilisation. En cas de contradiction entre les dispositions du présent     Titre 2. Conditions Particulières d’Utilisation du Programme de Fidélité et     celles du Titre 1. Conditions Générales d’Utilisation, les dispositions du     présent titre 2 Conditions Particulières d’Utilisation du Programme de     Fidélité prévalent. </p>
-
-<p style="text-align: justify;"><br>
-</p>
-
-<h3 style="text-align: justify;"><strong>1. <u>Description du Programme de Fidélité</u></strong></h3>
-
-<p style="text-align: justify;">     Le programme de fidélité permet à l’Utilisateur de cumuler des points     fidélités (ci-après, les « Yums ») à l’issue d'une réservation sur le     Site TheFork dûment honorée (ci-après, le « Programme de Fidélité »).</p>
-
-<p style="text-align: justify;"><br>
-</p>
-
-<h3 style="text-align: justify;"><strong style="color: inherit; font-family: inherit;">2. <u>Participation au Programme de Fidélité</u></strong></h3>
-
-<p style="text-align: justify;">     Tout Utilisateur titulaire d’un compte sur le Site TheFork est     éligible au Programme de Fidélité. </p>
-
-<p style="text-align: justify;">     La participation au Programme de Fidélité est gratuite et automatique. </p>
-
-<p style="text-align: justify;"><br>
-</p>
-
-<h3 style="text-align: justify;"><strong>3. <u>Obtention des Yums</u></strong></h3>
-
-<h4 style="text-align: justify;">     3.1 <u>Conditions générales d’obtention des Yums</u></h4>
-
-<p style="text-align: justify;">     Le Programme de Fidélité permet à l’Utilisateur de cumuler des Yums à     l’issue d'une réservation sur le Site de TheFork dûment honorée,     quel que soit le restaurant réservé sur le Site TheFork et que la     réservation ait été faite avec ou sans offre promotionnelle. </p>
-
-<p>Quand une réservation est effectuée sur le Site TheFork et honorée, l’Utilisateur obtient un nombre de Yums pre-défini (qui peut varier, notamment en fonction du support de réservation&nbsp;: site web, mobile ou application) sept jours après la date du repas, quel que soit le nombre de convives associés à la réservation et quel que soit le pays où la réservation a été faite.</p>
-
-<p>Il est précisé que dans le cas où ladite réservation a été effectuée avec une Remise Fidélité (telle que définie à l’article 4.1 ci-après) ou a été annulée par l’Utilisateur ou si l’Utilisateur ne s’est pas rendu au restaurant pour ladite réservation (no-show), l’Utilisateur n’obtient pas de Yums.</p>
-
-<p style="text-align: justify;">     La somme des Yums obtenue par l’Utilisateur est stockée et peut être     consultée par l’Utilisateur dans la rubrique «     <a href="https://www.lafourchette.ch/#user-account" rel="nofollow">         Mon espace fidélité     </a>     » du compte de l’Utilisateur. </p>
-
-<h4 style="text-align: justify;">     3.2 <u>Conditions particulières d’obtention des Yums</u></h4>
-
-<h5 style="text-align: justify;">     3.2.1 <u>Opérations spéciales avec code fidélité</u></h5>
-
-<p style="text-align: justify;">     TheFork réalise des opérations spéciales à durée limitée pendant     lesquelles l’Utilisateur peut bénéficier de plus de Yums qu’à la normale     (ci-après, l’« Opération spéciale »). </p>
-
-<p style="text-align: justify;">     Lors de chaque Opération spéciale, l’Utilisateur reçoit un email précisant     les conditions d’obtention des Yums. Parmi ces conditions, figure     l’obligation d’indiquer un code fidélité lors de la prochaine réservation     de l’Utilisateur sur le Site TheFork (ci-après, le « Code fidélité »). </p>
-
-<p style="text-align: justify;">     La somme des Yums obtenue grâce à l’Opération spéciale est stockée et peut     être consultée par l’Utilisateur dans la rubrique «     <a href="https://www.lafourchette.ch/#user-account" rel="nofollow">         Mon espace fidélité     </a>     » du compte de l’Utilisateur. </p>
-
-<p style="text-align: justify;">     A compter de son émission, le Code fidélité a une durée de validité limitée     à la durée de l’Opération spéciale. Le Code fidélité n’a pas de valeur     monétaire et ne peut en aucun cas être prêté, cédé, ni vendu à quiconque ou     utilisé à d’autres fins que celles définies par TheFork dans les     présentes Conditions Particulières d’Utilisation du Programme de Fidélité.</p>
-
-<p style="margin-top:0cm;margin-right:0cm;margin-bottom:7.5pt;margin-left:0cm;text-align:justify;background:white">3.2.2 <u>Parrainage avec code parrainage</u></p>
-
-<p style="margin-top:0cm;margin-right:0cm;margin-bottom:7.5pt;margin-left:0cm;text-align:justify;background:white;box-sizing: border-box;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-style: initial;text-decoration-color: initial;word-spacing:0px">TheFork a mis en place un programme de parrainage permettant à la fois, au parrain et au filleul (un membre de la famille, un ami, un collègue ou tout autre personne similairement connue du parrain), de bénéficier d’une somme de Yums supérieure à la normale lors de la première réservation du filleul sur le Site de TheFork, grâce au code parrainage renseigné par le filleul lors de cette réservation (ci-après, le « Code parrainage »).</p>
-
-<p style="margin-top:0cm;margin-right:0cm;margin-bottom:7.5pt;margin-left:0cm;text-align:justify;background:white;box-sizing: border-box;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-style: initial;text-decoration-color: initial;word-spacing:0px">Tout Utilisateur ayant un compte avec le Site TheFork peut être un parrain.</p>
-
-<p style="margin-top:0cm;margin-right:0cm;margin-bottom:7.5pt;margin-left:0cm;text-align:justify;background:white;box-sizing: border-box;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-style: initial;text-decoration-color: initial;word-spacing:0px">Toute personne majeure et n’ayant pas effectué de réservation sur le Site TheFork deux ans avant l’utilisation du Code parrainage peut être un filleul.</p>
-
-<p style="margin-top:0cm;margin-right:0cm;margin-bottom:7.5pt;margin-left:0cm;text-align:justify;background:white;box-sizing: border-box;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-style: initial;text-decoration-color: initial;word-spacing:0px">Un parrain peut avoir plusieurs filleuls. Un filleul ne peut avoir qu’un parrain. Le parrain ne peut pas se parrainer lui-même.</p>
-
-<p>Pour obtenir son Code parrainage, le parrain se rend dans la rubrique " <a href="https://www.thefork.ch/#user-account" rel="nofollow">Mon espace parrainage</a> " de son compte TheFork.</p>
-
-<p style="margin-top:0cm;margin-right:0cm;margin-bottom:7.5pt;margin-left:0cm;background:white">La somme des Yums obtenue grâce au parrainage est indiquée dans les rubriques « <a href="https://www.thefork.ch/#user-account" rel="nofollow">Mon espace parrainage</a> » et « <a href="https://www.thefork.ch/#user-account" rel="nofollow">Mon espace fidélité</a> » du compte de l’Utilisateur.</p>
-
-<p style="margin-top:0cm;margin-right:0cm;margin-bottom:7.5pt;margin-left:0cm;text-align:justify;background:white;box-sizing: border-box;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-style: initial;text-decoration-color: initial;word-spacing:0px">A compter de son émission, et sous réserve des autres dispositions des présentes, le Code parrainage a une durée de validité limitée à la durée du programme de parrainage.</p>
-
-<p style="margin-top:0cm;margin-right:0cm;margin-bottom:7.5pt;margin-left:0cm;text-align:justify;background:white;box-sizing: border-box;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-style: initial;text-decoration-color: initial;word-spacing:0px">Le Code parrainage : a) doit être utilisé légalement par le public auquel il est destiné et pour les finalités envisagées ; b) n’a pas de valeur monétaire et ne peut en aucun cas être prêté, cédé (sauf comme permis par les présentes), ni vendu à quiconque, ni être mis à la disposition du public en général (qu’ils soit posté sur un forum public, un site de coupon, ou autrement) ; d) peut être invalidé par TheFork à tout moment sans qu’une raison ou un préavis soit donné et sans indemnités ; et e) ne peut seulement être utilisé en conformité avec les présentes Conditions Particulières d’Utilisation du Programme de Fidélité.</p>
-
-<p style="text-align: justify;"><br>
-</p>
-
-<h3 style="text-align: justify;"><strong>4. <u>Utilisation des Yums</u></strong></h3>
-
-<h4 style="text-align: justify;">     4.1 <u>Conversion en remise fidélité</u></h4>
-
-<p style="text-align: justify;">     Une fois obtenus, les Yums sont convertibles en réduction de prix sur     l’addition d’un restaurant, partenaire du Programme de Fidélité après     réservation sur le Site TheFork (ci-après, la « Remise Fidélité »). </p>
-
-<p style="text-align: justify;"> Le barème des Yums convertibles en Remise Fidélité est disponible    <a href="https://www.thefork.ch/#user-account" rel="nofollow">ici</a>. </p>
-
-<p style="text-align: justify;">     La liste des restaurants partenaires du Programme de Fidélité est     accessible dans l’espace fidélité du compte TheFork de l’Utilisateur.     Les restaurants partenaires sont également identifiables partout sur le     Site TheFork grâce à une mention spécifique. </p>
-
-<p style="text-align: justify;">     Pour convertir ses Yums en Remise Fidélité, L’Utilisateur doit sélectionner un restaurant partenaire du Programme de Fidélité, choisir l'option Remise Fidélité et un créneau où les Remises Fidélité sont acceptées avant de valider sa réservation. </p>
-
-<p style="text-align: justify;">     Ledit restaurant partenaire du Programme de Fidélité a ensuite la charge de     déduire automatiquement et sans autre formalité la Remise Fidélité du     montant de l’addition. </p>
-
-<p style="text-align: justify;">     Si le montant de la remise fidélité est supérieur au montant de l’addition,     la déduction opérée par le restaurant ne peut excéder le montant de     l’addition. En d’autres termes, le restaurant ne peut pas verser à     l’Utilisateur la différence entre le montant de la Remise Fidélité et le     montant de l’addition. </p>
-
-<p style="text-align: justify;">     En cas d’offre promotionnelle cumulable avec la Remise Fidélité, le restaurant     appliquera l’offre promotionnelle avant la déduction de la Remise Fidélité. </p>
-
-<p>Les Yums obtenus par l’Utilisateur sont convertibles en Remise Fidélité pendant leur durée de validité, telle que renseignée sur la page du Programme de Fidélité du Site TheFork. La date d’expiration des Yums peut être consultée dans la rubrique «&nbsp;<a href="https://www.thefork.ch/#user-account"><u>Mon espace fidélité&nbsp;</u></a>» du compte de l’Utilisateur.</p>
-
-<p style="text-align: justify;">     Les Yums sont strictement personnels, n’ont pas de valeur monétaire et ne     peuvent en aucun cas être prêtés, cédés, ni vendus à quiconque ou utilisés     à d’autres fins que celles définies par TheFork dans les présentes     Conditions Particulières d’Utilisation du Programme de Fidélité. </p>
-
-<h4 style="text-align: justify;">     4.2 <u>Annulation / no-show</u></h4>
-
-<p style="text-align: justify;">     Si l’Utilisateur a réservé avec une Remise Fidélité et annule cette     réservation, ou si le restaurant annule la réservation, les Yums utilisés     pour la conversion en Remise Fidélité lors de la réservation seront     recrédités sur le compte de l’Utilisateur et pourront être utilisés pour     une nouvelle réservation. </p>
-
-<p style="text-align: justify;">     Si l’Utilisateur ne se présente pas au restaurant (no-show), la Remise     Fidélité et les Yums ainsi convertis sont perdus et ne seront pas     recrédités sur le compte de l’Utilisateur. </p>
-
-<p style="text-align: justify;"><br>
-</p>
-
-<h3 style="text-align: justify;"><strong>5. <u>Retrait des Yums</u></strong></h3>
-
-<p style="text-align: justify;">     TheFork se réserve le droit de ne pas attribuer ou de supprimer les     Yums obtenus à travers l’utilisation d’un Code Fidélité ou Code Parrainage     par tout Utilisateur au cas où TheFork jugerait ou estimerait que     l’utilisation du Code Fidélité ou Code Parrainage s’est fait de façon     frauduleuse, illégale, erronée ou contraire aux conditions applicables à     l’Opération spéciale ou aux présentes Conditions Particulières     d’Utilisation du Programme de Fidélité. </p>
-
-<p style="text-align: justify;">     En outre, tout manquement par l’Utilisateur aux présentes Conditions     d’Utilisation (y compris le fait de ne pas honorer plusieurs réservations),     toute utilisation abusive ou frauduleuse du Site TheFork et/ou des     Yums, tout comportement préjudiciable aux intérêts de TheFork peut     entrainer de plein droit la désactivation du compte de l’Utilisateur et/ou     la suppression immédiate de tout ou partie des Yums stockés dans l’espace     fidélité du compte TheFork de l’Utilisateur, et ce, sans préavis ni     indemnité. </p>
-
-<p style="text-align: justify;"><br>
-</p>
-
-<h3 style="text-align: justify;"><strong>6. <u>Modification/Suspension/clôture du Programme de Fidélité</u></strong></h3>
-
-<p style="text-align: justify;">     TheFork se réserve à tout moment le droit de modifier, suspendre, ou     supprimer le Programme de Fidélité à tout moment sans que sa responsabilité     ne puisse être engagée à quelque titre que ce soit. Dans ce cas, TheFork en informera les Utilisateurs par email et/ou par affichage sur     la Site TheFork en indiquant les nouvelles modalités du Programme de     Fidélité et/ou les conditions de clôture du Programme de Fidélité. </p>
-
-<p style="text-align: justify;"><br>
-</p>
-
-<h3 style="text-align: justify;"><strong>7. <u>Limitation de Responsabilité</u></strong></h3>
-
-<p style="text-align: justify;">     Dans le cadre du Programme de Fidélité, la responsabilité de TheFork     se limite à une obligation de moyens et se limite à l’opération     d’attribution des Yums aux Utilisateurs. Ainsi, la responsabilité de TheFork ne saurait être engagée pour toute réclamation portant sur les     Yums après que ceux-ci aient été dûment attribués par TheFork à     l’Utilisateur. Plus particulièrement, la responsabilité de TheFork ne     saurait être engagée après que les Yums aient été convertis en Remise     Fidélité par L’Utilisateur. </p>
-
-<p style="text-align: justify;">     A ce titre, TheFork décline toute responsabilité en cas de non     application de la Remise Fidélité par le restaurant à l’Utilisateur. </p>
-
-<p style="text-align: justify;">     En tout état de cause, TheFork décline toute responsabilité dans le     cadre du Programme de Fidélité en cas de manquement contractuel et/ou faute     de l’Utilisateur.&nbsp;</p>
+<p style="text-align: justify;"><strong><em>"Contenuto Utente”:</em></strong>     si riferisce a tutti gli elementi forniti dall'Utente sul Sito TheFork,     inclusi testi, documenti, immagini, foto, recensioni o diritto di replica. </p>
 
 <p><br>
 </p>
 
-<h1 id="PolitiqueDeConfidentialite">C. DÉCLARATION RELATIVE À LA CONFIDENTIALITÉ ET AUX  COOKIES</h1>
+<h4 style="text-align: justify;"><u>Accettazione e modifica dei Termini di Utilizzo</u></h4>
 
-<p style="text-align: center;"><strong>Dernière mise à jour : 3 juin&nbsp;2021</strong></p>
+<p style="text-align: justify;">     TheFork fornisce all'Utente un servizio di ricerca e di prenotazione     di ristoranti online in cambio dell'accettazione incondizionata di questi     Termini di Utilizzo. </p>
 
-<p>Nous savons que le partage  de vos informations personnelles avec nous est basé sur la confiance. Nous  prenons cette question très au sérieux et nous nous engageons à respecter votre  vie privée lorsque vous consultez notre site Web ou utilisez nos services.  Veuillez examiner la Déclaration suivante avec attention pour en  savoir plus sur nos pratiques en matière de confidentialité.</p>
+<p style="text-align: justify;">     Gli Utenti dichiarano e riconoscono di avere letto per intero questi     Termini di Utilizzo. Inoltre, usando uno qualsiasi dei servizi offerti dal     Sito TheFork, gli Utenti accettano incondizionatamente di essere vincolati     a questi Termini di Utilizzo. </p>
 
-<p>Nous  exploitons un service en ligne qui permet aux utilisateurs (« vous »,  « votre ») de choisir et réserver une table dans un restaurant,  voire, selon le lieu, de régler leur repas. Dans la présente Déclaration, les  options susmentionnées sont désignées collectivement comme nos Services. </p>
+<p style="text-align: justify;">     TheFork si riserva il diritto di modificare questi Termini di     Utilizzo in qualsiasi momento, in toto o in parte. È responsabilità     dell'Utente pertanto consultare regolarmente la versione più recente dei     Termini di Utilizzo pubblicata sul Sito TheFork. Questa nuova versione sarà     considerata accettata dagli Utenti dopo ogni nuovo utilizzo del Sito     TheFork. </p>
 
-<p>Nos Services&nbsp;sont détenus et&nbsp;exploités par La Fourchette SAS, qui  agit en qualité de responsable du traitement des données et de propriétaire. En  consultant nos sites Web et nos applications connexes, que ce soit sur un  ordinateur, un téléphone, une tablette ou un appareil similaire (tous désignés  sous le nom d'« Appareil »), vous acceptez les pratiques décrites  ci-dessous.</p>
+<p style="text-align: justify;">     Accedendo al Sito TheFork o utilizzandolo in qualsiasi modo, l’Utente     acconsente a essere vincolato a questi Termini di Utilizzo. </p>
 
-<p>En tant qu'entreprise internationale,  nous exerçons nos activités dans un certain nombre de pays et de territoires où  les lois et les coutumes diffèrent. La présente Déclaration donne un aperçu  général de nos pratiques en matière de confidentialité ; vous pouvez  consulter certaines informations spécifiques à votre pays en sélectionnant  votre lieu de résidence dans les liens de juridiction au bas de ce document.</p>
+<p style="text-align: justify;"><br>
+</p>
 
-<h3><strong>Collecte de  données</strong></h3>
+<h4 style="text-align: justify;"><strong>1. <u>Descrizione del Sito TheFork </u></strong></h4>
 
-<p>Lorsque vous accédez ou utilisez nos Services, nous  collectons des données vous concernant afin de vous offrir une expérience plus  personnalisée et pertinente. Certaines données sont collectées automatiquement.  D'autres données sont collectées de différentes sources, y compris des entités  affiliées, des partenaires commerciaux et d'autres sources tierces  indépendantes. Lorsque vous utilisez nos Services en cliquant sur un lien  figurant sur un site tiers ou lorsque vous consultez des sites tiers via nos Services,  ces sites tiers peuvent partager avec nous des données sur votre utilisation de  leur service. Les données collectées peuvent comprendre les éléments  suivants: </p>
+<p style="text-align: justify;">L'utilizzo del Sito TheFork è soggetto a limitazioni di responsabilità da     parte di TheFork. Si prega di fare riferimento all’articolo 8     "Limitazione di responsabilità" per i dettagli.</p>
 
-<ul>
-  <li>Coordonnées, y compris nom, numéro de téléphone et adresses postale et  électronique</li>
+<h5 style="text-align: justify;">1.1 <u>Presentazione della piattaforma</u></h5>
 
-  <li>Informations de facturation ou de paiement (telles que le numéro de  votre carte bancaire, le nom du titulaire de la carte, la date d'expiration, le  code d'authentification et l'adresse de facturation), collectées par le biais  de notre partenariat avec un prestataire&nbsp;  de services de paiement de confiance</li>
+<p style="text-align: justify;">     Il Sito TheFork è una piattaforma che consente all'Utente di connettersi,     tra le varie funzionalità, con i ristoranti elencati sul Sito TheFork.     Pertanto TheFork agisce esclusivamente in qualità di intermediario nell'ambito della prenotazione di suddetti ristoranti da parte dell'Utente.    </p>
 
-  <li>Nom d'utilisateur et mot de passe</li>
+<h5 style="text-align: justify;"> 1.2&nbsp;<u>Ricerca di un ristorante e prenotazione di tavoli in tempo reale </u></h5>
 
-  <li>Photos, avis et messages sur les réseaux sociaux que vous nous avez  peut-être fournis</li>
+<p style="text-align: justify;">     Il Sito TheFork consente all'Utente di cercare un ristorante e prenotare un     tavolo in tempo reale. </p>
 
-  <li>Données  relatives à la géolocalisation</li>
+<p style="text-align: justify;">     Il Sito TheFork consente inoltre all'Utente di cancellare la propria     prenotazione in caso di imprevisti. </p>
 
-  <li>Données relatives à l'appareil, telles que l'heure à laquelle vous avez  accédé à nos Services et des informations sur l'Appareil utilisé (par exemple,  adresse IP, logiciel ou navigateur Internet utilisé, langues préférées,  identificateurs uniques d'appareils et identificateurs publicitaires)</li>
+<h5 style="text-align: justify;"> 1.3 <u> Offerte promozionali dei ristoranti elencati sul Sito TheFork </u></h5>
 
-  <li>Activité  en ligne, y compris les pages que vous avez consultées, le contenu et les  applications examinés</li>
+<p style="text-align: justify;">     Il Sito TheFork consente all'Utente, a condizione che la prenotazione sia     stata fatta attraverso il Sito TheFork, di beneficiare di offerte     promozionali realizzate dai ristoranti sul Sito TheFork. Non tutti i     ristoranti hanno offerte promozionali. Le condizioni di validità di tali     offerte promozionali sono stabilite sul Sito TheFork. L’Utente si impegna a     verificare le condizioni di validità dell'offerta promozionale prima di     prenotare sul Sito TheFork e non potrà in nessun caso rivendicare di     beneficiare di un'offerta promozionale di un ristorante al di là delle     condizioni di validità così come stabilite sul Sito TheFork e/o al di fuori     della procedura di prenotazione che contiene l'offerta promozionale. </p>
 
-  <li>Historique  des&nbsp; reservations auprès de restaurants</li>
+<p style="text-align: justify;">     Una condizione di validità è che l’Utente e i suoi accompagnatori arrivino     al ristorante prenotato all'orario prenotato. Se un Utente e tutti i suoi     accompagnatori non si presentano al ristorante entro 15 minuti dall'orario     prenotato, il ristorante potrà decidere di non applicare l'offerta     promozionale associata alla prenotazione per l’Utente e i suoi     accompagnatori. Ai fini della chiarezza, ciò significa che se l'Utente o     uno qualsiasi dei suoi accompagnatori arrivano con più di 15 minuti di     ritardo, l'Utente e tutti i suoi accompagnatori perderanno il diritto di     beneficiare automaticamente dell'offerta promozionale e il ristorante potrà     decidere se applicare o meno l'offerta promozionale a tutti o ad alcuni     degli ospiti. </p>
 
-  <li>Informations  sur&nbsp; vos réservations dans les  restaurants et vos préférences</li>
-</ul>
+<p style="text-align: justify;"><br>
+</p>
 
-<p>Si vous nous les avez  fournies, nous pouvons également collecter des informations sur d'autres  clients vous ayant accompagnés, y compris leur adresse électronique et d'autres  données fournies lors des réservations, notamment leur prénom et leur nom de  famille. Si vous partagez avec nous des informations sur d'autres personnes,  vous devez obtenir leur consentement.&nbsp;Vous devez obtenir le consentement de toute autre personne sur laquelle vous nous communiquez des informations.  </p>
+<h4 style="text-align: justify;"><strong>2. <u>Utilizzo gratuito del Sito TheFork </u></strong></h4>
 
-<p>Outre les catégories susmentionnées,  nous pouvons également collecter certaines informations concernant votre  localisation si votre Appareil a été configuré pour envoyer ce type d'informations  via ses paramètres de confidentialité ou, par exemple, si vous avez chargé des  photos contenant des informations de géolocalisation. Nous pouvons utiliser les  informations concernant votre localisation directement et/ou partager votre  localisation avec des tiers. Nous recueillons et partageons vos informations de  localisation afin de vous fournir un contenu pertinent, d'analyser votre  utilisation de nos Services, de les améliorer et de fournir des  recommandations. Nous pouvons par exemple utiliser votre localisation pour vous  montrer des avis sur des restaurants proches de vous. </p>
+<p style="text-align: justify;">     In linea generale i servizi offerti sul Sito TheFork sono gratuiti. </p>
 
-<p>Vous pouvez modifier les paramètres de  confidentialité de votre Appareil à tout moment et désactiver la fonctionnalité  qui collecte et partage des informations sur votre localisation et/ou la  fonctionnalité de géolocalisation de vos photos. Toutefois, la désactivation du  partage de lieux peut affecter certaines fonctionnalités que nous proposons.  Pour obtenir de l'aide concernant les paramètres de confidentialité de votre Appareil,  nous vous invitons à contacter le fabricant de votre Appareil ou votre  fournisseur de service mobile.</p>
+<p style="text-align: justify;">     Si possono applicare delle tariffe, in particolare in funzione di modifiche     dei servizi offerti, dell'evoluzione della rete e di vincoli di natura     tecnica e/o legale. Gli Utenti saranno debitamente informati tramite     modifica a questi Termini di Utilizzo e/o l'inserimento di condizioni     speciali relative ai servizi a pagamento sul Sito TheFork. </p>
 
-<p>Veuillez consulter la section sur les <a href="#cookies">cookies</a> ci-dessous pour plus d'informations  concernant l'utilisation des cookies et des autres technologies qui y sont  décrites, y compris concernant vos choix relatifs à ces technologies.</p>
+<p style="text-align: justify;"><br>
+</p>
 
-<h3><strong>Utilisation des  informations</strong></h3>
+<h4 style="text-align: justify;"><strong>3. <u>Siti di terzi e servizi</u></strong></h4>
 
-<p>Nous nous engageons à vous fournir un contenu pertinent  sur nos Services et à respecter les lois relatives à la confidentialité des  données des différentes juridictions dans lesquelles nous exerçons nos  activités. Nous utilisons les informations vous concernant afin de vous aider à  profiter et à utiliser nos Services, notamment des manières  suivantes : </p>
+<h5 style="text-align: justify;">3.1 <u>Servizi offerti da terzi</u></h5>
 
-<ul>
-  <li>Pour votre inscription et  gérer votre compte, y compris pour vous permettre d'accéder à nos Services et  de les utiliser.</li>
+<p style="text-align: justify;">     Gli Utenti riconoscono che il Sito TheFork fa riferimento a servizi a     pagamento. In particolare, tutte le prenotazioni fatte sul Sito TheFork si     riferiscono a servizi di ristorazione offerti da ristoratori terzi per cui     è necessario un pagamento. </p>
 
-  <li>Pour faciliter vos  réservations auprès des restaurants</li>
+<p style="text-align: justify;">     Tutti i prezzi o gamme di prezzi relativi a fornitori terzi visualizzati     sul Sito TheFork sono forniti solo a titolo informativo e per praticità. In     nessun caso TheFork garantisce l'accuratezza di tali informazioni. </p>
 
-  <li>Pour mesurer l'intérêt pour  nos Services et les améliorer</li>
+<h5 style="text-align: justify;">     3.2 <u>Link a siti di terzi</u></h5>
 
-  <li>Pour vous informer sur les  offres spéciales et les services disponibles chez nous ou auprès de nos  sociétés affiliées, nos partenaires ou des restaurants qui pourraient vous  intéresser</li>
+<p style="text-align: justify;">     Il Sito TheFork può contenere link a siti gestiti da terzi. Questi link     sono solo a titolo informativo. TheFork non controlla questi siti e     non è responsabile dei loro contenuti o della loro informativa sulla     privacy o di altre pratiche su tali siti. La visualizzazione di link a tali     siti non costituisce approvazione degli elementi presenti su questi siti né     associazione con gli editori di tali siti. Spetta all’Utente effettuare i     controlli ritenuti necessari o appropriati prima di utilizzare questi siti     o di effettuare una transazione con uno di essi. </p>
 
-  <li>Pour gérer et mener à bien le  programme de fidélité</li>
+<p style="text-align: justify;"><br>
+</p>
 
-  <li>Pour  communiquer avec vous</li>
+<h4 style="text-align: justify;"><strong>4. <u>Accesso e utilizzo del Sito TheFork </u></strong></h4>
 
-  <li>Pour nous permettre de publier  vos avis, évaluations, messages sur les forums, photos et autres contenus</li>
+<h5 style="text-align: justify;">4.1 <u>Condizioni di idoneità</u></h5>
 
-  <li>Pour organiser des tirages au  sort, des concours ou des enquêtes</li>
+<p style="text-align: justify;">     L'utilizzo del Sito TheFork è soggetto ai seguenti requisiti di idoneità     cumulativi: l’Utente deve (i) avere minimo 18 anni di età; (ii) avere la     capacità legale di sottoporsi a obblighi legali; (iii) e le prenotazioni     fatte sul Sito TheFork, per sé o per altre persone per cui si ha legalmente     il diritto di agire, saranno legittime. </p>
 
-  <li>Pour personnaliser votre  expérience, y compris en personnalisant les publicités qui vous sont présentées  sur nos Services et sur Internet</li>
+<h5 style="text-align: justify;">     4.2 <u>Accesso al Sito TheFork </u></h5>
 
-  <li>Pour faire des suppositions  sur vos intérêts ou préférences</li>
+<p style="text-align: justify;">TheFork si riserva il diritto di sospendere, cancellare o modificare     il Sito TheFork, in toto o in parte, o i servizi offerti sul Sito TheFork     senza preavviso. TheFork si riserva inoltre il diritto di sospendere     l'accesso al Sito TheFork a tutti o parte degli Utenti a causa di     manutenzione, emergenza (cyber-attacco ecc.) o per altri motivi ragionevoli     e in qualsiasi momento.</p>
 
-  <li>Pour vous fournir une  expérience optimisée et regrouper les utilisateurs de nos Services en fonction,  par exemple, de l'utilisation et des données démographiques </li>
+<h5 style="text-align: justify;">4.3 <u>Condizioni per l'apertura di un conto</u></h5>
 
-  <li>Pour vous envoyer des  invitations à participer à des sondages ou des études de marché</li>
+<p style="text-align: justify;">     Aprendo un conto, l'Utente accetta esplicitamente e senza riserve questi     Termini di Utilizzo. </p>
 
-  <li>Pour répondre à vos questions  et commentaires</li>
+<p style="text-align: justify;">     Gli Utenti si impegnano a fornire informazioni veritiere, accurate e     aggiornate, in particolare relative al loro titolo, cognome, nome,     indirizzo email e numero di telefono, necessari per la loro corretta     identificazione in relazione all'apertura e alla manutenzione del conto. </p>
 
-  <li>Pour résoudre des conflits ou  problèmes</li>
+<h5 style="text-align: justify;">     4.4 <u>Confidenzialità dei dati di accesso</u></h5>
 
-  <li>Pour empêcher toute activité  potentiellement interdite ou illicite</li>
+<p style="text-align: justify;">     Durante la creazione del conto, gli Utenti scelgono un nome utente e una     password (“Dati di accesso”) che consentono loro di accedere al conto. </p>
 
-  <li>Pour appliquer nos conditions d'utilisation et   avis ; et comme décrit par ailleurs lors du  recueil des informations</li>
-</ul>
+<p style="text-align: justify;">     I Dati di accesso sono personali e confidenziali. Possono essere modificati     solo su richiesta dell'Utente interessato o per iniziativa di TheFork. </p>
 
-<p>Veuillez noter que certaines informations vous concernant sont  nécessaires pour que nous puissions vous proposer des offres pertinentes de  notre part, de la part de nos sociétés affiliées, de nos partenaires et de  restaurants et pour vous permettre de profiter d'autres avantages en tant  qu'utilisateur inscrit. Veuillez prendre connaissance de la section  « Choix des informations » ci-dessous en ce qui concerne vos choix  relatifs à la collecte et à l'utilisation de vos données.</p>
+<p style="text-align: justify;">     Gli Utenti sono gli unici responsabili dell'utilizzo del loro conto e dei     Dati di accesso che li riguardano e si impegnano a fare tutto il possibile     per mantenere segreti i loro Dati di accesso e a non divulgarli ad altri in     nessuna forma.</p>
 
-<h3><strong>Partage des informations</strong></h3>
+<p>In caso di perdita o furto di uno dei Dati di accesso dell’Utente, l'Utente è responsabile dei danni conseguenti a questa perdita o furto e deve effettuare il prima possibile la procedura ed è accessibile nella sezione “I miei dati personali” <a href="https://www.thefork.it/#user-account" rel="nofollow" target="_blank">del conto dell’Utente</a>.</p>
 
-<p>Afin de fournir certains de nos Services, nous pouvons  être amenés à partager des informations avec d'autres tiers, y compris notre  groupe de sociétés, dans les circonstances suivantes : </p>
+<h5 style="text-align: justify;">     4.5 <u>Chiusura del conto</u></h5>
 
-<ul>
-  <li><u>Notre groupe de sociétés</u>.  Nous partageons des informations avec des entreprises au sein de notre famille  de sociétés afin de pouvoir vous proposer des informations relatives à des  produits et services (en matière de restaurants et autre) susceptibles de vous  intéresser. <a href="#les-sites-web-et-entreprises-lafourchette">Ces sociétés et sites Web</a> se  conformeront à la présente Déclaration et à toutes les lois applicables  régissant la transmission de communications promotionnelles.</li>
+<p style="text-align: justify;">     Gli Utenti possono chiudere il loro conto in qualsiasi momento. Per farlo devono inviare una richiesta di chiusura del conto per email a:    <a href="mailto:contatto@thefork.it">contatto@thefork.it</a>. </p>
 
-  <li><u>Restaurants</u>.  Nous partageons vos informations avec nos restaurants partenaires afin de leur  permettre de traiter et gérer vos réservations ainsi que de gérer les plaintes  ou conflits les concernant. Lors de vos réservations, vous aurez peut-être la  possibilité de choisir de recevoir des communications marketing de la part des  restaurants concernés. Si vous acceptez de recevoir ces communications, le  restaurant dont elles émanent est responsable de l'ensemble  du traitement des informations que nous lui communiquons. </li>
+<p style="text-align: justify;">     TheFork si impegna a trattare tutte le richieste di chiusura del     conto entro un periodo di tempo ragionevole. </p>
 
-  <li><u>Fournisseurs</u>.  Nous partageons des informations avec certains fournisseurs avec lesquels nous  travaillons pour faciliter la prestation de nos Services, y compris pour  faciliter les transactions, telles que les réservations que vous pourriez  effectuer. </li>
+<p style="text-align: justify;">     Gli Utenti sono informati del fatto che, con la chiusura del conto, non     potranno più beneficiare dei servizi offerti da TheFork, le     prenotazioni attuali saranno cancellate e tutti gli Yums eventualmente     accumulati saranno eliminati. </p>
 
-  <li><u>Partenaires commerciaux</u>.  Nous pouvons partager des informations vous concernant, concernant vos  Appareils et votre utilisation de nos Services avec nos partenaires commerciaux  de confiance. Nous pouvons par exemple être amenés à partager des informations  afin de vous fournir un contenu pertinent ou de faciliter le paiement de vos  repas.     Ce partage se fait généralement en vertu de contrats écrits qui comprennent des  obligations en matière de confidentialité, de protection de la vie privée et de  sécurité ; toutefois, veuillez noter que nous ne contrôlons pas les  pratiques en matière de protection de la vie privée de ces partenaires  commerciaux tiers.</li>
+<h5 style="text-align: justify;">     4.6 <u> Obblighi dell’Utente - Azioni non consentite</u></h5>
 
-  <li><u>Sites de réseaux sociaux</u>.  Lorsque vous utilisez nos Services et choisissez de partager des informations  avec des sites de réseaux sociaux tiers, les informations que vous partagez  sont régies par les politiques de confidentialité de ces sites de réseaux  sociaux et les paramètres de confidentialité que vous avez définis avec lesdits  sites. </li>
-
-  <li><u>Réseaux publicitaires</u>.  Nous recueillons et partageons parfois des informations sur vos centres  d'intérêt avec des réseaux publicitaires. Certaines de ces sociétés sont  membres de la <a href="https://www.networkadvertising.org/">Network Advertising Initiative</a> ou  de la <a href="http://optout.aboutads.info/">Digital Advertising Alliance</a>,  qui vous permettent, depuis un emplacement unique, de vous désinscrire des  annonces ciblées des sociétés membres. Pour en savoir plus, cliquez <a href="http://optout.networkadvertising.org/?c=1">ici</a>. </li>
-
-  <li><u>Autres tiers, tels que des sites Web de  renvoi</u>. Des tiers peuvent également nous aider à recueillir des  informations, notamment pour permettre l'exécution des fonctionnalités de notre  site Web ou vous proposer des annonces en ligne ciblées sur vos intérêts. Nous  pouvons partager des segments d'audience et d'autres informations avec des  tiers qui utilisent ces informations pour vous envoyer des publicités ciblées.</li>
-</ul>
-
-<p>Ces tiers ne peuvent recueillir ou accéder aux informations que  dans la mesure nécessaire à l'exécution des fonctionnalités autorisées.</p>
-
-<p>Certaines versions du système  d'exploitation de l'Appareil vous permettent de refuser le partage de certains  types d'informations, y compris vers certains réseaux publicitaires. Veuillez  vérifier les paramètres de votre Appareil si vous souhaitez limiter ce type de  suivi.</p>
-
-<h3><strong>Choix des informations</strong></h3>
-
-<p>Plusieurs options s'offrent  à vous s'agissant du recueil et de l'utilisation de vos informations. Vous pouvez  accéder à votre compte, le mettre à jour et même le fermer via la page <u><a href="https://www.thefork.ch/#user-account" rel="nofollow">« Mes informations personnelles </a>»</u> sur  notre site Web </p>
-
-<p>Vos options : </p>
+<p style="text-align: justify;">     Gli Utenti acconsentono a utilizzare il Sito TheFork nel rispetto di questi     Termini di Utilizzo e della legge applicabile. In particolare, gli Utenti     acconsentono a non impegnarsi nelle azioni non consentite elencate di     seguito: </p>
 
 <ul>
-  <li>Vous pouvez choisir la façon dont nous communiquerons avec vous.  Vous pouvez choisir de ne pas nous communiquer certaines informations, bien que  ces dernières puissent être nécessaires pour bénéficier de certaines fonctions  proposées sur les sites Web. </li>
+  <li>
+    <p style="text-align: justify;">Non recarsi al ristorante senza cancellare la prenotazione (no-show). </p>
+  </li>
 
-  <li>Vous pouvez empêcher la collecte de vos informations de  géolocalisation, mais notez que la désactivation du partage de localisation  peut affecter certaines fonctionnalités de nos Services. </li>
+  <li>
+    <p style="text-align: justify;">Il contenuti e i dati del Sito TheFork (inclusi a titolo esemplificativo     messaggi, dati, informazioni, testi, musica, audio, foto, grafici, video,     mappe, icone, software, codici o altri elementi) e l'infrastruttura usata     per fornire tali contenuti e informazioni appartengono a TheFork; gli     Utenti acconsentono a non modificare, copiare, distribuire, trasmettere,     visualizzare, rendere disponibili, riprodurre, pubblicare, autorizzare alla     vendita, creare opere derivate, trasferire, vendere o rivendere     informazioni, software, prodotti o servizi ottenuti da o attraverso il Sito     TheFork. </p>
+  </li>
 
-  <li>Vous pouvez ajouter ou mettre à jour vos informations et fermer  votre compte. Si vous fermez votre compte, nous le désactiverons et  supprimerons les informations de votre profil de la vue active. Nous pouvons  conserver certaines informations associées à votre compte (y compris les  réservations passées) à des fins internes, y compris les sauvegardes, la  prévention de la fraude, le règlement des différends, les enquêtes et la  conformité juridique, pendant la période nécessaire pour atteindre les  objectifs énoncés dans la présente Déclaration. </li>
-
-  <li>En  tant qu‘utilisateur inscrit, vous pouvez modifier vos abonnements marketing, y  compris vos choix d'abonnement par e-mail à tout moment dans vos paramètres de  compte. Vous pourrez également choisir de <a href="https://www.thefork.ch/#user-account"><u>ne  plus recevoir</u></a> de messages promotionnels,&nbsp; par le biais de chaque e-mail que nous  envoyons. </li>
+  <li>
+    <p style="text-align: justify;">Sono strettamente proibite la copia, la riproduzione, la ripubblicazione,     la ridistribuzione o la trasmissione dei contenuti del Sito TheFork, in     toto o in parte, senza previa autorizzazione scritta di TheFork. Per     ottenere questa autorizzazione, contattare TheFork al seguente     indirizzo: </p>
+  </li>
 </ul>
 
-<h3><strong>Transferts d'informations</strong></h3>
+<p style="text-align: justify;">     La Fourchette&nbsp;SAS</p>
 
-<p>Nous sommes une entreprise mondiale et  nous exerçons nos activités dans de nombreuses juridictions. Si nous  transférons vos informations à d'autres pays, nous utiliserons et protégerons  ces informations conformément aux dispositions décrites dans la présente  Déclaration et au droit applicable. </p>
+<p style="text-align: justify;">     70, rue Saint-Lazare </p>
 
-<h3><strong>Sécurité des informations</strong></h3>
+<p style="text-align: justify;">     75009 Parigi, Francia. </p>
 
-<p>Nous avons mis en place des procédures de sécurité  administrative, technique et physique appropriées pour nous aider à protéger  vos informations. </p>
+<p style="text-align: justify;">     Inoltre, gli Utenti si impegnano a non: </p>
 
-<p>Seuls certains de nos employés sont autorisés à accéder aux  données personnelles, et ils ne peuvent le faire qu'à des fins professionnelles  légitimes. Nous avons recours au chiffrement lors de la transmission de vos  données personnelles entre votre système et le nôtre et entre notre système et  celui des parties avec lesquelles nous partageons des informations. Nous  utilisons également des pare-feu et des systèmes de détection des intrusions  afin d'empêcher toute personne non autorisée d'accéder à vos informations. Toutefois, nous ne pouvons  garantir la sécurité des informations en cas d'accès ou d'utilisation non  autorisée, de pannes matérielles ou logicielles, ou d'autres circonstances  indépendantes de notre volonté.</p>
+<ul type="disc">
+  <li style="text-align: justify;">         usare il Sito TheFork o i suoi contenuti per scopi illegali,         illegittimi o fraudolenti;     </li>
 
-<h3><strong>Conservation des  informations</strong></h3>
+  <li style="text-align: justify;">         fornire al Sito TheFork Contenuti Utente o Contenuti ristoratore         imprecisi, illegali e in particolare che invadono la privacy, sono         offensivi, indecenti, minacciosi, incitano all'odio o alla violenza, o         di cui non si possiedono i diritti di proprietà intellettuale e per cui         i titolari dei diritti non hanno dato l’autorizzazione;     </li>
 
-<p>Nous conserverons des copies de vos  données personnelles tant que votre compte restera ouvert ou aussi longtemps  que nécessaire dans le cadre des fins énoncées dans la présente Déclaration, à  moins que le droit applicable n'exige une période de conservation plus longue.  De plus, nous pouvons être amenés à conserver vos informations pendant toute la  durée de la période nécessaire pour faire valoir ou exercer nos droits ou nous  défendre contre toute action en justice.</p>
+  <li style="text-align: justify;">         usare, monitorare, estrarre o copiare la struttura, i contenuti o i         dati del Sito TheFork o le azioni di qualsiasi Utente sul Sito TheFork         usando robot, spider, scraper, spyware, keystroke recorder o altri         programmi o dispositivi automatici o processi manuali a qualsiasi         scopo;     </li>
 
-<h3><strong>Signaux d'anti-pistage</strong></h3>
+  <li style="text-align: justify;">         violare le restrizioni relative ai file di esclusione di robot sul Sito         TheFork o aggirare le misure per prevenire o limitare l'accesso al Sito         TheFork;     </li>
 
-<p>Notre site Web&nbsp;n'est pas conçu  pour répondre actuellement aux demandes de signaux anti-pistage (« Do Not  Track » – DNT) provenant des navigateurs. Ceci est dû à l'absence  d'interprétation standardisée au niveau mondial qui définit les signaux DNT.  Une fois que le secteur aura fixé des normes concernant cette question, nous  pourrons réévaluer cette approche.</p>
+  <li style="text-align: justify;">         intraprendere qualsiasi azione che imponga o possa imporre un carico         eccessivo o irragionevole sull’infrastruttura del Sito TheFork;     </li>
 
-<h3 id="cookies"><strong>Cookies</strong></h3>
+  <li style="text-align: justify;">         stabilire un link invisibile al Sito TheFork per qualsiasi ragione;     </li>
 
-<p>Nous voulons que votre accès à nos  Services soit aussi facile, efficace et utile que possible. Pour ce faire, nous  utilisons des cookies et des technologies similaires pour enrichir votre  expérience, améliorer votre sécurité sur le site Web&nbsp;et vous présenter des  publicités pertinentes.</p>
+  <li style="text-align: justify;">         inserire in un frame, “riflettere” o integrare una qualsiasi parte del         Sito TheFork in un altro sito; e     </li>
 
-<p>Les cookies, c'est quoi ?</p>
+  <li style="text-align: justify;">         tentare di modificare, tradurre, adattare, revisionare, decompilare,         smantellare o realizzare l’ingegneria inversa di qualsiasi sofware         usato da TheFork in relazione al Sito TheFork o ai suoi servizi.     </li>
+</ul>
 
-<p>Les cookies sont de petits fichiers  texte qui sont copiés automatiquement sur votre Appareil lorsque vous consultez  n'importe quel site Web. Ils sont stockés par votre navigateur et contiennent des  informations de base sur votre utilisation d'Internet. Votre navigateur renvoie  ces cookies à un site Web chaque fois que vous le consultez, afin que votre  Appareil soit reconnu et que votre expérience soit améliorée, entre autres, en  vous proposant un contenu personnalisé. Nous utilisons également des cookies  pour mémoriser vos informations de connexion, afin que vous n'ayez pas à les  ressaisir à chaque utilisation de nos Services. D'autres cookies nous aident à  comprendre vos préférences. </p>
+<h5 style="text-align: justify;">4.7 <u style="color: inherit; font-family: inherit;">Penale in caso di rottura del contratto</u></h5>
 
-<p>Les cookies que nous utilisons sont répartis en trois  catégories. </p>
+<h5 style="text-align: justify;"><em>4.7.1  Sospensione o conclusione dei servizi del Sito TheFork</em></h5>
+
+<p style="text-align: justify;">     Nel caso di inadempienza o mancato rispetto totale o parziale da parte di     un Utente di uno qualsiasi degli obblighi o delle disposizioni di questi     Termini di Utilizzo, nel caso in cui un Utente esegua una delle azioni non     consentite così come definite in questi Termini di Utilizzo, o per altri     motivi ragionevoli, TheFork potrà modificare, sospendere, limitare o     rimuovere l'accesso ad alcuni o a tutti i servizi del Sito TheFork, inclusa     la disattivazione del conto dell'Utente, senza preavviso e senza alcun     diritto dell'Utente a richiedere una compensazione e senza pregiudicare     eventuali risarcimenti che TheFork potrà eventualmente reclamare in     tribunale. </p>
+
+<h5 style="text-align: justify;"><em>4.7.2 Danni</em></h5>
+
+<p style="text-align: justify;">     Senza pregiudicare le penali imposte da TheFork all’articolo 4.7.1,     TheFork avrà inoltre il diritto di reclamare un risarcimento per     eventuali danni verificatisi. </p>
+
+<h4 style="text-align: justify;"><br>
+</h4>
+
+<h4 style="text-align: justify;"><strong>5. <u>Recensioni e Contenuti Utente</u></strong></h4>
+
+<p style="text-align: justify;">     Gli Utenti devono seguire le regole seguenti quando pubblicano Contenuti     Utente, in particolare quando pubblicano sul Sito TheFork una recensione     relativa a un ristorante elencato sul Sito TheFork. </p>
+
+<h5 style="text-align: justify;">     5.1 <u>Condizioni per pubblicare recensioni</u></h5>
+
+<ul type="disc">
+  <li style="text-align: justify;">         Per pubblicare una recensione, gli Utenti devono avere un conto sul         Sito TheFork che li identifichi o devono essere stati invitati a         scrivere una recensione tramite email inviata da TheFork e avere         prenotato o essere stati invitati a un ristorante attraverso il Sito         TheFork e avere onorato la prenotazione nel ristorante.     </li>
+
+  <li style="text-align: justify;">         Per evitare conflitti di interesse e per ovvie ragioni di obiettività,         se un Utente lavora nell'ambito della ristorazione non è autorizzato a         pubblicare una recensione sul Sito TheFork.     </li>
+
+  <li style="text-align: justify;">         La recensione deve contenere più di 200 caratteri e riferirsi         esclusivamente al ristorante visitato. Tutte le recensioni che citino         altri ristoranti potranno essere eliminate da TheFork.     </li>
+</ul>
+
+<h5 style="text-align: justify;">     5.2 <u>Motivi per eliminare Contenuti Utente</u></h5>
+
+<p style="text-align: justify;">     I Contenuti Utente possono essere eliminati per i seguenti motivi: </p>
+
+<ul type="disc">
+  <li style="text-align: justify;">         se l’Utente non aderisce alle "Condizioni per pubblicare recensioni"         come definite sopra;     </li>
+
+  <li style="text-align: justify;">         se TheFork ritiene che possano comportare la sua responsabilità         civile o penale;     </li>
+
+  <li style="text-align: justify;">         se il Contenuto Utente o gli elementi relativi all'identità dell'autore         contengono insulti o volgarità;     </li>
+
+  <li style="text-align: justify;">         se il testo del Contenuto Utente contiene caratteri a caso o sequenze         di parole senza significato;     </li>
+
+  <li style="text-align: justify;">         se il Contenuto Utente non è relativo al ristorante recensito;     </li>
+
+  <li style="text-align: justify;">         se il Contenuto Utente è o è sospettato di essere una violazione dei         diritti di proprietà intellettuale di terzi;     </li>
+
+  <li style="text-align: justify;">         se la recensione provoca questioni di conflitto di interesse o frode o         se TheFork ritiene che arrivi a suddetto conflitto o frode;     </li>
+
+  <li style="text-align: justify;">         se il testo del Contenuto Utente è scritto talmente male da risultare         incomprensibile;     </li>
+
+  <li style="text-align: justify;">         se un Utente fa un commento inappropriato su un altro Contenuto Utente         o sul suo autore;     </li>
+
+  <li style="text-align: justify;">         se il Contenuto Utente contiene informazioni personali o elementi che         possono portare a furto d'identità, come il nome e il cognome di         persone che non sono personaggi pubblici, un numero di telefono, un         indirizzo di posta o un indirizzo email;     </li>
+
+  <li style="text-align: justify;">         se il Contenuto Utente cita siti Web, link ipertestuali, URL, indirizzo         email, numeri di telefono; o     </li>
+
+  <li style="text-align: justify;">         se il Contenuto Utente è chiaramente spam.</li>
+</ul>
+
+<p style="text-align: justify;">     Se un Utente è identificato come autore di contenuti fraudolenti o che TheFork ritiene essere fraudolenti, TheFork, dopo aver applicato     le procedure per l'eliminazione o la cancellazione della recinzione, potrà     disattivare il conto dell’Utente (cancellando di fatto tutte le     prenotazioni attuali e annullando gli eventuali Yums accumulati) e     cancellare tutti i suoi post. </p>
+
+<h5 style="text-align: justify;">     5.3 <u>Moderazione di recensioni</u></h5>
+
+<p style="text-align: justify;">     TheFork non ha nessun obbligo di moderare o rimuovere recensioni. TheFork modera le recensioni in base a uno sforzo ragionevole per     assicurare che le recensioni siano conformi a questi Termini di Utilizzo in     riferimento alla pubblicazione, eliminazione o cancellazione di recensioni.     Ogni recensione è soggetta a una moderazione di prepubblicazione attraverso     filtri automatici e, se segnalata, a moderazione umana. Il periodo di     moderazione è di massimo 2 settimane. Gli Utenti potranno richiedere la moderazione di una recensione pubblicata in precedenza inviando un’email a    <a href="mailto:contatto@thefork.it">contatto@thefork.it</a>, specificando     i motivi per la richiesta di moderazione. </p>
+
+<p style="text-align: justify;">     Tutti gli Utenti che hanno pubblicato recensioni possono richiederne la cancellazione in seguito scrivendo a    <a href="mailto:contatto@thefork.it">contatto@thefork.it</a>. Quando TheFork si accorge che un ristorante ha chiuso o ha cambiato titolare le     recensioni pubblicate prima di tale evento sono cancellate. Gli Utenti     possono essere contattati da TheFork per verificare la veridicità     della recensione tramite email e/o telefono. La recensione potrà essere     inoltrata a siti con cui TheFork ha una partnership e pubblicata su     questi siti. Gli Utenti comprendono e acconsentono al fatto che TheFork possa includere le seguenti informazioni nelle loro recensioni:     data di registrazione al sito, numero di recensioni pubblicate, nome e una     lettera del cognome, stato e data della visita al ristorante. Conformemente     alla legge francese "Informatica e libertà" del 6 gennaio 1978 (come     modificata), gli Utenti hanno il diritto di accedere, modificare,     rettificare e cancellare i loro dati e il diritto di opporsi al trattamento     dei loro dati per motivi legittimi. Gli Utenti potranno esercitare tali diritti cliccando <a href="https://privacyportal.onetrust.com/webform/da774af3-e615-4e8c-8a28-3d13e98367c5/091dbabd-4724-4ae9-a3a7-541da83969f3" rel="nofollow">qui</a>.&nbsp;</p>
+
+<h5 style="text-align: justify;">     5.4 <u>Recensioni da ospiti numerosi</u></h5>
+
+<p style="text-align: justify;">     Un Utente che prenota un ristorante per molti ospiti è invitato a fornire     gli indirizzi email degli ospiti in modo tale che ricevano informazioni     pratiche sulla prenotazione (indirizzo del ristorante, orario della     prenotazione…). Gli Utenti garantiscono di avere prima ricevuto     l'autorizzazione dei loro ospiti a fornire tali indirizzi email a TheFork. Ogni ospite è poi invitato a pubblicare una recensione sulla     sua esperienza nel ristorante prenotato dall'Utente. </p>
+
+<p style="text-align: justify;">     I dati personali degli ospiti raccolti a tale scopo non saranno     riutilizzati da TheFork. </p>
+
+<h5 style="text-align: justify;">     5.5 <u>Diritto di replica</u></h5>
+
+<p style="text-align: justify;">     Ogni ristoratore ha diritto di replica, in particolare a: </p>
+
+<ul type="disc">
+  <li style="text-align: justify;">         dare la sua versione dei fatti;     </li>
+
+  <li style="text-align: justify;">         ringraziare i consumatori per il loro contributo; e/o     </li>
+
+  <li style="text-align: justify;">         indicare le modifiche apportate al ristorante dopo che è stata scritta         la recensione.     </li>
+</ul>
+
+<p style="text-align: justify;">     Il diritto di replica deve essere esercitato entro 3 mesi dalla pubblicazione della recensione interessata usando il tool    <a href="https://login.theforkmanager.com/login">TheFork Manager</a> o inviando un’email a:    <a href="mailto:contatto@thefork.it">contatto@thefork.it</a>. Tutte le     richieste di esercitare il diritto di replica via email devono includere i     seguenti elementi: </p>
+
+<ul>
+  <li style="text-align: justify;">         dettagli della recensione;     </li>
+
+  <li style="text-align: justify;">         identificazione dell'autore;     </li>
+
+  <li style="text-align: justify;">         citazione delle sezioni controverse;     </li>
+
+  <li>
+    <p style="text-align: justify;">contenuto della risposta richiesta (la risposta non potrà essere più     lunga della recensione a cui si risponde). </p>
+  </li>
+</ul>
+
+<p style="text-align: justify;">     La risposta deve essere conforme alle disposizioni di questi Termini di     Utilizzo e sarà moderata alle stesse condizioni delle recensioni degli     Utenti e, se pubblicata, sarà visualizzata dopo la recensione a cui     risponde. </p>
+
+<h5 style="text-align: justify;">     5.6 <u> Valutazioni dei ristoranti</u></h5>
+
+<p style="text-align: justify;">     Ciascun Utente che abbia prenotato un ristorante attraverso il Sito TheFork     e che abbia onorato la sua prenotazione in questo ristorante è invitato a     valutare la sua esperienza. </p>
+
+<p style="text-align: justify;">     La valutazione visualizzata sul Sito TheFork per ogni ristorante     corrisponde a una media pesata delle valutazioni date. </p>
+
+<h5 style="text-align: justify;">     5.7 <u>Uso dei Contenuti Utente</u></h5>
+
+<p style="text-align: justify;">     Gli Utenti acconsentono al fatto che, pubblicando Contenuti Utente sul Sito     TheFork, essi accordano automaticamente a TheFork una licenza     irrevocabile, permanente, non esclusiva, esente da diritti d'autore, per     usare, copiare, visualizzare, adattare, modificare, tradurre, distribuire,     aver distribuito o promosso, integrare in annunci pubblicitari o altro     materiale, creare opere derivate, incrementare, diffondere o distribuire in     altro modo tali Contenuti Utente nel mondo e per consentire a terzi di fare     altrettanto, in tutti i media, online o no. Inoltre, pubblicando Contenuti     Utente sul Sito TheFork, gli Utenti accordano automaticamente a TheFork tutti i diritti necessari per proibire la visualizzazione, la     raccolta, la copia o l’utilizzo di tali Contenuti Utente da parte di terzi     a qualsiasi fine. Gli Utenti acconsentono a non esercitare il loro diritto     morale sui Contenuti Utente in modo incompatibile con le licenze accordate     sopra. Gli Utenti affermano e garantiscono di essere autorizzati a     accordare le suddette licenze.</p>
+
+<h3><u>6.  Privacy</u></h3>
+
+<p>TheFork ha realizzato una Informativa sulla privacy e sui cookie per  tutelare la privacy degli Utenti. <a href="#NormativaSullaPrivacy">Cliccare  qui </a>per visualizzare la nostra Informativa sulla privacy e sui cookie attuale,  che si applica anche all'utilizzo del Sito TheFork.</p>
+
+<p><br>
+</p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h4 style="text-align: justify;"><strong>7. <u>Proprietà intellettuale</u></strong></h4>
+
+<h5 style="text-align: justify;">7.1     <u>         Aderenza alla legislazione nazionale e internazionale in materia di         proprietà intellettuale</u></h5>
+
+<p style="text-align: justify;">     Gli Utenti acconsentono a non fornire, copiare, rivendere, ripubblicare o,     in generale, rendere disponibile in qualsiasi forma qualsiasi contenuto,     dato, informazione o elemento ricevuto da TheFork e disponibile sul     Sito TheFork, ad altri individui o entità legali di qualsiasi paese. Gli     Utenti acconsentono ad aderire alle disposizioni in materia di proprietà     intellettuale di seguito. </p>
+
+<h5 style="text-align: justify;">     7.2 <u>Titolarità dei diritti</u></h5>
+
+<p style="text-align: justify;">     Tutti i diritti morali e patrimoniali di proprietà intellettuale relativi     ai contenuti e alle informazioni sul Sito TheFork appartengono a TheFork, ad eccezione dei diritti di terzi, per cui TheFork ha     ottenuto i diritti o le licenze necessari. </p>
+
+<p style="text-align: justify;">     I diritti conferiti agli Utenti utilizzando il Sito TheFork e i servizi     forniti da TheFork non implicano nessuna licenza o diritto o     autorizzazione ad usare o sfruttare nessuna parte del Sito TheFork. </p>
+
+<h5 style="text-align: justify;">     7.3     <u>         Protezione di tutti gli elementi: marchi commerciali, design, loghi,         link ipertestuali, informazioni ecc.     </u></h5>
+
+<p style="text-align: justify;">     Tutti gli elementi (marchi, design, testi, link ipertestuali, loghi,     immagini, video, audio, software, schermate, database, codici ecc.) nel/sul     Sito TheFork o sui siti associati sono protetti dalla legislazione     nazionale e internazionale in materia di proprietà intellettuale. Questi     elementi rimangono di esclusiva proprietà di TheFork e/o dei suoi     concessori di licenze. </p>
+
+<h5 style="text-align: justify;">     7.4 <u>Divieto di utilizzo non autorizzato</u></h5>
+
+<p style="text-align: justify;">     Pertanto, senza previa autorizzazione scritta di TheFork e/o dei suoi     partner, gli utenti non potranno riprodurre, rappresentare, ripubblicare,     ridistribuire, adattare, tradurre e/o modificare, in toto o in parte, o     trasferire su un altro mezzo, nessuna informazione dal Sito TheFork. </p>
+
+<h5 style="text-align: justify;">     7.5 <u>Penali</u></h5>
+
+<p style="text-align: justify;">     Gli Utenti riconoscono comprendono che il mancato rispetto delle     disposizioni di questo articolo 7 costituisce una violazione punibile dalla     legislazione civile e penale. </p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h4 style="text-align: justify;"><strong>8. <u>Limitazioni di responsabilità</u></strong></h4>
+
+<h5 style="text-align: justify;">8.1 <u>Avvertenza</u></h5>
+
+<p style="text-align: justify;">     Spetta agli Utenti fare i controlli ritenuti necessari o opportuni prima di     effettuare una prenotazione in uno dei ristoranti elencati sul Sito     TheFork. </p>
+
+<p style="text-align: justify;">     TheFork non offre garanzie di alcun genere in relazione ai Contenuti     ristoratore o ai servizi e/o alle pratiche commerciali di terzi elencati     nel Sito TheFork. Di conseguenza, TheFork non garantisce che gli     Utenti saranno soddisfatti dei prodotti, dei servizi e/o delle pratiche     commerciali sperimentati a seguito di una prenotazione effettuata     attraverso il Sito TheFork. </p>
+
+<p style="text-align: justify;">     TheFork non offre nessuna garanzia in relazione ai contenuti,     all'obiettività o alla precisione dei Contenuti Utente, incluse, a titolo     esemplificativo, le recensioni pubblicate dagli Utenti sul Sito TheFork. </p>
+
+<h5 style="text-align: justify;">     8.2 <u>Modifica del Sito TheFork </u></h5>
+
+<p style="text-align: justify;">     Data l'interattività del Sito TheFork, tutte le informazioni che contiene     sono soggette a modifica in qualsiasi momento, senza che questo determini     la responsabilità di TheFork. </p>
+
+<h5 style="text-align: justify;">     8.3 <u>Utilizzo del Sito TheFork </u></h5>
+
+<p style="text-align: justify;">     A causa della natura specifica di Internet, TheFork non garantisce     accesso ininterrotto al Sito TheFork o continuità del servizio, l'unico     obbligo di TheFork è di fare uno sforzo ragionevole a tal proposito. </p>
+
+<p style="text-align: justify;">     TheFork non sarà responsabile dell’eventuale mancato accesso al Sito     TheFork o di eventuali danni o perdite derivanti dall'utilizzo o dal     mancato utilizzo del Sito TheFork o dei suoi contenuti, ad eccezione di     quanto disposto dalla legge. </p>
+
+<p style="text-align: justify;">     TheFork non garantisce che le informazioni visualizzate siano     dettagliate, complete, verificate o accurate. I Contenuti ristoratore, le     informazioni, le pagine ristorante e, in generale, tutti i contenuti sul     Sito TheFork sono forniti "così come appaiono" senza esprimere o implicare     garanzie di qualsivoglia tipo. </p>
+
+<p style="text-align: justify;">     Gli Utenti riconoscono espressamente che le foto sul Sito TheFork non hanno     carattere contrattuale. </p>
+
+<p style="text-align: justify;">     Gli Utenti accettano e riconoscono in generale che la prenotazione con un     ristorante non è garantita. Di conseguenza, TheFork non garantisce     l'efficacia del servizio di prenotazione. La disponibilità è verificata in     tempo reale tramite computer. Tuttavia, poiché TheFork non può     verificare fisicamente l'accuratezza delle informazioni raccolte e/o     fornite dai ristoranti, gli Utenti acconsentono al fatto che TheFork     non può essere ritenuta responsabile se gli Utenti non riescono a godere     dei servizi del ristorante. Infatti, le impostazioni del software di     prenotazione in tempo reale dipendono in parte dalle informazioni fornite     e/o registrate dal ristorante e potrebbero non corrisponde alla realtà.     Così, a titolo esemplificativo e senza limitazioni, gli Utenti riconoscono     e accettano che TheFork non è in alcun modo responsabile di     prenotazioni cancellate, se l'esercizio è chiuso (qualsiasi motivo), o se     terzi rifiutano di fornire un servizio per qualsiasi ragione. </p>
+
+<p style="text-align: justify;">     Allo stesso modo, gli Utenti accettano che TheFork non è in alcun     modo responsabile se gli Utenti non riescono a beneficiare di promozioni o     offerte speciali proposte da un ristorante. Gli Utenti riconoscono e     accettano che TheFork non è in alcun modo responsabile qualora il     ristorante non onori una promozione o un'offerta speciale per qualsiasi     motivo. </p>
+
+<h5 style="text-align: justify;">     8.4 <u>Garanzie e risarcimenti degli Utenti</u></h5>
+
+<p style="text-align: justify;">     Gli Utenti garantiscono di avere piena familiarità con le caratteristiche e     i limiti di Internet. In particolare, riconoscono che è impossibile     garantire che i dati inviati dagli Utenti attraverso Internet siano     interamente sicuri. TheFork non può essere ritenuta responsabile per     eventuali incidenti derivanti da tale trasmissione di dati. </p>
+
+<p style="text-align: justify;">     Gli Utenti acconsentono a tutelare TheFork da responsabilità, danni,     spese, rivendicazioni o costi, incontrati da TheFork e derivanti da     reclami o controversie, in tribunale o meno, in relazione all'utilizzo dei     servizi di TheFork, inclusa la pubblicazione sul Sito TheFork da     parte degli Utenti. </p>
+
+<p style="text-align: justify;">     In ogni caso, gli Utenti riconoscono esplicitamente e acconsentono ad     utilizzare il Sito TheFork a loro rischio e sotto la loro esclusiva     responsabilità. </p>
+
+<h5 style="text-align: justify;">     8.5 <u>Notifica e rimozione di contenuti illegali</u></h5>
+
+<p style="text-align: justify;">     Tutti gli Utenti possono notificare un reclamo o un'obiezione relativa a     elementi illeciti o a contenuti postati sul Sito TheFork. </p>
+
+<p style="text-align: justify;">     Se un Utente ritiene che elementi o contenuti postati sul Sito TheFork     siano illegali e/o in violazione del copyright, devono informare TheFork mediante lettera raccomandata con ricevuta di ritorno     indirizzata al "Reparto legale" o via email a <a>contatto@thefork.it </a>"All'attenzione del reparto legale" nell'oggetto e includendo     tutte le prove disponibili a supporto della titolarità dei diritti, se     esistenti. Una volta effettuata questa procedura e dopo aver verificato     l'accuratezza dell’informazione, TheFork agirà prontamente per     rimuovere il contenuto illecito. </p>
+
+<p style="text-align: justify;">     TheFork agisce in qualità di intermediario nella fornitura dei suoi     servizi agli Utenti. Di conseguenza e conformemente all’articolo 6 I.3     della legge francese sulla Confidenzialità nell'economia digitale (LCEN)     del 21 giugno 2004 (modificata), TheFork non potrà essere ritenuta     responsabile penalmente delle informazioni archiviate sul Sito TheFork se     non è realmente a conoscenza delle attività o delle informazioni illegali     (inclusi Contenuti Utente, Contenute ristoratore ecc.) o se, non appena ne     viene a conoscenza, intraprende prontamente azioni per rimuovere tali     informazioni o bloccarne l'accesso. </p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h4 style="text-align: justify;"><strong>9. <u>Altre disposizioni</u></strong></h4>
+
+<h5 style="text-align: justify;">9.1 <u>Divisibilità - Dissociazione - Titoli</u></h5>
+
+<p style="text-align: justify;">     Nel caso in cui una disposizione di questi Termini di Utilizzo fosse     dichiarata nulla e vuota, illegale, non attuabile o inapplicabile, la     validità, legalità, attuabilità o applicazione di altre disposizioni di     questi Termini di Utilizzo non ne sarà interessata o compromessa, e le     altre disposizioni rimarranno in vigore mantenendo la loro piena validità. </p>
+
+<p style="text-align: justify;">     TheFork potrà procedere a redigere una nuova clausola con l'effetto     di ripristinare la volontà comune delle parti come espressa nella clausola     iniziale, conformemente alla legge applicabile. </p>
+
+<p style="text-align: justify;">     I titoli degli articoli del presente documento sono esclusivamente a scopo     illustrativo e non devono essere considerati parte integrante di questi     Termini di Utilizzo. </p>
+
+<h5 style="text-align: justify;">     9.2 <u>Riserva dei diritti</u></h5>
+
+<p style="text-align: justify;">     Ad eccezione di quanto diversamente disposto in questi Termini di Utilizzo,     il mancato esercizio o l’esercizio ritardato da parte di TheFork di     uno dei suoi diritti o tutele nei termini di questi Termini di Utilizzo non     costituiranno una rinuncia al diritto o alla tutela o un impedimento ad un     esercizio successivo del diritto o della tutela. Al contrario, tale diritto     o tutela rimarrà pienamente in vigore e valido. </p>
+
+<h5 style="text-align: justify;">     9.3 <u>Legge applicabile</u></h5>
+
+<p style="text-align: justify;">     Per quanto consentito dalla legge, questi Termini di Utilizzo e la     relazione tra TheFork e gli Utenti sono regolamentati e interpretati     conformemente al diritto francese. Per quanto consentito dalla legge,     laddove questi Termini di Utilizzo siano stati redatti o tradotti in altre     lingue, prevarrà la versione francese di questi Termini di Utilizzo. </p>
+
+<h5 style="text-align: justify;">     9.4 <u>Giurisdizione</u></h5>
+
+<p style="text-align: justify;">     Per quanto consentito dalla legge, tutti i reclami, le controversie o le     questioni derivanti o ogni relazione a questi Termini di Utilizzo saranno     trattati dai fori competenti di Parigi. </p>
+
+<p style="text-align: justify;">     In forza della Direttiva UE 2013/11/UE del 21 maggio 2013 sulla risoluzione     alternativa delle controversie dei consumatori, di seguito è disponibile il     link alla piattaforma europea per la risoluzione delle controversie online: <a href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.show&amp;lng=IT" rel="nofollow">https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.show&amp;lng=IT</a>.</p>
+
+<h2 style="text-align: justify;"><strong>PARTE 2. CONDIZIONI SPECIALI PER IL PROGRAMMA FEDELTÀ</strong></h2>
+
+<p style="text-align: justify;">     Queste Condizioni speciali per il programma fedeltà completano la Parte 1:     Condizioni generali di utilizzo. In caso di incoerenza tra le disposizioni     di questa Parte 2, Condizioni speciali per il programma fedeltà, e quelle     della Parte 1, Condizioni generali di utilizzo, prevalgono le disposizioni     di questa Parte 2, Condizioni speciali per il programma fedeltà. </p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h4 style="text-align: justify;"><strong>1. <u>Descrizione del programma fedeltà</u></strong></h4>
+
+<p style="text-align: justify;">     Il programma fedeltà consente agli Utenti di accumulare punti fedeltà     (“Yums”) dopo una prenotazione sul Sito TheFork debitamente onorata     ("Programma fedeltà"). </p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h4 style="text-align: justify;"><strong>2. <u>Partecipazione al programma fedeltà</u></strong></h4>
+
+<p style="text-align: justify;">     Tutti gli Utenti in possesso di un conto sul Sito TheFork possono     partecipare al Programma fedeltà. </p>
+
+<p style="text-align: justify;">     La partecipazione al programma fedeltà è gratuita e automatica. </p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h4 style="text-align: justify;"><strong>3. <u>Raccolta di Yums</u></strong></h4>
+
+<h5 style="text-align: justify;">3.1 <u>Condizioni generali per la raccolta di Yums</u></h5>
+
+<p style="text-align: justify;">     Il programma fedeltà consente agli Utenti di accumulare punti fedeltà dopo una prenotazione sul Sito TheFork debitamente onorata, indipendentemente     dal ristorante prenotato sul Sito TheFork e dal fatto che la prenotazione     comprenda o meno un’offerta promozionale. </p>
+
+<p style="text-align: justify;">Dopo che la prenotazione viene effettuata sul Sito TheFork e viene debitamente onorata,     gli Utenti ottengono un numero predefinito di Yums (che può variare in     funzione, in particolare, del metodo di prenotazione: sito Web, telefono o     app) sette giorni dopo la data del pasto, indipendentemente dal numero di     ospiti associate alla prenotazione e dal paese in cui è stata fatta la     prenotazione. </p>
+
+<p><span lang="IT">Nel caso in cui la prenotazione di cui sopra sia stata effettuata con uno Sconto Fedeltà (così come definito nell</span><span lang="EN-US">’</span><span lang="IT">articolo 4.1 riportato più avanti) o sia cancellata dall'Utente o in cui l’Utente non si presenti al ristorante e non onori la prenotazione (no-show), l’Utente non ottiene Yums.</span></p>
+
+<p>La quantità di Yums raccolti da ogni Utente è archiviata ed è accessibile nella sezione “La mia fedeltà” <a href="https://www.thefork.it/#user-account" rel="nofollow" target="_blank">del conto dell’Utente</a>.<span lang="IT"></span></p>
+
+<h5 style="text-align: justify;">     3.2 <u>Condizioni speciali per la raccolta di Yums</u></h5>
+
+<h5 style="text-align: justify;">     3.2.1 <u>Promozioni speciali con codice promo</u></h5>
+
+<p style="text-align: justify;">     Di tanto in tanto TheFork realizza promozioni speciali per un periodo     limitato durante le quali gli Utenti possono ottenere più Yums del solito     ("Promozione speciale"). </p>
+
+<p style="text-align: justify;">     Durante ogni Promozione speciale, gli Utenti ricevono email che specifica     le condizioni per guadagnare Yums extra. Una di queste condizioni è     l'obbligo di inserire un codice promo quando l’Utente effettua una nuova     prenotazione sul Sito TheFork ("Codice promo"). </p>
+
+<p style="text-align: justify;">La quantità di Yums ottenuti durante la Promozione speciale è archiviata ed è accessibile nella sezione “ Area fedeltà” <a href="https://www.thefork.it/#user-account" rel="nofollow" target="_blank">del conto dell’Utente</a>.</p>
+
+<p style="text-align: justify;">     Una volta emesso, il Codice promo è valido per un periodo limitato alla     durata della Promozione speciale. Il Codice promo non ha valore monetario e     non può essere incassato, trasferito o venduto a nessun altro, né usato per     scopi diversi da quelli stabiliti da TheFork in queste Condizioni     speciali per il programma fedeltà. </p>
+
+<h5 style="text-align: justify;"> 3.2.2 <u>Programma di raccomandazione con Codice di sponsorizzazione</u></h5>
+
+<p style="text-align: justify;">     TheFork ha realizzato un programma di raccomandazione che consente     allo sponsor della persona sponsorizzata (membro della famiglia, amico,     collega o altra persona nota allo sponsor) di ricevere Yums extra per la     prima prenotazione della persona sponsorizzata sul Sito TheFork con     l'inserimento di un Codice di sponsorizzazione da parte della persona     sponsorizzata durante la prenotazione ("Codice di sponsorizzazione"). </p>
+
+<p style="text-align: justify;">     Qualsiasi Utente con un conto sul Sito TheFork può essere uno sponsor. </p>
+
+<p style="text-align: justify;">     Tutte le persone con almeno 18 anni di età che non hanno effettuato una     prenotazione sul Sito TheFork nei due anni precedenti all'utilizzo del     Codice di sponsorizzazione possono essere persone sponsorizzate. </p>
+
+<p style="text-align: justify;">     Uno sponsor può avere molte persone sponsorizzate. Una persona     sponsorizzata può avere un solo sponsor. Lo sponsor non può     autosponsorizzarsi. </p>
+
+<p style="text-align: justify;">     Per ottenere il Codice di sponsorizzazione, lo sponsor va nella sezione "Le     mie sponsorizzazioni" del suo conto sul Sito TheFork.</p>
+
+<p>Il numero di Yums ottenuti attraverso il programma di sponsorizzazione è indicato nelle sezioni "Le mie sponsorizzazioni" e " Area fedeltà" <a href="https://www.thefork.it/#user-account" rel="nofollow" target="_blank">del conto dell'Utente</a>.</p>
+
+<p style="text-align: justify;">     Una volta emesso e soggetto alle altre disposizioni di queste Condizioni     speciali per il programma fedeltà, il Codice promo è valido per un periodo     limitato alla durata del programma di raccomandazione. </p>
+
+<p style="text-align: justify;">     Il Codice di sponsorizzazione: a) deve essere utilizzato per la persona e     lo scopo di destinazione e in maniera legale; b) non ha valore monetario;     c) non può essere duplicato, incassato, trasferito (ad eccezione di quanto     permesso dal presente documento) né venduto a nessuno, né reso disponibile     al pubblico generico (essendo postato su un forum pubblico, su un sito di     coupon o in altro modo); d) può essere disattivato da TheFork in     qualsiasi momento senza motivo, notifica o responsabilità; e) può essere     usato solo conformemente ai termini di queste Condizioni speciali per il     programma fedeltà. </p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h4 style="text-align: justify;"><strong>4. <u>Utilizzo di Yums</u></strong></h4>
+
+<h5 style="text-align: justify;">     4.1 <u>Conversione in sconto fedeltà</u></h5>
+
+<p style="text-align: justify;">     Una volta ottenuti dopo la prenotazione sul Sito TheFork, gli Yums possono     essere convertiti in uno sconto deducibile dal conto di una ristorante     aderente al Programma fedeltà ("Sconto fedeltà").</p>
+
+<p>Nella tabella per la conversione di Yums in uno Sconto fedeltà ed è accessibile nella sezione “La mia fedeltà” <a href="https://www.thefork.it/#user-account" rel="nofollow" target="_blank">del conto dell’Utente</a>.</p>
+
+<p style="text-align: justify;">     Nella lista dei ristoranti partner del Programma fedeltà è disponibile     nell'area fedeltà del conto dell’Utente sul Sito TheFork. I ristoranti     partner sono inoltre identificati ovunque sul Sito TheFork con una specifica menzione. </p>
+
+<p style="text-align: justify;">     Per convertire gli Yums in uno Sconto fedeltà, gli Utenti devono selezionare un ristorante partner del Programma fedeltà, scegliere l'opzione Sconto Fedeltà&nbsp;e una fascia oraria nel quale viene accettato lo&nbsp;Sconto Fedeltà&nbsp;prima di convalidare la prenotazione. </p>
+
+<p style="text-align: justify;">     Il ristorante partner del Programma fedeltà avrà allora la responsabilità     di dedurre automaticamente e senza ulteriori formalità lo Sconto fedeltà     dal conto. </p>
+
+<p style="text-align: justify;">     Se l'importo dello Sconto fedeltà è superiore all'importo del conto, la     deduzione fatta del ristorante non potrà superare l'importo del conto. In     altre parole, il ristorante non può pagare all'Utente la differenza tra     l'importo dello Sconto fedeltà e l'importo del conto. </p>
+
+<p style="text-align: justify;">     Il caso in cui ci sia un’offerta promozionale che può&nbsp;essere cumulata con lo Sconto Fedeltà, il ristorante applicherà l'offerta promozionale prima della     deduzione dello Sconto fedeltà. </p>
+
+<p><span lang="IT">Gli Yums guadagnati dall'Utente possono essere convertiti in Sconto fedeltà &nbsp;nel corso del loro periodo di validità così come indicato sulla pagina del Programma Fedeltà del sito TheFork. La data di scadenza degli Yums può essere consultata nella sezione “Il mio spazio fedeltà” dell’account dell’Utente. </span></p>
+
+<p style="text-align: justify;">     Gli Yums sono strettamente personali, non hanno valore monetario e non     possono essere incassati, trasferiti o venduti a nessun altro, né usati per     scopi diversi da quelli stabiliti da TheFork in queste Condizioni     speciali per il programma fedeltà. </p>
+
+<h5 style="text-align: justify;">     4.2 <u>Cancellazione / no-show</u></h5>
+
+<p style="text-align: justify;">     Se un Utente ha prenotato con uno Sconto fedeltà e cancella la prenotazione     o se il ristorante cancella la prenotazione, gli Yums convertiti in Sconto     fedeltà al momento della prenotazione saranno riaccreditati sul conto     dell’Utente e potranno essere utilizzati per una nuova prenotazione. </p>
+
+<p style="text-align: justify;">     Se un Utente non si presenta al ristorante (no-show), lo Sconto fedeltà e     gli Yums così convertiti andranno persi e non saranno riaccreditati sul     conto dell’Utente. </p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h4 style="text-align: justify;"><strong>5. <u>Cancellazione di Yums</u></strong></h4>
+
+<p style="text-align: justify;">TheFork si riserva il diritto di trattenere o cancellare Yums     ottenuti attraverso l'uso di Codici promozionali o di Codici di     sponsorizzazione da parte di un Utente laddove TheFork stabilisca o     ritenga ragionevolmente che l'utilizzo del Codice promo o Codice di     sponsorizzazione sia stato fraudolento, illegale, fatto per errore o in     violazione delle condizioni della promozione speciale applicabile o di     queste Condizioni speciali per il programma fedeltà.</p>
+
+<p style="text-align: justify;">     Inoltre, il mancato rispetto da parte dell’Utente di questi Termini di     Utilizzo (inclusa l'inadempienza a numerose prenotazioni (no-show)), tutti     gli abusi o usi fraudolenti del Sito TheFork e/o degli Yums o qualsiasi     altro comportamento che pregiudichi gli interessi di TheFork potranno     determinare la disattivazione del conto dell’Utente e/o l'immediata     cancellazione di tutti o parte degli Yums archiviati nell'area fedeltà del     conto dell’Utente sul sito TheFork, senza preavviso o compensazione. </p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h4 style="text-align: justify;"><strong>6. <u>Modifica/sospensione/chiusura del programma fedeltà</u></strong></h4>
+
+<p style="text-align: justify;">     TheFork si riserva il diritto di modificare, sospendere o concludere     il Programma fedeltà in qualsiasi momento senza incorrere in nessun tipo di     responsabilità. In questo caso, TheFork informerà gli Utenti per     email e/o con pubblicazione sul Sito TheFork indicando i nuovi termini e     condizioni del Programma fedeltà e/o i termini di chiusura del Programma     fedeltà. </p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h4 style="text-align: justify;"><strong>7. <u>Limitazioni di responsabilità</u></strong></h4>
+
+<p style="text-align: justify;">     In relazione al Programma fedeltà, TheFork è obbligata esclusivamente     a fare uno sforzo ragionevole e ad accettare responsabilità solo in     relazione all'attribuzione degli Yums agli Utenti. Di conseguenza, TheFork non potrà essere ritenuta responsabile per reclami relativi agli     Yums dopo che essi siano stati debitamente attribuiti a un Utente da parte     di TheFork. Più specificamente, TheFork non ha responsabilità     una volta che gli Yums sono stati convertiti in uno Sconto fedeltà da un     Utente. </p>
+
+<p style="text-align: justify;">     Pertanto, TheFork non è responsabile della mancata applicazione di     uno Sconto fedeltà all’Utente da parte del ristorante. </p>
+
+<p style="text-align: justify;">     In ogni caso, TheFork declina ogni responsabilità in relazione al     Programma fedeltà nell'eventualità di violazione contrattuale e/o colpa     dell’Utente. </p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h1 id="NormativaSullaPrivacy">C. INFORMATIVA SULLA  PRIVACY E SUI COOKIE</h1>
+
+<p style="text-align: center;"><strong>Ultimo aggiornamento: 3 giugno 2021</strong></p>
+
+<p>La Società è consapevole che  la condivisione delle vostre informazioni personali con la Società si basa  sulla fiducia. La Società prende questo aspetto molto seriamente e si impegna  ad assicurare il rispetto della vostra privacy in caso di visita al sito web o  di utilizzo dei servizi offerti. Per conoscere le prassi sulla privacy della  Società, leggete attentamente questa Informativa.</p>
+
+<p>La Società  gestisce un servizio online che consente ai suoi utenti ("voi", "vostro") di scegliere  e prenotare un tavolo in un ristorante e, in certe strutture, di pagare il  pasto (nella presente Informativa, i suddetti  servizi sono collettivamente indicati come i Servizi offerti). </p>
+
+<p>I Servizi offerti sono gestiti da La Fourchette SAS in qualità di  proprietario e di titolare del trattamento dei dati. Visitando i siti web e le  relative applicazioni della Società, da computer, telefono, tablet o  dispositivo simile (tutti indicati come "Dispositivo"), accettate le  prassi descritte di seguito.</p>
+
+<p>In qualità di azienda globale, la  Società opera in Paesi e territori con differenti leggi e consuetudini. La  presente Informativa fornisce una panoramica generale delle nostre prassi in  materia di privacy. Potete visualizzare alcune informazioni specifiche per il  Paese selezionando il vostro luogo di residenza negli indirizzi relativi alla  giurisdizione in fondo alla presente Informativa.</p>
+
+<h3><strong>Informazioni raccolte</strong></h3>
+
+<p>Se accedete a o usate i Servizi offerti, la Società  raccoglie informazioni da e su di voi al fine di fornirvi un'esperienza più  personalizzata e pertinente. Alcune informazioni sono raccolte automaticamente  dalla Società. Altre informazioni che la Società raccoglie da diverse fonti,  tra cui entità affiliate, partner commerciali e altre fonti terze indipendenti.  Quando utilizzate i servizi della Società tramite reindirizzamento da altri  siti di terze parti o quando visitate i siti di terze parti tramite i Servizi  offerti, tali siti di terze parti potrebbero condividere informazioni con la  Società sull'utilizzo dei propri servizi. Tra le informazioni raccolte si annoverano: </p>
+
+<ul>
+  <li>Informazioni di contatto, compresi nome,  numero di telefono e indirizzo postale e di posta elettronica</li>
+
+  <li>Informazioni di fatturazione o di pagamento  (come numero di carta di credito, nome del titolare della carta, data di  scadenza, codice di verifica e indirizzo di fatturazione) tramite la  collaborazione della Società con un fornitore di servizi di pagamento  affidabile</li>
+
+  <li>Nome utente e password</li>
+
+  <li>Foto, recensioni, post sui social network  eventualmente forniti alla Società</li>
+
+  <li>Informazioni relative alla  geolocalizzazione</li>
+
+  <li>Informazioni relative al dispositivo, come  l'ultimo accesso ai Servizi offerti e le informazioni relative al Dispositivo  usato (per esempio, indirizzo IP, software o browser Internet utilizzato,  lingue preferite, UDI, ovvero codice di identificazione univoco del  dispositivo, e ID pubblicità)</li>
+
+  <li>Attività online, tra cui le pagine visitate, le  recensioni consultate e le applicazioni utilizzate</li>
+
+  <li>Cronologia delle prenotazioni dei ristoranti</li>
+
+  <li>Informazioni sulle prenotazioni dei ristoranti e sulle  preferenze personali</li>
+</ul>
+
+<p>Ove  abbiate fornito informazioni su altri clienti, compreso il loro indirizzo email  e altre informazioni relative alle prenotazioni, ad esempio nome e cognome di  chi le effettua, la Società è autorizzata a raccogliere tali dati. Se  condividete con la Società informazioni relative ad altre persone, assicuratevi  di avere il loro consenso. Se fornite alla Società i dati di qualsiasi soggetto  terzo, assicuratevi che il soggetto stesso dia il suo consenso. </p>
+
+<p>Oltre ai casi  elencati in precedenza, la Società potrebbe raccogliere informazioni sulla  vostra posizione, se avete configurato il Dispositivo per l'invio di tali  informazioni nelle impostazioni sulla privacy oppure se, per esempio, avete  caricato foto con tag contenenti informazioni sulla posizione. La Società può  utilizzare le vostre informazioni sulla posizione direttamente e/o condividere  la vostra posizione con terze parti. La Società raccoglie e condivide  informazioni sulla vostra posizione al fine di fornirvi contenuti pertinenti,  analizzare l'utilizzo dei Servizi offerti, migliorarli e fornire suggerimenti.  I dati sulla posizione consentono alla Società, tra le altre cose, di mostrarvi  i ristoranti nelle vicinanze. </p>
+
+<p>Potete modificare le  impostazioni sulla privacy del Dispositivo in uso in qualsiasi momento e  disattivare quindi la raccolta e la condivisione delle informazioni sulla  vostra posizione e/o l'assegnazione di tag alle vostre foto con informazioni  sulla posizione. Tuttavia, la disattivazione della condivisione delle  informazioni sulla posizione potrebbe limitare l'uso di alcune funzioni. In  caso di domande relative alle impostazioni sulla privacy del Dispositivo,  contattate il produttore o il gestore dei servizi di telefonia mobile.</p>
+
+<p>Nella sezione <a href="#cookies">Cookie</a> di seguito potete  trovare informazioni circa l'uso dei cookie e di altre tecnologie descritte in  questa sezione e le vostre preferenze in merito a tali tecnologie.</p>
+
+<h3><strong>Uso delle informazioni</strong></h3>
+
+<p>La Società si impegna a fornirvi contenuti pertinenti sui  Servizi offerti e a rispettare le leggi sulla privacy delle differenti  giurisdizioni in cui opera. La Società usa le vostre informazioni per  permettervi di sfruttare al meglio i Servizi offerti, ad esempio per gli scopi che seguono: </p>
+
+<ul>
+  <li>consentire la registrazione e la gestione dell'account,  tra cui l'accesso ai e l'uso dei Servizi offerti</li>
+
+  <li>semplificare le prenotazioni dei ristoranti</li>
+
+  <li>misurare l'interesse per i Servizi offerti e  migliorarli</li>
+
+  <li>informarvi circa offerte speciali o servizi,  disponibili sul portale della Società o messi a disposizione da affiliati,  partner o ristoranti di interesse per voi</li>
+
+  <li>attuare e gestire il programma fedeltà</li>
+
+  <li>comunicare con voi</li>
+
+  <li>pubblicare recensioni, punteggi, post del  forum, foto e altri contenuti che desiderate pubblicare</li>
+
+  <li>organizzare concorsi a premi, gare o sondaggi</li>
+
+  <li>personalizzare la vostra esperienza nonché  gli annunci pubblicitari che vi vengono mostrati sui Servizi offerti e su  Internet</li>
+
+  <li>dedurre i vostri interessi e le vostre  preferenze</li>
+
+  <li>fornirvi un'esperienza ottimizzata e  raggruppare gli utenti dei Servizi offerti sulla base per esempio dell'uso e  dei dati demografici </li>
+
+  <li>inviarvi sondaggi o inviti a ricerche di  mercato</li>
+
+  <li>rispondere alle vostre domande e ai vostri  commenti</li>
+
+  <li>risolvere dispute o problemi</li>
+
+  <li>prevenire attività potenzialmente illegali o  non consentite</li>
+
+  <li>applicare  le proprie condizioni d'uso e avvisi; qualsiasi altro  scopo indicato al momento della raccolta dei dati</li>
+</ul>
+
+<p>Alcune  informazioni su di voi sono necessarie per fornire offerte pertinenti da parte  della Società, dei suoi affiliati, dei suoi partner e dei ristoranti e per  consentirvi di godere di altri vantaggi derivanti dallo status di utente  registrato. Consultate la sezione "Preferenze sulle informazioni"  sotto riportata in merito alle preferenze relative alla raccolta e all'uso  delle vostre informazioni.</p>
+
+<h3><strong>Condivisione delle informazioni</strong></h3>
+
+<p>Al fine di fornire alcuni dei Servizi offerti, la Società  potrebbe condividere le vostre informazioni con terze parti, tra cui il gruppo  di società, nelle seguenti circostanze: </p>
+
+<ul>
+  <li><u>Il Gruppo di società</u>. La Società  condivide le vostre informazioni con le aziende del proprio gruppo in modo da  fornirvi informazioni pertinenti su prodotti e servizi, sia relative ai  ristoranti sia di altro tipo. <a href="#siti-web-e-business-di-thefork">Tali aziende e siti web</a> saranno conformi  alla presente Informativa e a tutte le leggi applicabili che regolano la  trasmissione di comunicazioni promozionali.</li>
+
+  <li><u>Ristoranti</u>. La Società condivide le vostre  informazioni con i ristoranti aderenti al programma per consentire loro di  agevolare e gestire la vostra prenotazione e i relativi reclami e controversie.  Quando si effettua una prenotazione, l'utente può decidere di ricevere  comunicazioni di marketing da parte del ristorante in questione. Se l'utente  acconsente a ricevere comunicazioni di marketing dal ristorante, quest'ultimo è  responsabile del trattamento delle informazioni che la Società gli trasmette.</li>
+
+  <li><u>Fornitori</u>. La Società condivide informazioni con  alcuni fornitori per semplificare i Servizi offerti, tra cui semplificare le  transazioni, come nel caso di eventuali prenotazioni. </li>
+
+  <li><u>Partner commerciali</u>. Le informazioni su  di voi, sui vostri dispositivi e sul vostro utilizzo dei Servizi offerti potrebbero  essere condivise con partner commerciali affidabili. Ad esempio, le  informazioni potrebbero essere condivise per fornirvi contenuti pertinenti o  per agevolare il pagamento del pasto consumato in un ristorante. Tale  condivisione è generalmente conforme ad accordi scritti che includono obblighi  di riservatezza, protezione e sicurezza; tuttavia, la Società non è in grado di  controllare le prassi in materia di privacy di questi partner commerciali  terzi.</li>
+
+  <li><u>Siti di social media</u>. Quando utilizzate  i Servizi della Società e scegliete di condividere informazioni con siti di  social media di terze parti, le informazioni condivise saranno disciplinate  dalle politiche sulla protezione dei dati di tali siti di social media e dalle  impostazioni sulla privacy impostate su tali siti web di social media. </li>
+
+  <li><u>Network pubblicitari</u>. Le informazioni  relative ai vostri interessi vengono talvolta    raccolte e condivise con i network pubblicitari. Alcune aziende fanno parte  della <a href="https://www.networkadvertising.org/">Network  Advertising Initiative</a> o della <a href="http://optout.aboutads.info/">Digital Advertising Alliance</a>, che consentono di  disattivare la visualizzazione degli annunci pubblicitari mirati da parte delle  aziende partecipanti in modo centralizzato. Per ulteriori  informazioni, fare clic <a href="http://optout.networkadvertising.org/?c=1">qui</a>. </li>
+
+  <li><u>Altre terze parti, tra cui i siti web di riferimento</u>. Le terze parti  possono essere di supporto nella raccolta delle informazioni, ad esempio,  attraverso le funzioni operative del sito web o nella scelta degli annunci  pubblicitari online da mostrarvi in base ai vostri interessi. È possibile che  la Società condivida segmenti di pubblico e altre informazioni con terze parti  che utilizzano tali informazioni per fornirvi annunci pubblicitari  personalizzati.</li>
+</ul>
+
+<p>Le terze parti possono raccogliere o accedere a tali informazioni  solo nella misura necessaria per lo svolgimento delle loro funzioni  autorizzate.</p>
+
+<p>Alcune versioni di sistema operativo del Dispositivo vi  consentono di disattivare determinati tipi di condivisione delle informazioni,  compresi alcuni network pubblicitari. Per limitare tale monitoraggio,  controllare le impostazioni del Dispositivo.</p>
+
+<h3><strong>Preferenze sulle informazioni</strong></h3>
+
+<p>Potete esprimere le vostre  preferenze in merito alla raccolta e all'uso delle informazioni. Potete  accedere, aggiornare e chiudere il vostro account dalla sezione <a href="https://www.thefork.it/#user-account" rel="nofollow">"Le mie informazioni personali"</a> del sito web </p>
+
+<p>Le vostre preferenze: </p>
+
+<ul>
+  <li>potete  scegliere le modalità mediante le quali devono avvenire le comunicazioni.  Potete scegliere di non fornire alla Società i vostri dati personali, sebbene  ciò sia necessario per usufruire di alcune funzionalità offerte sui siti. </li>
+
+  <li>potete  richiedere di non raccogliere le informazioni sulla geolocalizzazione, ma la  disattivazione della condivisione della posizione può influire su alcune  caratteristiche dei Servizi offerti. </li>
+
+  <li>potete aggiungere o aggiornare le informazioni e chiudere il  vostro account. Se chiudete il vostro account, questo verrà disattivato e le  informazioni del profilo verranno rimosse dalla vista attiva. La Società può  conservare alcune informazioni associate al vostro account (incluse le  prenotazioni passate) per scopi interni, inclusi backup, prevenzione delle  frodi, risoluzione delle controversie, indagini e conformità legale per il  periodo necessario per soddisfare gli scopi indicati nella presente  Informativa. </li>
+
+  <li>in  qualità di utenti registrati, potete modificare in qualsiasi momento le vostre  adesioni ai servizi di marketing, comprese le scelte di ricezione di email,  all'interno delle impostazioni dell'account. In tutte le email inviate, vi  verrà offerta inoltre la possibilità di <u><a href="https://www.thefork.it/#user-account" rel="nofollow" target="_blank">annullare</a></u> la  vostra adesione alla ricezione di messaggi promozionali. </li>
+</ul>
+
+<h3><strong>Trasferimento delle  informazioni</strong></h3>
+
+<p>In qualità di azienda internazionale, la Società opera in  diverse giurisdizioni. Nel caso in cui le vostre informazioni vengano  trasferite in altri Paesi, tali informazioni saranno utilizzate e protette come  descritto nella presente Informativa e in conformità con la legge applicabile. </p>
+
+<h3><strong>Sicurezza delle informazioni</strong></h3>
+
+<p>La Società ha implementato adeguate procedure  amministrative, tecniche e di sicurezza fisica per proteggere le vostre  informazioni. </p>
+
+<p>Solo alcuni dipendenti hanno accesso alle informazioni  personali e tale accesso è possibile solo per funzioni aziendali consentite.  Per la trasmissione delle informazioni tra il sistema della Società e il vostro  sistema e tra il sistema della Società e quello delle parti con cui vengono  condivise le informazioni viene utilizzata la crittografia. Vengono inoltre  impiegati firewall e sistemi di rilevamento delle intrusioni per evitare gli  accessi non autorizzati ai vostri dati. Tuttavia, la Società non può garantire la sicurezza delle  informazioni da accessi o utilizzi non autorizzati, guasti hardware o software  o altre circostanze al di fuori del proprio controllo.</p>
+
+<h3><strong>Conservazione delle informazioni</strong></h3>
+
+<p>La Società conserva copie delle vostre informazioni per  tutto il tempo in cui l'account è attivo o per quanto necessario in relazione  alle finalità esposte nella presente Informativa, salvo ove la legge  applicabile richieda un periodo di conservazione più lungo. Inoltre, la Società  può conservare le vostre informazioni per il periodo di tempo necessario per  stabilire, esercitare o difendere eventuali diritti legali.</p>
+
+<h3><strong>Segnali Do Not Track</strong></h3>
+
+<p>Il sito web della Società non è stato progettato per  rispondere alle richieste di segnale "Do Not Track" ("DNT")  dei browser. Ciò è dovuto alla mancanza di un'interpretazione internazionale  standardizzata che definisca i segnali "Do Not Track". Quando il  settore stabilirà gli standard relativi a questo tema, la Società potrebbe  rivalutare questo approccio.</p>
+
+<h3 id="cookies"><strong>Cookie</strong></h3>
+
+<p>La Società si impegna a rendere l'accesso ai Servizi  offerti il più semplice, efficiente e utile possibile. Nell'ottica di tale  impegno, la Società utilizza cookie e tecnologie simili per migliorare la  vostra esperienza, per migliorare la sicurezza del sito web e per mostrarvi annunci  pubblicitari pertinenti.</p>
+
+<p>Che cosa sono i cookie?</p>
+
+<p>I cookie sono piccoli  file di testo che vengono automaticamente memorizzati sul vostro dispositivo  ogni volta che visitate un sito web. Sono memorizzati dal vostro browser  Internet e contengono informazioni di base sul vostro utilizzo di Internet. Il  vostro browser invia questi cookie ogni volta che visitate un sito web affinché  il sito web possa riconoscere il Dispositivo e migliorare la vostra esperienza,  fornendovi tra l'altro anche contenuti personalizzati. La Società utilizza  cookie anche per ricordare i dati di accesso, in modo tale che non dobbiate  reinserirli ogni qual volta utilizzate i Servizi offerti. Gli altri cookie  consentono invece di comprendere le vostre preferenze. </p>
+
+<p>I cookie utilizzati dalla Società si dividono in tre  categorie. </p>
 
 <table width="0" cellspacing="0" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td width="141" valign="top">
-        <p><strong>Catégorie</strong></p>
+        <p><strong>Categoria</strong></p>
       </td>
 
       <td width="460" valign="top">
-        <p>Exemple<br>
+        <p>Esempio<br>
 <br>
 <!--[if !supportLineBreakNewLine]--></p>
       </td>
@@ -695,39 +723,39 @@
 
     <tr>
       <td width="141" valign="top">
-        <p>Cookies de base </p>
+        <p>Essenziali </p>
       </td>
 
       <td width="460" valign="top">
-        <p>Ces    cookies sont nécessaires pour vous permettre d'accéder au site Web, de le    parcourir et d'utiliser l'ensemble de ses fonctionnalités. Sans eux, le site Web    risque de ne pas fonctionner correctement et de vous empêcher d'utiliser    certaines de ses fonctionnalités les plus importantes. Par exemple, nous    utilisons un cookie qui maintient votre connexion tout au long de votre    visite, afin de vous éviter d'avoir à indiquer systématiquement vos    identifiants dès que vous accédez à une nouvelle page. Nous pouvons également    utiliser des cookies de base à des fins de prévention et de détection des    fraudes.</p>
-            Vous    ne pouvez pas désactiver les cookies de base à l'aide de l'outil de gestion    des cookies, dans la mesure où ils sont nécessaires pour que vous puissiez    accéder aux fonctionnalités du site Web&nbsp;et les utiliser.<br>
+        <p>Questi cookie sono    necessari in quanto vi permettono di accedere al sito web, di visitarlo e di    utilizzarne tutte le funzioni. Senza tali cookie il sito web non funzionerebbe in    maniera corretta e non potreste utilizzare alcune funzioni importanti. Ad esempio,    la Società utilizza un cookie che permette di mantenere attiva la sessione di    accesso in modo da non dover accedere ripetutamente per ogni pagina visitata.    Inoltre, vengono utilizzati i cookie essenziali a scopo di prevenzione e    rilevamento di attività fraudolente.</p>
+                 Non è possibile    disattivare i cookie essenziali attraverso lo Strumento per il consenso dei    cookie in quanto tali cookie sono necessari per accedere al sito web&nbsp;e    utilizzarne le funzionalità.<br>
 <!--[if !supportLineBreakNewLine]--><br>
       </td>
     </tr>
 
     <tr>
       <td width="141" valign="top">
-        <p>Cookies    de personnalisation et d'analyse</p>
+        <p>Analisi e    personalizzazione</p>
       </td>
 
       <td width="460" valign="top">
-        <p>Ces    cookies nous permettent de comprendre l'utilisation qui est faite de notre    site Web et nous aident à l'améliorer. Ils peuvent nous fournir des informations    qui nous aident à connaître les éléments du site Web qui intéressent nos    visiteurs et à détecter toute erreur pendant la navigation. Nous les    utilisons pour tester différentes mises en page et fonctionnalités, ainsi que    pour savoir par quels moyens les visiteurs parviennent jusqu'au site Web.</p>
-            Nous    avons également recours à des cookies pour enregistrer vos paramètres et    préférences sur le site Web (langue favorite et informations précédemment saisies    lors d'une recherche sur les options d'unrestaurant, par exemple). Certains    cookies de personnalisation sont essentiels à l'utilisation de    fonctionnalités spécifiques du site Web.<br>
+        <p>Questi cookie    vengono utilizzati per capire come viene usato il sito web&nbsp;e come migliorare    l'esperienza degli utenti. Questi cookie forniscono informazioni che    consentono di comprendere quali parti del sito web interessano maggiormente i    visitatori e se si verificano errori nel corso della navigazione. Questi    cookie vengono utilizzati per verificare diversi design e funzioni dei siti    web della Società, nonché per monitorare la provenienza dei visitatori.</p>
+                 Inoltre, la    Società utilizza cookie per salvare le impostazioni e le preferenze degli    utenti sul sito web, ad esempio la lingua e le informazioni precedentemente    inserite durante la ricerca di opzioni di ristoranti. Alcuni cookie di personalizzazione sono essenziali    per l'utilizzo di determinate funzionalità del sito web.<br>
 <!--[if !supportLineBreakNewLine]--><br>
       </td>
     </tr>
 
     <tr>
       <td width="141" valign="top">
-        <p>Cookies publicitaires</p>
+        <p>Pubblicitari</p>
       </td>
 
       <td width="460" valign="top">
-        <p>Les    cookies publicitaires permettent de s'assurer que les publicités que vous    voyez sont aussi pertinentes que possible pour vous. Par exemple, certains    cookies publicitaires permettent de sélectionner des publicités en fonction    de vos centres d'intérêt. D'autres permettent d'éviter que la même annonce ne    réapparaisse continuellement à votre écran.</p>
+        <p>I cookie    pubblicitari aiutano a selezionare gli annunci pubblicitari più pertinenti    per voi. Ad esempio, alcuni cookie pubblicitari servono a selezionare annunci    basati sui vostri interessi. Altri cookie pubblicitari invece consentono di    evitare che vi venga mostrato ripetutamente lo stesso annuncio.</p>
 
-        <p>Nous    utilisons également des cookies pour faciliter le partage du contenu du site Web    avec vos amis via vos réseaux sociaux préférés. Les sites de réseaux sociaux    peuvent installer des cookies qui vous reconnaissent lorsque vous visualisez    du contenu sur le site Web. De plus, ils vous permettent de partager du contenu à    la fois sur le site Web&nbsp;et sur le site de réseaux sociaux grâce à l'utilisation    de paramètres de partage. Pour plus d'informations, veuillez consulter les    conditions d'utilisation et la politique de confidentialité de votre site de    réseaux sociaux. </p>
+        <p>Inoltre, grazie ai    cookie potrete condividere in modo più semplice i contenuti del sito web con gli    amici sui vostri social network preferiti. I siti di social media possono    impostare cookie che vi riconoscono quando visualizzate contenuti sul sito web e    vi consentono di condividere contenuti sia sul sito web&nbsp;sia sul sito di social    media attraverso l'uso di impostazioni di condivisione. Per ulteriori    informazioni, consultate le condizioni d'uso e le politiche d'uso del sito di    social media. </p>
 
-        <p>Nous    travaillons également avec des annonceurs tiers pour vous donner accès à du    contenu relatif à des restaurants susceptible de vous intéresser, et pouvons    placer des cookies sur nos Services pour vous présenter des annonces    publicitaires qui correspondent à vos centres d'intérêts et préférences. Ces    « cookies tiers » collectent des informations sur votre    comportement de navigation et vos interactions avec les publicités ou les    Services en général. Ces informations nous aident également à limiter le    nombre de fois que vous voyez les mêmes annonces et à améliorer votre    expérience en ligne.</p>
+        <p>La Società lavora    anche con inserzionisti terzi per proporvi contenuti di ristoranti che    potrebbero essere di vostro interesse e potrebbe impostare i cookie sui    Servizi offerti per mostrare annunci pubblicitari che corrispondono ai vostri    interessi e alle vostre preferenze. I "cookie di terze parti"    raccolgono informazioni circa il vostro comportamento di navigazione e la    vostra interazione con gli annunci pubblicitari o con i Servizi in generale.    Tali informazioni consentono alla Società di limitare il numero di volte in    cui vi viene riproposto uno stesso annuncio pubblicitario e di migliorare la    vostra esperienza online.</p>
       </td>
     </tr>
   </tbody>
@@ -736,148 +764,208 @@
 <p><br>
 </p>
 
-<h3><strong>Outil de gestion des cookies</strong></h3>
+<h3><strong>Strumento per il consenso dei cookie</strong></h3>
 
-<p>Pour vous donner plus de contrôle, nous vous fournissons  un Outil de gestion des cookies qui vous permet d'examiner les cookies internes  et de tiers placés sur notre site Web et d'ajuster vos paramètres afin de les  accepter ou de les refuser. </p>
+<p>Per darvi maggiore controllo, la Società mette a  disposizione lo Strumento per il consenso dei cookie, che vi consente di  rivedere i cookie di prima parte e di terze parti inseriti attraverso il nostro  sito web e di regolare le impostazioni dei cookie, compresa l'accettazione o  il rifiuto  di tali cookie. </p>
 
-<p>Vous pouvez accéder à l'Outil de  gestion des cookies&nbsp;en cliquant <a class="evidon-consent-dialog" href="https://info.evidon.com/pub_info/17003?v=1&amp;nt=0&amp;nw=true" rel="nofollow" target="_blank">ici</a> ou à tout moment via le lien  « Gestion des cookies » en bas de chaque page ou dans notre bannière  cookie. En outre, vous pouvez gérer les cookies via les paramètres de votre  navigateur Internet. Vous pouvez faire en sorte que le navigateur vous envoie  une notification lorsque vous recevez un nouveau cookie, supprimez certains  cookies ou l'ensemble de ceux-ci.</p>
+<p>Potete accedere allo  Strumento per il consenso dei cookie facendo clic <a class="evidon-consent-dialog" href="https://info.evidon.com/pub_info/17007?v=1&amp;nt=0&amp;nw=true" rel="nofollow" target="_blank">qui</a> o&nbsp;sul collegamento al "Consenti i cookie" alla fine di  ogni pagina o modificando le preferenze  nell'apposito banner cookie. Inoltre, potete gestire i cookie  attraverso le impostazioni del vostro browser Internet. Potete impostare il  browser in modo da ricevere una notifica per ogni nuovo cookie ricevuto o da  eliminare i singoli cookie o tutti i cookie.</p>
 
-<p>La plupart des réseaux publicitaires  vous offrent la possibilité de refuser les cookies publicitaires. Vous  trouverez des informations utiles sur la manière de procéder sur ces pages <a href="http://www.aboutads.info/choices/">www.aboutads.info/choices/</a> et <a href="http://www.youronlinechoices.com/fr/">www.youronlinechoices.com/fr/</a>.</p>
+<p>La maggior parte dei  network pubblicitari permette di disattivare i cookie pubblicitari. Per  informazioni in merito, visitate <a href="http://www.aboutads.info/choices/">www.aboutads.info/choices/</a> e <a href="http://www.youronlinechoices.com/it/">www.youronlinechoices.com/it/</a>.</p>
 
-<p>Si vous supprimez vos cookies, votre  accès à certaines fonctionnalités et zones de nos Services pourrait être  dégradé ou restreint.</p>
+<p>Se eliminate i  cookie, l'accesso ad alcune funzionalità e aree dei Servizi offerti potrebbe  essere compromesso o limitato.</p>
 
-<p>L'utilisation que nous faisons de toute  information que nous recueillons par le biais des cookies est assujettie à la  présente Déclaration, laquelle peut être consultée à partir de chaque page de  notre site Web grâce à un lien.</p>
+<p>L'utilizzo da parte  della Società di qualsiasi informazione raccolta attraverso i cookie è soggetto  alla presente Informativa, che è collegata a tutte le pagine del sito web&nbsp;della  Società.</p>
 
-<h3><strong>Modifications de la  Déclaration et notifications</strong></h3>
+<h3><strong>Modifiche dell'Informativa e notifiche</strong></h3>
 
-<p>Nous pourrons être amenés à  mettre à jour la présente Déclaration ultérieurement. Si nous estimons que les  modifications apportées sont importantes, nous vous en informerons par l'un ou  plusieurs des moyens suivants : en vous envoyant une communication sur les  modifications, en plaçant  une notification sur le site et/ou en affichant une mise à jour de la Déclaration  sur le site Web. Nous indiquerons au début de la présente Déclaration la date de sa  dernière mise à jour. Nous vous encourageons à consulter et examiner  périodiquement la version la plus récente pour obtenir les dernières  informations disponibles sur nos pratiques en matière de confidentialité des  données.</p>
+<p>La Società si riserva il  diritto di aggiornare la presente Informativa in futuro. Se vengono apportate  modifiche sostanziali, la Società ve le comunicherà in uno dei modi che  seguono: l'invio di un avviso sulle modifiche, l'inserimento di un avviso sul sito web&nbsp;e/o la pubblicazione di  un'Informativa aggiornata sul sito web. All'inizio di questa Informativa, la  Società dichiara la data dell'ultimo aggiornamento. La Società vi invita a  controllare di tanto in tanto la versione più recente e a rileggere  periodicamente la presente Informativa per scoprire le ultime informazioni  sulle prassi in materia di privacy.</p>
 
-<h3><strong>Contact</strong></h3>
+<h3><strong>Contatti</strong></h3>
 
-<p>Pour toute demande  concernant la confidentialité des données, par exemple pour demander la  suppression ou l'accès à vos données, veuillez consulter notre portail dédié à  la confidentialité <a href="https://privacyportal.onetrust.com/webform/da774af3-e615-4e8c-8a28-3d13e98367c5/091dbabd-4724-4ae9-a3a7-541da83969f3" rel="nofollow">ici</a>. Pour toute demande d'ordre général concernant la confidentialité des données ou pour toute question concernant notre Déclaration relative à la confidentialité et aux cookies, veuillez contacter notre équipe chargée de la protection de la vie privée <a href="https://privacyportal.onetrust.com/webform/da774af3-e615-4e8c-8a28-3d13e98367c5/6468483f-9cb0-4a04-9897-090a47438535">ici</a>. </p>
+<p>Se avete  una richiesta in materia di privacy dei dati, ad esempio se desiderate  eliminare o accedere ai vostri dati, consultate il nostro portale dedicato alla  privacy <a href="https://privacyportal.onetrust.com/webform/da774af3-e615-4e8c-8a28-3d13e98367c5/091dbabd-4724-4ae9-a3a7-541da83969f3" rel="nofollow">facendo clic qui</a>. Se avete richieste o domande generali sulla privacy relative alla nostra Informativa sulla privacy e sui cookie, contattate il nostro team dedicato per la privacy facendo <a href="https://privacyportal.onetrust.com/webform/da774af3-e615-4e8c-8a28-3d13e98367c5/6468483f-9cb0-4a04-9897-090a47438535">clic qui</a>. </p>
 
-<h2 align="center"><strong>Europe</strong></h2>
+<h2 align="center"><strong>EUROPA </strong></h2>
 
-<h3><strong>Déclaration de  confidentialité au titre du Règlement général sur la protection des données  (« Déclaration de confidentialité des données au titre du RGPD »)</strong></h3>
+<h3><strong>Dichiarazione sulla protezione della privacy  relativa al Regolamento generale sulla protezione dei dati ("Dichiarazione  GDPR", dall'inglese General Data Protection Regulation)</strong></h3>
 
-<p>La présente Déclaration de confidentialité des données au titre du RGPD  s'applique aux personnes se trouvant dans l'Espace économique européen  (« EEE »), y compris celles basées au Royaume-Uni. La présente  Déclaration de confidentialité des données au titre du RGPD complète notre  Déclaration ; toutefois, lorsque celle-ci entre en conflit avec la  Déclaration de confidentialité des données au titre du RGPD, cette dernière  prévaudra pour les personnes se trouvant dans l'EEE.</p>
+<p>La  Dichiarazione GDPR si applica alle persone residenti nello Spazio Economico  Europeo ("SEE") e a quelle residenti nel Regno Unito. Questa  Dichiarazione GDPR integra l'Informativa della Società; tuttavia, nel caso in  cui l'Informativa fosse in conflitto con la Dichiarazione di conformità al  GDPR, per le persone all'interno del SEE prevarrà la Dichiarazione GDPR.</p>
 
-<h3><strong>Responsable du traitement  des données personnelles</strong></h3>
+<h3><strong>Responsabile delle informazioni personali</strong></h3>
 
-<p>La Fourchette SAS est le responsable du traitement des données personnelles que nous recueillons. Toutefois, conformément à la loi sur la protection des données en vigueur, nous avons désigné un représentant au sein du Royaume Uni. </p>
+<p>La Fourchette SAS è responsabile delle informazioni personali che raccoglie. Tuttavia, in conformità alla legge sulla privacy applicabile, la Società ha nominato dei rappresentante all'interno del Regno Unito. </p>
 
-<p>Les coordonnées de notre représentant pour l’Union européenne sont les suivantes :</p>
+<p><br>
+</p>
+
+<p>I contatti del rappresentante della Società per l'Unione Europea sono:</p>
+
+<p><br>
+</p>
 
 <p>La Fourchette SAS<br>
  70 rue Saint Lazare<br>
  75009 Paris<br>
- France<br>
+ Francia<br>
  Attn: Privacy Officer</p>
 
-<p>Les coordonnées de notre représentant pour le Royaume Uni sont les suivantes :</p>
+<p><br>
+</p>
 
-<p>Bookatable Limited<br>
- 7 Soho Square<br>
- London<br>
- W1D 3QB<br>
- United Kingdom<br>
- Attn: Privacy Officer</p>
+<p>I contatti del rappresentante della Società per il Regno Unito sono:</p>
 
-<p>Le rôle de Bookatable Limited est limité exclusivement à celui de contact pour les questions sur la protection des données des citoyens britanniques et sur les autorités de contrôle de la protection des données. Plus précisément, Bookatable Limited ne peut établir d'autres communications ou procédures juridiques au nom de La Fourchette SAS.</p>
+<p><br>
+</p>
+
+<p>Bookatable Limited</p>
+
+<p> 7 Soho Square</p>
+
+<p> London</p>
+
+<p> W1D 3QB</p>
+
+<p> Regno Unito</p>
+
+<p> Attn: Privacy Officer</p>
+
+<p><br>
+</p>
 <!--[if !supportLineBreakNewLine]-->
-<h3><strong>Vos droits en vertu du RGPD</strong></h3>
+<p><br>
+</p>
 
-<p>Vous disposez de certains droits concernant vos données  personnelles : </p>
+<p>Bookatable Limited in questo senso si limitano a essere un punto di contatto per rispondere alle domande sulla protezione dei dati dei residenti in Regno Unito e delle autorità di controllo in materia di protezione dei dati. A scanso di equivoci, Bookatable Limited non sono autorizzate a prendere parte ad altre comunicazioni o procedimenti legali per conto di La Fourchette SAS.</p>
+<!--[if !supportLineBreakNewLine]-->
+<h3><strong>I  vostri diritti secondo il GDPR</strong></h3>
 
-<p>Vos droits concernant les données personnelles sont les suivants :</p>
+<p>In materia di dati personali, siete tutelati da alcuni  diritti. </p>
+
+<p>I vostri diritti in materia di dati personali  includono quanto segue:</p>
 
 <ul>
-  <li>Le droit de demander  l'accès à vos données personnelles. Cela vous permet de recevoir une copie des  données personnelles que nous détenons à votre sujet.</li>
+  <li>Diritto di richiedere l'accesso ai vostri  dati personali. Ciò consente di ricevere una copia dei vostri dati personali  registrati dalla Società.</li>
 
-  <li>Le droit de demander la  correction de vos données personnelles si elles sont inexactes. Vous pouvez  également compléter les données personnelles incomplètes en notre possession,  compte tenu des fins du traitement.</li>
+  <li>Diritto di richiedere la rettifica dei vostri  dati se errati. L'utente ha inoltre la facoltà di integrare eventuali dati  personali incompleti registrati, tenendo conto degli scopi del trattamento.</li>
 
-  <li>Le droit de demander la  suppression de vos données personnelles si :                                                                                                                                                                                                    
+  <li>Diritto di richiedere l'eliminazione dei  vostri dati personali se:                                                                                                                                                                                                                                                             
     <ul>
-      <li>vos données personnelles ne  sont plus nécessaires aux fins pour lesquelles nous les avons collectées ou  traitées ; ou</li>
+      <li>non sono  più necessari per gli scopi per cui sono stati raccolti o trattati;</li>
 
-      <li>vous retirez votre  consentement lorsque le traitement de vos données personnelles est basé sur le  consentement et qu'il n'est pas autrement justifié juridiquement ; ou</li>
+      <li>l'utente  revoca il consenso, ove il trattamento dei dati personali sia soggetto al  consenso e non esistono ulteriori basi giuridiche;</li>
 
-      <li>vous vous opposez au  traitement de vos données personnelles et celui-ci n'est pas autrement justifié  par des motifs légitimes impérieux ; ou</li>
+      <li>l'utente  si oppone al trattamento dei propri dati personali e la Società non ha motivi  legittimi sovrastanti per proseguire il trattamento;</li>
 
-      <li>vos données personnelles  sont traitées illégalement ; ou</li>
+      <li>i vostri  dati personali sono stati trattati in modo illecito;</li>
 
-      <li>l'effacement de vos données  personnelles est nécessaire pour remplir une obligation légale.</li>
+      <li>i vostri  dati personali devono essere eliminati a scopo di conformità agli obblighi di  legge.   </li>
     </ul>
   </li>
 
-  <li>Le droit de vous opposer au  traitement de vos données personnelles. Nous accéderons à votre demande, à  moins que le traitement ne soit motivé par un intérêt légitime sérieux et  impérieux ou que nous devions continuer à traiter vos données personnelles afin  d'engager, exercer ou défendre une action en justice.</li>
+  <li>Diritto di opporvi al trattamento dei vostri  dati personali. La Società si impegna a rispettare la vostra richiesta, a meno  che non sussistano interessi legittimi sovrastanti per il trattamento dei dati  o necessità di proseguire il trattamento a scopo di risoluzione, esercizio o  difesa nell'ambito di un reclamo legale.</li>
 
-  <li>Le droit de demander la  limitation du traitement de vos données personnelles si :                                                                                                                                                                                                    
+  <li>Diritto di limitare il trattamento dei propri  dati personali, se:                                                                                                                                                                                                                                                             
     <ul>
-      <li>vous contestez l'exactitude  de vos données personnelles, pendant la période durant laquelle nous sommes  tenus de vérifier l'exactitude des données personnelles ; ou</li>
+      <li>contestate  l'accuratezza dei dati durante il periodo in cui la Società è tenuta a  verificarne l'accuratezza;</li>
 
-      <li>le traitement est illégal  et vous vous opposez à la suppression et demandez plutôt une limitation du  traitement ; ou</li>
+      <li>il  trattamento è illegale e vi opponete all'eliminazione dei vostri dati personali  richiedendone la limitazione;</li>
 
-      <li>nous n'avons plus besoin de  vos données personnelles aux fins du traitement, mais vous en avez besoin pour  des actions en justice ; ou</li>
+      <li>la  Società non necessita più dei vostri dati personali a scopo di trattamento, ma  questi sono a voi necessari per reclami legali;</li>
 
-      <li>vous vous opposez au  traitement, pour la période durant laquelle nous sommes tenus de vérifier les  motifs légitimes impérieux.</li>
+      <li>vi siete  opposti al trattamento, per il periodo in cui la Società è tenuta a verificare  la presenza di basi legittime sovrastanti.   </li>
     </ul>
   </li>
 
-  <li>Le droit à la portabilité des données. Vous pouvez également nous  demander d'envoyer ces données personnelles à un tiers, dans la mesure du  possible. Vous disposez de ce droit uniquement pour les données personnelles  que vous nous avez fournies et pour lesquelles le traitement est basé sur le  consentement ou nécessaire à l'exécution d'un contrat entre vous et nous et  s'il est réalisé par des moyens automatisés.</li>
+  <li>Diritto alla portabilità dei dati. Potete  richiedere l'invio di tali dati personali a terze parti, ove possibile. Potete  esercitare questo diritto solo se relativo ai dati personali che voi avete  fornito alla Società, se il trattamento è soggetto a consenso o necessario per  l'esecuzione di un contratto tra voi e la Società e se il trattamento viene  effettuato attraverso mezzi automatici.</li>
 
-  <li>Le droit de déposer une plainte auprès du responsable de la protection des données de votre pays. </li>
+  <li>Inoltre, avete il diritto di proporre reclamo presso l'autorità nazionale incaricata della protezione dei dati. </li>
 </ul>
 
-<p>Vous ne devrez  pas payer de frais pour accéder à vos données personnelles (ou exercer l'un  quelconque des autres droits décrits dans la présente Déclaration). Toutefois,  nous pouvons vous facturer des frais d'un montant raisonnable si votre demande  est manifestement injustifiée, répétée ou excessive.</p>
+<p>L'accesso ai vostri dati personali (o l'esercizio di eventuali altri  diritti descritti nella presente Informativa) è gratuito. Tuttavia, la Società  potrebbe applicare una tariffa ragionevole se la vostra richiesta è chiaramente  infondata, ripetitiva o eccessiva.</p>
 
-<p>Nous pouvons vous demander  de nous communiquer des informations spécifiques afin de nous aider à confirmer  votre identité et d'assurer que vous avez effectivement le droit d'accéder à  vos données personnelles (ou d'exercer l'un quelconque de vos autres droits).  Il s'agit d'une mesure de sécurité visant à empêcher la divulgation de vos  données personnelles à des personnes non autorisées. Dans un souci de réduction  de notre délai de réponse, nous pouvons également vous contacter pour vous  demander des informations complémentaires concernant votre demande. Vous pouvez  exercer plusieurs de vos droits par l'intermédiaire de la section de votre  compte réservée aux informations personnelles. <!--StartFragment-->Vous pouvez demander à exercer vos autres droits en&nbsp;<a href="https://privacyportal.onetrust.com/webform/da774af3-e615-4e8c-8a28-3d13e98367c5/091dbabd-4724-4ae9-a3a7-541da83969f3" rel="nofollow">cliquant ici</a><!--EndFragment-->.  </p>
+<p>La  Società si riserva di richiedere informazioni specifiche agli utenti per  confermare la loro identità e il diritto di accedere ai dati personali (o di  esercitare altri diritti). Si tratta di una misura di sicurezza atta a  garantire che i dati personali non vengano divulgati a persone che non hanno  diritto di riceverli. A scopo di accelerare i tempi di risposta, la Società  potrebbe contattare l'utente per richiedere ulteriori informazioni relative  alla richiesta. Potete esercitare diversi diritti tramite la sezione relativa  ai dati personali del vostro account. <!--StartFragment-->Per esercitare altri diritti è possibile inoltrare una richiesta&nbsp;<a href="https://privacyportal.onetrust.com/webform/da774af3-e615-4e8c-8a28-3d13e98367c5/091dbabd-4724-4ae9-a3a7-541da83969f3" rel="nofollow">facendo clic qui</a><!--EndFragment-->.</p>
 
-<h3><strong>Utilisation des  informations</strong></h3>
+<h3><strong>Uso delle informazioni</strong></h3>
 
-<p>Nous utilisons vos données personnelles  uniquement lorsque nous y sommes autorisés par la loi. </p>
+<p>La Società utilizzerà i vostri dati  personali solo nei casi consentiti dalla legge. </p>
 
-<p>Conformément au RGPD, nous utilisons  vos données personnelles dans l'une ou plusieurs des circonstances  suivantes :</p>
+<p>Conformemente al  GDPR, la Società utilizzerà i vostri dati personali in una o più delle seguenti  circostanze:</p>
 
 <ul>
-  <li>Lorsque  nous en avons besoin pour exécuter le contrat que nous avons conclu avec vous</li>
+  <li>per applicare il contratto sottoscritto o da  sottoscrivere con voi</li>
 
-  <li>Lorsque  cela est nécessaire pour la défense de nos intérêts légitimes (ou de ceux d'un  tiers) et que vos intérêts et vos droits fondamentaux ne l'emportent pas sur  ces intérêts</li>
+  <li>nel caso sia necessario per tutelare i legittimi  interessi della Società (o di terze parti) e i vostri interessi e diritti  fondamentali non prevalgono su tali interessi</li>
 
-  <li>Lorsque  nous devons nous conformer à une obligation légale ou réglementaire</li>
+  <li>a scopo di conformità a obblighi di legge</li>
 
-  <li>Avec  votre consentement </li>
+  <li>con il vostro consenso </li>
 </ul>
 
-<h3><strong>Transferts  internationaux</strong></h3>
+<h3><strong>Trasferimenti  internazionali</strong></h3>
 
-<p>Vos données personnelles peuvent être transférées vers  des pays situés hors de l'Espace économique européen (EEE) et stockées dans ces  pays aux fins indiquées dans la présente Déclaration. Lorsque nous stockons ou  transférons vos données personnelles hors de l'EEE, nous prenons les  précautions suivantes afin de nous assurer qu'elles sont correctement  protégées.</p>
+<p>I vostri dati personali possono essere memorizzati o  trasferiti in Paesi al di fuori del SEE per le finalità descritte nella  presente Informativa. In caso di archiviazione o trasferimento dei vostri dati  personali fuori dallo SEE, la Società adotta le precauzioni che seguono, atte  ad assicurarne una tutela adeguata.</p>
 
-<p>Lorsque nous stockons ou  transférons vos données personnelles hors de l'EEE, nous le faisons  conformément à la loi en vigueur et nous nous assurons qu'elles bénéficient  d'un niveau de protection similaire en mettant en place des dispositifs de  sauvegarde appropriés. Les transferts de données personnelles sont  réalisés:</p>
+<p>Quando i  vostri dati personali degli utenti vengono archiviati o trasferiti fuori dallo  SEE, tali operazioni avvengono in conformità alle leggi vigenti e la Società  assicura un livello analogo di protezione implementando tutele appropriate. I trasferimenti di dati personali vengono effettuati:</p>
 
 <ul>
-  <li>vers un pays reconnu par la  Commission européenne comme assurant un niveau de protection adéquat, ou ;</li>
+  <li>verso Paesi che secondo la Commissione  Europea forniscono un livello di protezione adeguato; o</li>
 
-  <li>vers un pays qui n'offre pas de protection adéquate, le transfert étant  régi par les clauses contractuelles types de la Commission européenne, ou en  mettant en œuvre d'autres solutions appropriées de transfert international pour  assurer l'adéquation de la protection.</li>
+  <li>verso Paesi che non offrono protezioni  adeguate ma ove il trasferimento sia contemplato nelle clausole contrattuali  standard della Commissione Europea o attraverso l'implementazione di soluzioni  di trasferimento transnazionali appropriate per fornire una tutela adeguata.</li>
 </ul>
 
-<p>En utilisant nos services,  vous comprenez que vos données personnelles peuvent être transférées vers nos  installations et aux tiers avec lesquels nous les partageons, comme indiqué  dans la présente Déclaration.</p>
+<p>Utilizzando  i servizi offerti, accettate la possibilità che i vostri dati personali vengano  trasferiti a strutture della Società e di partner di terze parti con cui  vengono condivisi in conformità alla presente Informativa.</p>
 
 <p><br>
 </p>
 
-<p>Précédente:&nbsp;<a href="https://c.tfstatic.com/tf-product/legal/politique-de-confidentialite-frCH-2019.pdf"><!--StartFragment-->https://c.tfstatic.com/tf-product/legal/politique-de-confidentialite-frCH-2019.pdf</a><!--EndFragment--></p>
+<p>Precedente:&nbsp;<a href="https://c.tfstatic.com/tf-product/legal/normativa-sulla-privay-IT-2019"><!--StartFragment-->https://c.tfstatic.com/tf-product/legal/normativa-sulla-privay-IT-2019</a><!--EndFragment--></p>
+
+<p id="GiftCard"><br>
+</p>
+
+<h1>D. CONDIZIONI D'USO DELLE GIFT CARD THEFORK</h1>
+
+<p>La Gift Card TheFork (“Gift Card”), che può essere utilizzata presso i ristoranti TheFork aderenti, è valida per 18 mesi dalla data di emissione (che potrebbe essere antecedente alla data in cui hai ricevuto la Gift Card) come indicato sulla Gift Card, salvo che il suovalore non sia interamente speso prima della data di scadenza.</p>
+
+<p>Le Gift Card consistono in un codice e nelle immagini ed informazioni associate.</p>
+
+<p>Le Gift Card hanno un valore pari a 25, 50 o 100 Euro. Questo valore è predeterminato e non può essere modificato.</p>
+
+<p>Non sono previste sostituzioni, ricariche o rimborsi (anche parziali) di Gift Card e TheFork non si assume alcuna responsabilità in caso di smarrimento, furto, distruzione o utilizzo non autorizzato delle Gift Card.</p>
+
+<p>Le Gift Card non possono essere scambiate per denaro. Le Gift Card non possono essere rivendute ma possono essere cedute a terzi.</p>
+
+<p>Le Gift Card possono essere utilizzate, presso i ristoranti aderenti partners di TheFork e aventi sede in Italia, per il consumo del pasto presso il ristorante e cibi e bevande che il ristorante offre la possibilità di aggiungere al conto  oltre al pasto, con le seguenti modalità:</p>
+
+<ul>
+  <li>inserire il codice della Gift Card nella sezione TheFork PAY; </li>
+
+  <li>prenotare il ristorante aderente su thefork.it o tramite l’app di TheFork (la “Piattaforma”);</li>
+
+  <li>Gustare il proprio pasto...e magari aggiungere una bottiglia di quell’ottimo vino o olio che si è appena assaggiati da portare via;</li>
+
+  <li>pagare il conto del pasto tramite TheFork PAY – se la Gift Card non copre l’intero ammontare del conto, è possibile pagare la differenza tramite la carta di credito salvata su TheFork PAY o con qualsiasi altro metodo di pagamento idoneo.</li>
+</ul>
+
+<p>I ristoranti aderenti possono essere selezionati: a) cliccando sul pulsante ‘Dove posso usare la mia Gift Card’ nella sezione TheFork PAY; b) una volta inserito il codice della Gift Cardnella sezione TheFork PAY, cercando nella lista dei ristoranti aderenti che apparirà su TheFork PAY; o c) sulla Piattaforma, utilizzando il filtro “Gift Card”.    </p>
+
+<p>Le Gift Card vengono emesse da La Fourchette (Italy) S.r.l (operante come TheFork).</p>
+
+<p>Le Gift Card non possono essere utilizzate in nessun altro modo o per qualsiasi altro scopo, al di fuori di quanto previsto dalle presenti Condizioni d’Uso.</p>
+
+<p>L’acquisto di una Gift Card non comporta alcuna attribuzione di punti Yums.</p>
+
+<p> TheFork si riserva il diritto di modificare le presenti Condizioni d’Uso di volta in volta a sua discrezione. Le presenti Condizioni d’Uso sono applicabili nei limiti previsti dalla legge.</p>
 
 <p><br>
 </p>
 
-<h1 id="les-sites-web-et-entreprises-lafourchette">D. LES SITES WEB ET  ENTREPRISES THEFORK </h1>
+<h1 id="siti-web-e-business-di-thefork">E. SITI WEB E BUSINESS DI THEFORK </h1>
 
-<p>La Fourchette SAS et ses filiales et sociétés  affiliées gèrent et exploitent un portefeuille de sites web et d'entreprises  regroupant les marques suivantes : </p>
+<p>Le sussidiarie e affiliate di La  Fourchette SAS possiedono e gestiscono un portfolio di siti web e business che  include i seguenti brand:</p>
 
-<p><a href="http://www.thefork.fr" rel="nofollow">www.thefork.fr</a>,  <a href="http://www.theforkmanager.com">www.theforkmanager.com</a>, <a href="http://www.thefork.ch" rel="nofollow">www.thefork.ch</a>, <a href="http://thefork.es" rel="nofollow" target="_blank">www.thefork.es</a>, et <a href="http://www.thefork.com">www.thefork.com</a> et toutes les versions  localisées, comme <a href="http://www.thefork.it">www.thefork.it</a>, <a href="http://www.thefork.be">www.thefork.be</a>, etc.</p>
+<p><a href="https://www.thefork.fr" rel="nofollow">www.thefork.fr</a>,  <a href="https://www.theforkmanager.com" rel="nofollow">www.theforkmanager.com</a>, <a href="https://www.thefork.ch" rel="nofollow">www.thefork.ch</a>, <a href="http://thefork.es" rel="nofollow" target="_blank">www.thefork.es</a>,&nbsp;<a href="https://www.thefork.com" rel="nofollow">www.thefork.com</a> e tutte le versioni locali,  come <a href="https://www.thefork.it" rel="nofollow">www.thefork.it</a>, <a href="https://www.thefork.be" rel="nofollow">www.thefork.be</a>, etc.</p>
 
 <p><br>
 </p>
 
-<p>©2022 La Fourchette SAS. Tous droits réservés</p>
+<p>©2022 La Fourchette SAS. Tutti i diritti riservati</p>
