@@ -1,775 +1,756 @@
-<p><strong><a href="#RattsligaMeddelanden">A.  Rättsliga meddelanden</a></strong></p>
+<p style="text-align: justify;"><strong><a href="#MentionsLegales">A.  Mentions Légales</a></strong></p>
 
-<p><strong><a href="#Anvandarvillkor">B.  Användarvillkor</a></strong></p>
+<p style="text-align: justify;"><strong><a href="#ConditionsdUtilisation">B.  Conditions d’Utilisation</a></strong></p>
 
-<p><strong><a href="#Personuppgiftspolicy">C. Sekretess-  och cookiepolicy</a></strong></p>
+<p style="text-align: justify;"><strong><a href="#PolitiqueDeConfidentialite">C.  Déclaration Relative à la Confidentialité et aux Cookies</a></strong></p>
 
-<p><strong><a href="#meddelande-om-omd%C3%B6men-och-betygs%C3%A4ttning">D. Meddelande om omdömen och betygsättning</a></strong></p>
+<p><strong><a href="#GiftCard">D. Conditions d'Utilisation de la Carte Cadeau TheFork</a></strong></p>
 
-<p><strong><a href="#thefork-webbplatser-och-foretag">E. TheFork webbplatser och företag</a></strong></p>
+<p style="text-align: justify;"><a href="#note-sur-les-avis-et-les-evaluations"><strong>E.  Note sur les avis et les evaluations</strong></a></p>
 
-<h1 id="RattsligaMeddelanden" style="text-align: justify;"><strong>A.&nbsp;RÄTTSLIGA  MEDDELANDEN</strong></h1>
+<p style="text-align: justify;"><a href="#les-sites-web-et-entreprises-lafourchette"><strong>F.  Les Sites Web et Entreprises TheFork</strong></a></p>
 
-<p style="text-align: justify;"><br>
-</p>
+<h1 id="MentionsLegales" style="text-align: justify;"><strong>A.  MENTIONS LEGALES</strong></h1>
 
-<p id="Rättsliga meddelanden" style="text-align: justify;">Webbplatsen <a href="https://www.thefork.se/">www.thefork.se</a> och     TheFork-apparna för mobil och surfplatta publiceras av:</p>
+<p style="text-align: justify;"> Le site "<a href="https://www.thefork.fr/" rel="nofollow">https://www.thefork.fr</a>"     et les applications mobiles et tablettes TheFork sont édités par:     <br>
+<br>
+<strong>La Fourchette SAS </strong><br>
+                                    Société par actions simplifiée au capital de 117 454 518,00&nbsp; euros.&nbsp; &nbsp;&nbsp;<br>
+                                    Siège social : 70, rue Saint-Lazare, 75009 Paris     <br>
+                                    RCS PARIS 494 447 949     <br>
+                                    N° TVA intracom : FR71494447949 </p>
 
-<p style="text-align: justify;"><br>
-<strong>La Fourchette SAS</strong></p>
-
-<p style="text-align: start;">     Ett förenklat aktiebolag med kapital på 117 454 518,00 euros</p>
-
-<p style="text-align: justify;">     Säte: 70, rue Saint-Lazare, 75009 Paris, Frankrike </p>
-
-<p style="text-align: justify;">     HANDELS- OCH FÖRETAGSREGISTRET I PARIS, NR 494 447 949 </p>
-
-<p style="text-align: justify;">     Europeiskt momsnr: FR71494447949</p>
-
-<p style="text-align: justify;"><br>
-</p>
-
-<p style="text-align: justify;">     Publikationschef: Almir Ambeskovic. </p>
-
-<p style="text-align: justify;">     Telefon:&nbsp;<span open="" style="-webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); color: rgb(78, 78, 86); display: inline !important; float: none; font-family: ;"><span style="color: rgb(51, 51, 51); font-family: ;">+33 (0)1 77 48 75 67&nbsp;</span></span>&nbsp;</p>
-
-<p style="text-align: justify;"> E-post:    <a href="mailto:contact@thefork.fr">contact@thefork.fr</a></p>
-
-<p style="text-align: justify;"><br>
-</p>
-
-<p style="text-align: justify;"> Värd för webbplatsen    <a href="https://www.thefork.se/" rel="nofollow">http://www.thefork.se</a> är: </p>
+<p style="text-align: justify;">     Directeur de la publication : M. Almir Ambeskovic.     <br>
+                                    Téléphone :&nbsp;<span open="" style="-webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); color: rgb(78, 78, 86); display: inline !important; float: none; font-family: ;"><span style="color: rgb(51, 51, 51); font-family: ;">+33 (0)1 77 48 75 67&nbsp;</span></span> &nbsp; &nbsp;<br>
+                                Email :    <a href="mailto:contact@thefork.fr">contact@thefork.fr</a><br>
+<br>
+                                Le site    <a href="https://www.thefork.fr/" rel="nofollow">https://www.thefork.fr</a>     est hébergé par:     </p>
 
 <p style="text-align: justify;">Amazon Web Services EMEA SARL<br>
-             38 avenue John F. Kennedy, L-1855 Luxembourg<br>
+                        38 avenue John F. Kennedy, L-1855 Luxembourg<br>
 <a href="http://aws.amazon.com/">http://aws.amazon.com/</a></p>
 
 <p style="text-align: justify;"><br>
 </p>
 
-<h1 id="Anvandarvillkor" style="text-align: justify;"><strong>B. ANVÄNDARVILLKOR</strong></h1>
+<h1 id="ConditionsdUtilisation" style="text-align: justify;"><strong>B. CONDITIONS D'UTILISATION</strong></h1>
 
-<p><span style="word-spacing: 0px;"><span style="-webkit-text-stroke-width: 0px; background-color: transparent; color: rgb(31, 73, 125); font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; white-space: pre-wrap;"><!--StartFragment-->Sista uppdateringen: 19 juni 2019</span></span><br>
-<!--EndFragment--></p>
+<p style="text-align: justify;">     Dernière mise à jour : 27 mai 2019&nbsp;</p>
 
-<p style="text-align: justify;">Dessa användarvillkor och Sekretess- och cookiepolicy utgör ditt avtal med La     Fourchette SAS (om du är restaurangägare och godtar bokningar via     webbplatsen TheFork gäller dessa bestämmelser parallellt med de allmänna     försäljnings- och användarvillkoren och de särskilda villkoren vid den     tidpunkt då du registrerade dig). Läs dem noggrant. Dessa bestämmelser blir     bindande för dig genast när du använder webbplatsen TheFork.</p>
+<p style="text-align: justify;">Les présentes Conditions d’Utilisation ainsi que la Déclaration relative à la confidentialité et aux cookies forment votre contrat avec TheFork (si vous êtes     propriétaire d’un restaurant acceptant les réservations par le biais du     Site TheFork, ces dispositions s’appliquent également à vous en plus     des conditions générales et particulières de vente que vous avez acceptées     lors de votre inscription). Lisez-les attentivement ; ces dispositions vous     engagent dès lors que vous utilisez le Site TheFork. </p>
 
-<p style="text-align: justify;">     Obs! Om du inte godkänner alla eller vissa av dessa användarvillkor ska du     inte använda webbplatsen TheFork. </p>
-
-<p style="text-align: justify;"><br>
-</p>
-
-<h2 style="text-align: justify;"><strong>DEL 1.     ALLMÄNNA ANVÄNDARVILLKOR</strong></h2>
-
-<h4 style="text-align: justify;"><u>Definitioner</u></h4>
-
-<p style="text-align: justify;"><strong><em>”TheFork"</em></strong>     avser bolaget La Fourchette SAS. </p>
-
-<p style="text-align: justify;"><strong><em>”Webbplatsen TheFork"</em></strong>     hänvisar till alla webbplatser och mobilwebbplatser som är tillgängliga på     ” <a href="https://www.thefork.se/" rel="nofollow">             www.thefork.se</a>         ” och TheFork-apparna för mobil och surfplatta.</p>
-
-<p style="text-align: justify;"><strong><em>”Användare”</em></strong>     avser alla individer som har fyllt 18 år som har rättshandlingsförmåga och     som besöker webbplatsen TheFork och/eller har ett konto på webbplatsen     TheFork. Pluralformen är ”<strong>Användare</strong>”. </p>
-
-<p style="text-align: justify;"><strong><em>”Användarvillkor”</em></strong>     avser dessa allmänna användarvillkor och eventuella speciella     användarvillkor. </p>
-
-<p style="text-align: justify;"><strong><em>”Restaurangägarinnehåll"</em></strong>     avser element på restaurangens webbplats som restaurangägaren     tillhandahåller till TheFork eller som restaurangägaren har tillåtit     att TheFork överför till webbplatsen TheFork, till exempel priser för     mat och dryck, det genomsnittliga priset för en måltid, kockens namn,     tillgängliga bord på restaurangen, menyn, en kalender, restaurangens teman     och fotografier på restaurangen. </p>
-
-<p style="text-align: justify;"><strong><em>”Användarinnehåll”</em></strong>     hänvisar till alla element som användare tillhandahåller på webbplatsen     TheFork, inklusive text, dokument, foton, betyg eller rätt till svar. </p>
+<p style="text-align: justify;">     Attention : Si vous n'êtes pas en accord avec tout ou partie des présentes     Conditions d’Utilisation, il vous est vivement recommandé de ne pas     utiliser le Site TheFork. </p>
 
 <p style="text-align: justify;"><br>
 </p>
 
-<h4 style="text-align: justify;"><u>Godtagande och ändring av användarvillkoren</u></h4>
+<h2 style="text-align: justify;"><strong>TITRE 1. CONDITIONS GENERALES D’UTILISATION</strong></h2>
 
-<p style="text-align: justify;">     TheFork tillhandahåller en restaurangsöknings- och bokningstjänst     online till användaren, i utbyte mot ovillkorligt godtagande av dessa     användarvillkor. </p>
+<h4 style="text-align: justify;"><u>Définitions</u></h4>
 
-<p style="text-align: justify;">     Användarna förklarar och bekräftar att de har läst dessa användarvillkor i     sin helhet. Dessutom godtar användarna ovillkorligen att de genom att     använda de tjänster som erbjuds på webbplatsen TheFork har godtagit att     vara bundna av dessa användarvillkor. </p>
+<p style="text-align: justify;">     « <strong><em>TheFork</em></strong> » : désigne la société La     Fourchette SAS. </p>
 
-<p style="text-align: justify;">     TheFork förbehåller sig rätten att när som helst helt eller delvis     ändra dessa användarvillkor. Därför åligger det användaren att regelbundet     kontrollera den senaste versionen av användarvillkoren som publiceras på     webbplatsen TheFork. Användarna anses ha accepterad denna senaste version     varje gång då de på nytt använder webbplatsen TheFork. </p>
+<p style="text-align: justify;"><strong><em>« Site TheFork »</em></strong> : désigne l’ensemble des sites web et mobile accessibles à l’adresse "    <a href="https://www.thefork.fr/" rel="nofollow">https://www.thefork.fr</a>"     et des applications mobiles et tablettes TheFork. </p>
 
-<p style="text-align: justify;">     Genom att på något sätt få åtkomst till eller använda webbplatsen TheFork,     samtycker användaren till att vara bunden av dessa användarvillkor. </p>
+<p style="text-align: justify;"><strong><em>« Utilisateur »</em></strong>     : désigne toute personne physique âgée de plus de 18 ans, capable de     souscrire des contrats, visitant le Site TheFork et/ou titulaire d’un     compte sur le Site TheFork. </p>
 
-<p style="text-align: justify;"><br>
-</p>
+<p style="text-align: justify;">     « <strong><em>Conditions d’Utilisation</em></strong> » : désigne l’ensemble     des présentes conditions générales d’utilisation et conditions     particulières d’utilisation. </p>
 
-<h4 style="text-align: justify;"><strong>1. <u>Beskrivning av webbplatsen TheFork</u></strong></h4>
+<p style="text-align: justify;">     « <strong><em>Contenu Restaurateur</em></strong>» : désigne les     éléments de la fiche restaurant fournis à TheFork par le restaurateur     ou que le restaurateur a autorisé TheFork à télécharger sur le Site     TheFork, notamment les prix des plats et des boissons, le prix moyen     d’un repas, le nom du chef, les disponibilités du restaurant, la carte, le     calendrier, les thématiques du restaurant et les photos du restaurant. </p>
 
-<p style="text-align: justify;">Användning av webbplatsen TheFork omfattas av ansvarsbegränsning för TheFork. Ytterligare information finns i artikel 8 ”Ansvarsbegränsning”.</p>
-
-<h5 style="text-align: justify;">1.1 <u>Introduktionsplattform</u></h5>
-
-<p style="text-align: justify;">     Webbplatsen TheFork är en plattform som användaren kan använda bland annat     för att få kontakt med de restauranger som finns listade på webbplatsen     TheFork. Som sådan agerar TheFork exklusivt som mellanhand i samband     med användarens bokning av nämnda restauranger.</p>
-
-<h5 style="text-align: justify;"> 1.2 <u>Sökning och bokning av bord på en restaurang i realtid </u></h5>
-
-<p style="text-align: justify;">     Med webbplatsen TheFork kan användaren söka och boka bord på en restaurang     i realtid. </p>
-
-<p style="text-align: justify;">     Med webbplatsen TheFork kan användaren även avboka i händelse av     oförutsedda omständigheter. </p>
-
-<h5 style="text-align: justify;">     1.3     <u>         Kampanjerbjudanden från restauranger som är listade på webbplatsen         TheFork     </u></h5>
-
-<p style="text-align: justify;">     Förutsatt att bokningen har gjorts via webbplatsen TheFork tillåter     webbplatsen TheFork användaren att utnyttja kampanjerbjudanden som     tillhandahålls av restaurangerna på webbplatsen TheFork. Alla restauranger     har inte kampanjerbjudanden. Giltighetsvillkoren för dylika     kampanjerbjudanden anges på webbplatsen TheFork. Användarna åtar sig att     kontrollera giltighetsvillkoren för ett kampanjerbjudande innan de bokar på     webbplatsen TheFork och får aldrig begära att få utnyttja en restaurangs     kampanjerbjudande utanför giltighetsvillkoren så som dessa anges på     webbplatsen TheFork och/eller utanför den bokningsprocedur där     kampanjerbjudandet ingår. </p>
-
-<p style="text-align: justify;">     Ett giltighetsvillkor är att användaren och hela användarens sällskap måste     anlända till den restaurang de har bokat på bokad tid. Om en användare och     alla användarens gäster inte anländer till restaurangen inom 15 minuter     från bokad tid får restaurangen välja att inte tillämpa kampanjerbjudandet     som är kopplat till bokningen för användaren och användarens sällskap. För     tydlighetens skull betyder detta att om användaren eller någon av     användarens gäster är försenad med över 15 minuter, förlorar användaren och     hela sällskapet den automatiska fördelen med kampanjerbjudandet och     restaurangen kan välja om den vill tillämpa kampanjerbjudandet för alla     eller vissa av gästerna. </p>
+<p style="text-align: justify;">     « <strong><em>Contenu Utilisateur</em></strong> » : désigne l’ensemble des     éléments fournis par l’Utilisateur sur le Site TheFork, composés     notamment de texte, document, image, photo, avis ou droit de réponse. </p>
 
 <p style="text-align: justify;"><br>
 </p>
 
-<h4 style="text-align: justify;"><strong>2. <u>Gratis användning av webbplatsen TheFork</u></strong></h4>
+<h4 style="text-align: justify;"><u>Acceptation et modification des Conditions d’Utilisation</u></h4>
 
-<p style="text-align: justify;">     I allmänhet är de tjänster som erbjuds på webbplatsen TheFork gratis. </p>
+<p style="text-align: justify;">     Un service de recherche et de réservation en ligne de table de restaurant     est proposé par TheFork à l'Utilisateur, sous réserve de son     acceptation inconditionnelle des présentes Conditions d’Utilisation. </p>
 
-<p style="text-align: justify;">     Avgifter kan vara tillämpliga, särskilt beroende på ändringar som rör de     tjänster som erbjuds, nätverkets utveckling samt tekniska och/eller     juridiska begränsningar. Användarna informeras vederbörligen om detta genom     ändring av dessa användarvillkor och/eller genom infogande av speciella     villkor som rör kostnadsbelagda tjänster på webbplatsen TheFork. </p>
+<p style="text-align: justify;">     L'Utilisateur déclare et reconnaît avoir lu l'intégralité des termes des     présentes Conditions d’Utilisation. En outre, la connexion à l'un des&nbsp;quelconques services proposés sur le Site TheFork emporte une     acceptation sans réserve par l'Utilisateur des présentes Conditions     d’Utilisation. </p>
 
-<p style="text-align: justify;"><br>
-</p>
+<p style="text-align: justify;">     TheFork se réserve la possibilité de modifier à tout moment, en tout     ou partie, les Conditions d’Utilisation. Il appartient en conséquence à     l'Utilisateur de consulter régulièrement la dernière version des Conditions     d’Utilisation affichée sur le Site TheFork. L'Utilisateur est réputé     accepter cette dernière version à chaque nouvelle connexion sur le Site     TheFork. </p>
 
-<h4 style="text-align: justify;"><strong>3. <u>Tredje parts webbplatser och tjänster</u></strong></h4>
-
-<h5 style="text-align: justify;">3.1 <u>Tjänster som tredje part erbjuder</u></h5>
-
-<p style="text-align: justify;">     Användaren bekräftar att webbplatsen TheFork hänvisar till kostnadsbelagda     tjänster. I synnerhet hänvisar bokningar som görs på webbplatsen TheFork     till en restaurangtjänst som utförs av en utomstående restaurangägare och     betalning krävs för denna. </p>
-
-<p style="text-align: justify;">     Pris eller prisintervall som rör en utomstående leverantör och som visas på     webbplatsen TheFork, tillhandahålls enbart i informationssyfte och för     bekvämlighets skull. TheFork ska under inga som helst omständigheter     garantera att dylik information är korrekt. </p>
-
-<h5 style="text-align: justify;">     3.2 <u>Länkar till tredje parters webbplatser</u></h5>
-
-<p style="text-align: justify;">     Webbplatsen TheFork kan innehålla länkar till webbplatser som hanteras av     tredje parter. Dessa länkar är enbart avsedda som information. TheFork kontrollerar inte dessa webbplatser och ansvarar inte för deras     innehåll eller för dessa webbplatsers Personuppgiftspolicy eller andra     metoder. Att länkarna till dylika webbplatser visas utgör inte ett     godkännande av elementen på dessa webbplatser och inte heller någon     förbindelse med utgivarna för dessa webbplatser. Användaren ansvarar för     att genomföra eventuella kontroller som anses vara nödvändiga eller     lämpliga innan användaren använder dessa webbplatser eller inleder en     transaktion med någon av dem. </p>
+<p style="text-align: justify;">     En accédant au Site TheFork ou en l’utilisant de quelque façon que ce     soit, l’Utilisateur accepte d’être lié par les présentes Conditions     d’Utilisation. </p>
 
 <p style="text-align: justify;"><br>
 </p>
 
-<h4 style="text-align: justify;"><strong>4. <u>Åtkomst till och användning av webbplatsen TheFork</u></strong></h4>
+<h3 style="text-align: justify;"><strong>1. <u>Description du Site TheFork</u></strong></h3>
 
-<h5 style="text-align: justify;">4.1 <u>Berättigandevillkor</u></h5>
+<p style="text-align: justify;">L’utilisation du Site TheFork est soumise à des limitations de     responsabilité de la part de TheFork. Merci de vous référer à     l’article 8 « Limitation de Responsabilité » pour en connaître le détail.</p>
 
-<p style="text-align: justify;">     Användning av webbplatsen TheFork omfattas av följande kumulativa     berättigandekrav: i din egenskap av användare (i) är du minst 18 år gammal,     (ii) har du rättshandlingsförmåga och kan underkasta dig att vara bunden av     rättsliga skyldigheter (iii) och de bokningar du gör på webbplatsen TheFork     för dig själv eller för någon annan person som du juridiskt sett har rätt     att handla för, kommer att vara legitima. </p>
+<h4 style="text-align: justify;">1.1 <u>Plateforme de mise en relation</u></h4>
 
-<h5 style="text-align: justify;">     4.2 <u>Åtkomst till webbplatsen TheFork</u></h5>
+<p style="text-align: justify;">     Le Site TheFork est une plateforme permettant la mise en relation de     l’Utilisateur avec les restaurants présents sur le Site TheFork. A ce     titre, TheFork agit exclusivement comme un intermédiaire dans le     cadre de la réservation desdits restaurants par l’Utilisateur.</p>
 
-<p style="text-align: justify;">TheFork förbehåller sig rätten att utan varsel tillfälligt avbryta,     ta bort eller ändra hela eller en del av webbplatsen TheFork eller de     tjänster som erbjuds på webbplatsen TheFork. TheFork förbehåller sig     även rätten att när som helst tillfälligt avbryta åtkomst till webbplatsen     TheFork på grund av underhåll, i nödfall (cyberattack osv.) eller av något     annat rimligt skäl.</p>
+<h4 style="text-align: justify;"> 1.2 <u>Recherche et réservation de tables de restaurant en temps réel</u></h4>
 
-<h5 style="text-align: justify;">4.3 <u>Villkor för öppnande av ett konto</u></h5>
+<p style="text-align: justify;">     Le Site TheFork permet notamment à l'Utilisateur de rechercher et de     réserver en temps réel une table dans un restaurant. </p>
 
-<p style="text-align: justify;">     Genom att öppna ett konto godtar användaren uttryckligen och förbehållslöst     dessa användarvillkor. </p>
+<p style="text-align: justify;">     Le Site TheFork permet également à l’Utilisateur d’annuler sa     réservation en cas d’imprévu. </p>
 
-<p style="text-align: justify;">     Användarna åtar sig att tillhandahålla korrekt, uppdaterad och     sanningsenlig information, särskilt vad beträffar deras titel, efternamn,     förnamn, e-postadress och telefonnummer, som är nödvändiga för korrekt     identifiering av användarna i samband med öppnande och underhåll av deras     konto. </p>
+<h4 style="text-align: justify;">     1.3     <u>         Offres promotionnelles proposées par les restaurants référencés sur TheFork     </u></h4>
 
-<h5 style="text-align: justify;">     4.4 <u>Konfidentialitet för kontouppgifterna</u></h5>
+<p style="text-align: justify;">     Le Site TheFork permet à l'Utilisateur, si et seulement s'il réserve     par le biais du Site TheFork, de bénéficier d’offres promotionnelles     proposées par les restaurants référencés sur le Site TheFork. Tous les     restaurants ne proposent pas d’offres promotionnelles. Les conditions de     validité de ces offres promotionnelles sont explicitées sur le Site     TheFork. L'Utilisateur s'oblige à vérifier les conditions de validité     d'une offre promotionnelle avant de réserver sur le Site TheFork et ne     pourra en aucun cas réclamer au restaurant le bénéfice d’une offre     promotionnelle en dehors des conditions de validité telles qu'explicitées     sur le Site TheFork, et/ou en dehors de la procédure de réservation     avec offre promotionnelle. </p>
 
-<p style="text-align: justify;">     Då de skapar kontona väljer användarna ett användarnamn och ett lösenord     (”kontouppgifter”) som gör det möjligt för dem att få åtkomst till sina     konton. </p>
+<p style="text-align: justify;">     Parmi ces conditions de validité, l’Utilisateur et l’ensemble de ses     convives doivent se présenter au restaurant réservé à l’horaire de     réservation. L’Utilisateur est informé que si lui et l’ensemble de ses     convives ne se sont pas présentés au restaurant dans les 15 minutes suivant     l’horaire de réservation, le restaurant pourra ne pas appliquer l’offre     promotionnelle associée à la réservation à l’Utilisateur ainsi qu’à     l’ensemble de ses convives. Par souci de clarté, cela signifie que si     l’Utilisateur ou un des convives est en retard de plus de 15 minutes, à la     fois l’Utilisateur et tout le groupe de ses convives perdront le bénéfice     automatique de l’offre promotionnelle et que le restaurant pourra seul     décider d’appliquer ou non l’offre promotionnelle à tout ou partie des     convives.</p>
 
-<p style="text-align: justify;">     Kontouppgifterna är personliga och konfidentiella. De kan endast ändras på     vederbörande användarens begäran eller på TheFork initiativ. </p>
+<p style="text-align: justify;"><br>
+</p>
 
-<p style="text-align: justify;">     Användarna ansvarar själva och fullständigt för användningen av sina konton     och de kontouppgifter som rör dem och åtar sig att göra allt de kan för att     hålla sina kontouppgifter hemliga och för att inte i någon som helst form     avslöja dem för någon annan. </p>
+<h3 style="text-align: justify;"><strong>2. <u>Gratuité du Site TheFork</u></strong></h3>
 
-<p style="text-align: justify;">     I händelse av att någon av användarens kontouppgifter förloras eller blir     stulen, ansvarar användaren för eventuella skador som följer av denna     förlust eller stöld och ska så snart som följa det förfarande som möjliggör     att dessa ändras. Förfarandet finns på sidan&nbsp;https://www.thefork.se/#user-account .</p>
+<p style="text-align: justify;">     Les services proposés sur le Site TheFork sont généralement gratuits. </p>
 
-<h5 style="text-align: justify;">4.5 <u style="color: inherit; font-family: inherit;">Stängning av kontot</u></h5>
+<p style="text-align: justify;">     Des tarifs pourront éventuellement être applicables, notamment en fonction     de l'évolution des services proposés, l'évolution du réseau, de la     technique et/ou des contraintes légales. L'Utilisateur en sera alors dûment     informé par la modification des présentes Conditions d’Utilisation et/ou     par l'insertion dans le Site TheFork de conditions particulières     relatives aux services payants.</p>
 
-<p style="text-align: justify;">     Användare får stänga sina konton när som helst. Detta görs genom att skicka begäran om stängning av kontot med e-post till:    <a href="mailto:kontakt@thefork.se">kontakt@thefork.se</a>. </p>
+<p style="text-align: justify;"><br>
+</p>
 
-<p style="text-align: justify;">     TheFork försöker behandla alla begäranden om stängning av konton inom     rimlig tid. </p>
+<p style="text-align: justify;"><br>
+</p>
 
-<p style="text-align: justify;">     Användarna informeras om att i och med att deras konto stängs kommer de     inte att kunna utnyttja de tjänster som erbjuds av TheFork och deras     aktuella bokningar kommer att avbokas. Eventuella hopsamlade Yums kommer     också att tas bort. </p>
+<h3 style="text-align: justify;"><strong>3. <u>Services et sites tiers</u></strong></h3>
 
-<h5 style="text-align: justify;">     4.6 <u> Användarens skyldigheter - Förbjudna handlingar</u></h5>
+<h4 style="text-align: justify;">3.1 <u>Services offerts par des tiers</u></h4>
 
-<p style="text-align: justify;">     Användarna samtycker till att använda webbplatsen TheFork i enlighet med     dessa användarvillkor och med tillämplig lag. I synnerhet samtycker     användarna till att inte engagera sig i de förbjudna handlingar som nämns     nedan: </p>
+<p style="text-align: justify;">     L'Utilisateur reconnaît que le Site TheFork renvoie à des prestations     de service payantes. En particulier, toute réservation effectuée sur le     Site TheFork renvoie à une prestation de restauration effectuée par un     tiers restaurateur qui sera payante. </p>
+
+<p style="text-align: justify;">     L’Utilisateur est informé que tout prix ou gamme de prix concernant un     tiers prestataire affiché sur le Site TheFork n’est fourni qu'à titre     indicatif et par souci de commodité. En aucun cas TheFork ne garantit     l'exactitude de telles informations. </p>
+
+<h4 style="text-align: justify;">     3.2 <u>Liens vers des sites tiers</u></h4>
+
+<p style="text-align: justify;">     Le Site TheFork peut contenir des liens renvoyant à des sites gérés     par des tiers. Ces hyperliens sont uniquement proposés à titre indicatif.     TheFork ne contrôle pas ces sites et n'est pas responsable de leur     contenu ni du respect de la vie privée ou d'autres pratiques de ces sites.     La présence de liens vers ces sites ne saurait constituer une approbation     des éléments présents sur ces sites ni une quelconque association avec les     gestionnaires de ces sites. Il appartient à l’Utilisateur de faire toutes     vérifications qui lui semblent nécessaires ou opportunes avant d’utiliser     ces sites et/ou de procéder à une quelconque transaction avec l'un d’eux.</p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h3 style="text-align: justify;"><strong>4. <u>Accès et Utilisation du Site TheFork</u></strong></h3>
+
+<h4 style="text-align: justify;">4.1 <u>Conditions d’éligibilité</u></h4>
+
+<p style="text-align: justify;">     L’utilisation du Site TheFork est soumise aux conditions d’éligibilité     cumulatives suivantes : en tant qu’Utilisateur (i) vous avez au moins 18     ans ; (ii) vous disposez de la capacité juridique requise pour vous     soumettre à des obligations juridiques contraignantes; (iii) et les     réservations que vous effectuerez sur le Site TheFork, pour vous ou     pour toute autre personne pour laquelle vous êtes légalement autorisé à     agir, seront légitimes. </p>
+
+<h4 style="text-align: justify;">     4.2 <u>Accès au Site TheFork</u></h4>
+
+<p style="text-align: justify;">TheFork se réserve le droit de suspendre, supprimer ou de modifier     tout ou partie du Site TheFork ou des services offerts sur le Site TheFork sans préavis. TheFork se réserve de plus le droit de     suspendre l’accès au Site TheFork, à tous les, ou à une partie des,     Utilisateurs pour maintenance, en cas d’urgence (cyberattaque, etc.) ou     pour toute autre raison, et ce à tout moment.</p>
+
+<h4 style="text-align: justify;">4.3 <u>Conditions d’ouverture d’un compte</u></h4>
+
+<p style="text-align: justify;">     En ouvrant un compte, l'Utilisateur accepte, expressément et sans réserve,     les termes des présentes Conditions d’Utilisation. </p>
+
+<p style="text-align: justify;">     L'Utilisateur s'engage à transmettre des renseignements exacts, à jour et     véritables notamment sur sa civilité, son nom, son ou ses prénoms, son     adresse email, son numéro de téléphone, nécessaires à sa bonne     identification, en vue de l'ouverture et du maintien de son compte. </p>
+
+<h4 style="text-align: justify;">     4.4 <u>Confidentialité des identifiants du compte</u></h4>
+
+<p style="text-align: justify;">     Lors de la création de son compte, l'Utilisateur choisit un identifiant et     un mot de passe (ci-après « Identifiants ») lui permettant d'accéder à son     compte. </p>
+
+<p style="text-align: justify;">     Les Identifiants sont personnels et confidentiels. Ils ne peuvent être     changés que sur demande de l'Utilisateur ou à l'initiative de TheFork. </p>
+
+<p style="text-align: justify;">     L'Utilisateur est seul et entièrement responsable de l'utilisation de son     compte et/ou des Identifiants le concernant et s'engage à mettre tout en     œuvre pour conserver secret ses Identifiants et à ne pas les divulguer, à     qui que ce soit, sous quelque forme que ce soit. </p>
+
+<p style="text-align: justify;">En cas de perte ou de vol d'un des Identifiants le concernant, l'Utilisateur est responsable de toute conséquence dommageable de cette perte ou de ce vol, et doit utiliser, dans les plus brefs délais, la procédure lui permettant de les modifier, qui peut être consultée par l’Utilisateur dans la rubrique "Mes informations personnelles" du <a href="https://www.thefork.fr/#user-account" rel="nofollow" target="_blank">compte de l’Utilisateur</a>.<br>
+<br>
+</p>
+
+<h4 style="text-align: justify;">     4.5 <u>Clôture du compte</u></h4>
+
+<p style="text-align: justify;">     L’Utilisateur a la possibilité de clôturer son compte à tout moment. Pour cela, il doit envoyer sa demande de clôture de compte par email à :    <a href="mailto:contact@thefork.fr">contact@thefork.fr</a>. </p>
+
+<p style="text-align: justify;">     TheFork s’efforcera de traiter toute demande de clôture de compte     dans un délai raisonnable. </p>
+
+<p style="text-align: justify;">     L’Utilisateur est informé qu’à compter de la clôture de son compte,     celui-ci ne pourra plus bénéficier des services offerts par TheFork,     ses réservations en cours seront annulées et ses Yums éventuellement     cumulés seront supprimés. </p>
+
+<h4 style="text-align: justify;">     4.6 <u> Obligations de l’Utilisateur – Actions Prohibées</u></h4>
+
+<p style="text-align: justify;">     L’Utilisateur s’engage à utiliser le Site TheFork conformément aux     présentes Conditions d’Utilisation et au droit en vigueur. Notamment,     l’Utilisateur s’engage à ne pas réaliser les actions prohibées ci-dessous: </p>
 
 <ul>
   <li>
-    <p style="text-align: justify;">Att inte gå till restaurangen och inte avboka bokningen (no show). </p>
+    <p style="text-align: justify;">Le fait de ne pas se rendre au restaurant sans avoir annulé la     réservation au préalable (no-show) constitue une action prohibée. </p>
   </li>
 
   <li>
-    <p style="text-align: justify;">Innehållet och data på webbplatsen TheFork (inklusive bland annat     meddelanden, data, information, text, musik, ljud, foton, grafik, videor,     kartor, ikoner, programvara, koder eller något annat element), liksom den     infrastruktur som används för att tillhandahålla dylikt innehåll och dylik     information, tillhör TheFork. Användarna samtycker till att inte     modifiera, kopiera, distribuera, skicka, visa, tillgängliggöra,     reproducera, publicera, licensiera, skapa härledda verk av, överföra, sälja     eller återförsälja någon information, någon programvara, några produkter     eller några tjänster som de erhållit från eller via webbplatsen TheFork. </p>
+    <p style="text-align: justify;">Le contenu et les données du Site TheFork (incluant, mais sans s'y     limiter, les messages, données, informations, textes, musiques, sons,     photos, graphiques, vidéos, cartes, icônes, logiciels, codes ou tout autre     élément), tout comme l'infrastructure utilisée pour fournir ces contenus et     ces informations appartiennent à TheFork ; l’Utilisateur accepte de     ne pas modifier, copier, distribuer, transmettre, afficher, mettre à     disposition, reproduire, publier, octroyer une licence, créer des œuvres     dérivées, transférer, ou vendre ou revendre toute information, tout     logiciel, produit ou service obtenus depuis ou grâce au Site TheFork. </p>
   </li>
 
   <li>
-    <p style="text-align: justify;">Det är strikt förbjudet att helt eller delvis kopiera, skicka,     reproducera, återpublicera, åter distribuera eller överföra innehållet på     webbplatsen TheFork utan skriftligt förhandstillstånd från TheFork.     Får att få detta tillstånd ska du kontakta TheFork på följande     adress: </p>
+    <p style="text-align: justify;">Sont strictement interdits toute copie, transmission, reproduction,     ré-édition, redistribution ou tout envoi du contenu du Site TheFork,     en totalité ou en partie, sans l'autorisation préalable et écrite de TheFork. Pour obtenir cette autorisation, contacter TheFork à     l'adresse suivante : </p>
   </li>
 </ul>
 
-<p style="text-align: justify;">     La Fourchette&nbsp;SAS </p>
+<p style="text-align: justify;">     La Fourchette&nbsp;SAS</p>
 
 <p style="text-align: justify;">     70 Rue Saint-Lazare </p>
 
-<p style="text-align: justify;">     75009 Paris, Frankrike </p>
+<p style="text-align: justify;">     75009 Paris, France. </p>
 
-<p style="text-align: justify;">     Användarna åtar sig dessutom att inte: </p>
-
-<ul type="disc">
-  <li style="text-align: justify;">         använda webbplatsen TheFork eller dess innehåll för olagliga, obehöriga         eller bedrägliga ändamål,     </li>
-
-  <li style="text-align: justify;">         skicka in felaktigt eller olagligt användarinnehåll eller         restaurangägarinnehåll till webbplatsen TheFork eller, i synnerhet,         sådant innehåll som gör intrång på någons integritet, är trakasserande,         oanständigt, hotfullt, uppmuntrar till hat eller våld eller vars         immateriella rättigheter inte tillhör dem och som de inte har fått         uttryckligt tillstånd för från den som innehar dessa rättigheter,     </li>
-
-  <li style="text-align: justify;">         för något som helst ändamål använda, övervaka, utvinna eller kopiera         arkitekturen, innehållet eller data som ingår i webbplatsen TheFork         eller någon användare som använder webbplatsen TheFork genom att         använda en robot, en spindel, skrapa, spionprogram, keyloggers eller         något annat program eller någon annan automatisk enhet eller manuell         process,     </li>
-
-  <li style="text-align: justify;">         bryta mot begränsningarna som rör filer för begränsning av robotar på         webbplatsen TheFork eller kringgå åtgärder som förhindrar eller         begränsar åtkomst till webbplatsen TheFork,     </li>
-
-  <li style="text-align: justify;">         vidta några åtgärder som medför eller kan medföra orimlig eller         överdriven börda på infrastrukturen för webbplatsen TheFork,     </li>
-
-  <li style="text-align: justify;">         av någon som helst anledning etablera en osynlig länk till webbplatsen         TheFork,     </li>
-
-  <li style="text-align: justify;">         ”rama in”, ”spegla” eller införliva någon del av webbplatsen TheFork i         någon annan webbplats och     </li>
-
-  <li style="text-align: justify;">         försöka ändra, översätta, anpassa, revidera, dekompilera, nedmontera         eller dekonstruera någon programvara som används av TheFork i         samband med webbplatsen TheFork eller dess tjänster.     </li>
-</ul>
-
-<h5 style="text-align: justify;">4.7 <u style="color: inherit; font-family: inherit;">Påföljd för kontraktsbrott</u></h5>
-
-<h5 style="text-align: justify;"><em>4.7.1          Tillfälligt avbrott eller uppsägning av tjänsterna på webbplatsen         TheFork</em></h5>
-
-<p style="text-align: justify;">I händelse av att en användare totalt eller partiellt inte efterlever eller     inte följer någon av skyldigheterna eller bestämmelserna i dessa     användarvillkor eller om användaren utför någon av de förbjudna     handlingarna som anges i dessa användarvillkor eller av något annat rimligt     skäl, får TheFork ändra, tillfälligt avbryta, begränsa eller ta bort     åtkomsten till någon eller alla tjänsterna på webbplatsen TheFork,     inklusive genom att avaktivera kundens konto, utan varsel och utan någon     som helst rätt för användaren att kräva ersättning och utan att detta     påverkar eventuell ersättning som TheFork annars kan kräva inför     domstol.</p>
-
-<h5><em style="color: inherit; font-family: inherit; text-align: justify;">4.7.2 Skador</em></h5>
-
-<p style="text-align: justify;">     Utan att det påverkar påföljder som TheFork inför enligt artikel     4.7.1, ska TheFork även ha rätt att kräva ersättning för eventuell     liden skada. </p>
-
-<h4 style="text-align: justify;"><br>
-</h4>
-
-<h4 style="text-align: justify;"><strong>5. <u>Betyg och användarinnehåll</u></strong></h4>
-
-<p style="text-align: justify;">     Användarna ska följa reglerna nedan då de publicerar eventuellt     användarinnehåll och särskilt då de publicerar ett betyg på webbplatsen     TheFork som rör en restaurang som är listad på webbplatsen TheFork. </p>
-
-<h5 style="text-align: justify;">     5.1 <u>Villkor för publicering av betyg</u></h5>
+<p style="text-align: justify;">     En outre, l’Utilisateur s’engage à ne pas : </p>
 
 <ul type="disc">
-  <li style="text-align: justify;">         För att publicera ett betyg ska användarna har ett konto på webbplatsen         TheFork som identifierar dem, alternativt ska de ha blivit inbjudna att         skicka in ett betyg med e-post som skickats av TheFork, och ha         bokat eller blivit inbjudna till en restaurang via webbplatsen TheFork         och ha infunnit sig för bokningen på restaurangen.     </li>
+  <li style="text-align: justify;">         utiliser le Site TheFork ou ses contenus à des fins illégales,         illégitimes ou frauduleuses ;     </li>
 
-  <li style="text-align: justify;">         För att undvika eventuella intressekonflikter och av uppenbara         objektivitetsskäl får användare som arbetar i restaurangbranschen inte         publicera betyg på webbplatsen TheFork.     </li>
+  <li style="text-align: justify;">         déposer sur le Site TheFork de Contenu Utilisateur ou Contenu         Restaurateur inexact, illégal et notamment portant atteinte à la vie         privée, injurieux, indécent, menaçant, incitant à la haine ou la         violence, ou dont les droits de propriété intellectuelle ne lui         appartiennent pas et sans la permission expresse du titulaire de droits         ;     </li>
 
-  <li style="text-align: justify;">         Betyget ska ha en längd på minst 200 tecken och uteslutande röra den         besökta restaurangen. TheFork kan avvisa betyg som nämner någon         annan restaurang.     </li>
+  <li style="text-align: justify;">         utiliser, surveiller, extraire ou copier l’architecture, le contenu ou         les données du Site TheFork ou les actions des Utilisateurs sur le         Site TheFork à l'aide d'un robot, d'une araignée, d'un scraper,         d’un logiciel espion, d’un enregistreur de frappe clavier ou de tout         autre programme ou dispositif automatique ou procédé manuel, à quelque         fin que ce soit;     </li>
+
+  <li style="text-align: justify;">         violer les restrictions des fichiers d’exclusion des robots sur le Site TheFork ou contourner les mesures visant à empêcher ou limiter         l’accès au Site TheFork;     </li>
+
+  <li style="text-align: justify;">         prendre de mesure qui impose, ou pourrait imposer une charge         déraisonnable ou excessive aux infrastructures du Site TheFork;     </li>
+
+  <li style="text-align: justify;">         établir de lien invisible menant au Site TheFork pour toute         raison;     </li>
+
+  <li style="text-align: justify;">         « encadrer », « refléter » ou incorporer toute partie du Site         TheFork dans un autre site; et     </li>
+
+  <li style="text-align: justify;">         essayer de modifier, traduire, adapter, réviser, décompiler,         désassembler, assembler à rebours tout programme logiciel utilisé par         TheFork en lien avec le Site TheFork ou ses services.     </li>
 </ul>
 
-<h5 style="text-align: justify;">     5.2 <u>Skäl för avvisande av användarinnehåll</u></h5>
+<h4 style="text-align: justify;">4.7 <u> Sanction des manquements contractuels</u></h4>
 
-<p style="text-align: justify;">     Användarinnehåll kan avvisas av följande skäl: </p>
+<h5 style="text-align: justify;"><em>4.7.1  Suspension ou arrêt définitif du ou des services du Site TheFork</em></h5>
 
-<ul type="disc">
-  <li style="text-align: justify;">         om användaren inte följer ”Villkoren för publicering av betyg” enligt         vad som anges ovan,     </li>
+<p style="text-align: justify;">     En cas d'inexécution ou de non-respect, total ou partiel, par l'Utilisateur     de l'une des obligations ou stipulations prévues par les présentes     Conditions d’Utilisation ou en cas d’exécution par L’Utilisateur d’une ou     plusieurs actions prohibées prévue par les présentes Conditions     d’Utilisation, ou pour tout autre motif raisonnable TheFork pourra     modifier, suspendre, limiter ou supprimer l'accès à tout ou partie du     service du Site TheFork, et notamment désactiver le compte de     l’Utilisateur, sans préavis et sans que l’Utilisateur ne puisse réclamer     aucune indemnité quelconque, et sans préjudice des indemnités que TheFork pourrait réclamer par ailleurs en justice. </p>
 
-  <li style="text-align: justify;">         om TheFork anser att det kan föreligga civil- eller         straffrättsliga ansvar för bolaget,     </li>
+<h5 style="text-align: justify;"><em>4.7.2  Dommages-intérêts</em></h5>
 
-  <li style="text-align: justify;">         om användarinnehållet eller elementen som rör skribentens identitet         innehåller förolämpningar eller vulgärt språk,     </li>
-
-  <li style="text-align: justify;">         om texten i användarinnehållet innehåller slumpmässiga tecken eller         betydelselösa ordföljder,     </li>
-
-  <li style="text-align: justify;">         om användarinnehållet inte har något samband med den restaurang som         betygsätts,     </li>
-
-  <li style="text-align: justify;">         om användarinnehållet utgör eller misstänks utgöra ett intrång på         tredje parts immateriella rättigheter,     </li>
-
-  <li style="text-align: justify;">         om betyget ger upphov till frågor som rör intressekonflikter eller         bedrägeri, eller om TheFork anser att det utgör en dylik konflikt eller         ett dylikt bedrägeri,     </li>
-
-  <li style="text-align: justify;">         om användarinnehållets text är dåligt skriven, i sådan mån att den inte         går att förstå,     </li>
-
-  <li style="text-align: justify;">         om en användare gör en olämplig kommentar om något annat         användarinnehåll eller den som skrivit det,     </li>
-
-  <li style="text-align: justify;">         om användarinnehållet innehåller personlig information eller element         som sannolikt kan leda till identitetsstöld, till exempel för- eller         efternamn för individer som inte är offentliga personer, ett         telefonnummer, en postadress eller en e-postadress,     </li>
-
-  <li style="text-align: justify;">         om användarinnehållet nämner webbplatser, hypertextlänkar,         webbadresser, e-postadresser eller telefonnummer eller     </li>
-
-  <li style="text-align: justify;">         om användarinnehållet tydligt utgör skräppost.</li>
-</ul>
-
-<p style="text-align: justify;">     Om det upptäcks att en användare har publicerat innehåll som är bedrägligt     eller som TheFork anser vara bedrägligt, får TheFork, efter att     ha använt sig av förfarandena för att avvisa eller ta bort betyget,     avaktivera användarens konto (vilket kommer att avboka alla användarens     bokningar och annullera eventuella ihopsamlade Yums) och ta bort alla     användarens inlägg. </p>
-
-<h5 style="text-align: justify;">     5.3 <u>Moderering av betyg</u></h5>
-
-<p style="text-align: justify;">     TheFork har ingen skyldighet att moderera eller ta bort betyg. TheFork försöker på ett rimligt sätt moderera betygen för att se till     att betygen motsvarar dessa användarvillkor vad beträffar publicering,     avvisande eller borttagande av betyget. Varje betyg genomgår moderering med     hjälp av automatiska filter före publicering. Om de flaggas genomgår de     även moderering genomförd av en person. Modereringsperioden är högst 2     veckor. Användarna får begära moderering av ett tidigare publicerat betyg genom att skicka e-post till    <a href="mailto:kontakt@thefork.se">kontakt@thefork.se</a> och specificera     skälen för begäran om moderering. </p>
-
-<p style="text-align: justify;">     En användare som har publicerat ett betyg kan senare begära att betyget tas bort. Detta görs genom att skiva till    <a href="mailto:kontakt@thefork.se">kontakt@thefork.se</a>. Då TheFork blir medvetet om att en restaurang har stängt eller bytt ägare,     tas de betyg som har publicerats före ifrågavarande händelse bort. TheFork kan kontakta användare med e-post och/eller på telefon för att     kontrollera att betyget är äkta. Betyget får vidareförmedlas till     webbplatser som TheFork har ett partnerskap med och får publiceras på     dessa webbplatser. Användarna förstår och samtycker till att TheFork     får inkludera följande information med deras betyg: datum då användaren     registrerade sig på webbplatsen, antalet publicerade betyg, förnamn och     första bokstaven i efternamnet, status och datum för restaurangbesöket. I     enlighet med den franska lagen ”Informatique et Libertés” av den 6 januari     1978 (i ändrad form) har användarna rätt att få åtkomst till, ändra, rätta     och ta bort sina data samt rätt att motsätta sig behandlingen av deras     uppgifter av legitima skäl. Användarna kan åberopa dessa rättigheter genom     att&nbsp;<a href="https://privacyportal.onetrust.com/webform/da774af3-e615-4e8c-8a28-3d13e98367c5/091dbabd-4724-4ae9-a3a7-541da83969f3" rel="nofollow">klicka här.</a></p>
-
-<h5 style="text-align: justify;">     5.4 <u>Betyg från flera gäster</u></h5>
-
-<p style="text-align: justify;">     En användare som bokar en restaurang för flera gäster, erbjuds att ange     gästernas e-postadresser så att de kan få praktisk information om bokningen     (restaurangens adress, bokad tid ...). Användarna intygar att de har     gästernas förhandsgodkännande för utlämnandet av e-postadresser till TheFork. Varje gäst erbjuds sedan att publicera ett betyg över sin     upplevelse i restaurangen som användaren har bokat. </p>
-
-<p style="text-align: justify;">     TheFork kommer inte att återanvända gästernas personuppgifter som     samlats in för detta ändamål. </p>
-
-<h5 style="text-align: justify;">     5.5 <u>Rätt till svar</u></h5>
-
-<p style="text-align: justify;">     Varje restaurangägare har rätt till svar, särskilt att: </p>
-
-<ul type="disc">
-  <li style="text-align: justify;">         ge sin version av fakta,     </li>
-
-  <li style="text-align: justify;">         tacka konsumenten för dennes bidrag och/eller     </li>
-
-  <li style="text-align: justify;">         ange eventuella ändringar som restaurangen har gjort sedan betyget         skrevs.     </li>
-</ul>
-
-<p style="text-align: justify;">     Rätten till svar måste utnyttjas inom 3 månader efter att betyget har publicerats. Detta görs med verktyget    <a href="https://login.theforkmanager.com/login">TheFork Manager</a> eller genom att skicka e-post till:    <a href="mailto:kontakt@thefork.se">kontakt@thefork.se</a>. Följande     element ska ingå i eventuell begäran om att få utnyttja rätten till svar     med e-post: </p>
-
-<ul>
-  <li style="text-align: justify;">         detaljer om betyget,     </li>
-
-  <li style="text-align: justify;">         identifiering av skribenten,     </li>
-
-  <li style="text-align: justify;">         uppgift om de omstridda avsnitten,     </li>
-
-  <li style="text-align: justify;">innehållet i det svar som begärs (svaret får inte vara längre än det     betyg det svarar på). </li>
-</ul>
-
-<p style="text-align: justify;">     Svaret måste följa bestämmelserna i dessa användarvillkor och modereras     enligt samma villkor som användarnas betyg. Om svaret publiceras kommer det     att visas efter det betyg som det svarar på. </p>
-
-<h5 style="text-align: justify;">     5.6 <u> Restaurangklassificeringar</u></h5>
-
-<p style="text-align: justify;">     Alla användare som bokade en restaurang via webbplatsen TheFork och som har     infunnit sig på restaurangen enligt bokningen, erbjuds att betygsätta sin     upplevelse av restaurangbesöket. </p>
-
-<p style="text-align: justify;">     Klassificeringen som visas för varje restaurang på webbplatsen TheFork     motsvarar ett vägt genomsnitt av de givna betygen. </p>
-
-<h5 style="text-align: justify;">     5.7 <u>Användning av användarinnehållet</u></h5>
-
-<p style="text-align: justify;">     Användarna samtycker till att de genom att publicera användarinnehåll på     webbplatsen TheFork automatiskt beviljar TheFork en oåterkallelig,     icke exklusiv, royaltyfri licens att använda, kopiera, visa, anpassa,     modifiera, översätta, distribuera, låta distribuera eller marknadsföra,     inkorporera i eventuell reklam eller i annat material, skapa härledda verk     av, förbättra, sprida eller på annat sätt distribuera användarinnehållet     över hela världen och att göra det möjligt för tredje parter att göra     detsamma. Detta i alla slags medier online eller offline. Genom att     publicera användarinnehåll på webbplatsen TheFork beviljar användarna     dessutom TheFork alla rättigheter som är nödvändiga för att förbjuda     tredje parters visning, sammanslagning, kopiering eller användning av detta     användarinnehåll, oavsett ändamål. Användarna samtycker till att inte     utnyttja sin ideella rätt till användarinnehållet på ett sätt som är     oförenligt med de licenser som beviljas ovan. Användarna framhåller och     garanterar att de har rätt att bevilja ovan nämnda licenser.</p>
-
-<p><br>
-</p>
-
-<p><br>
-</p>
-
-<h4><strong><u>6. Sekretess</u></strong></h4>
-
-<p>TheFork har en policyn om sekretess och cookies för skydd av användarnas privatliv. <a href="#Personuppgiftspolicy">Klicka här</a>&nbsp;om du vill visa vår aktuella policyn om sekretess och cookies som även  gäller för användning av webbplatsen TheFork.</p>
-<!--[if !supportAnnotations]--><!--[endif]--><!--[if !supportAnnotations]--><!--[endif]--><!--[if !supportAnnotations]--><!--[endif]-->
-<p><br>
-</p>
-
-<p><br>
-</p>
-
-<h4 style="text-align: justify;"><strong>7. <u>Immateriell egendom</u></strong></h4>
-
-<h5 style="text-align: justify;">7.1 <u>Efterlevnad av nationell och internationell immaterialrätt</u></h5>
-
-<p style="text-align: justify;">     Användarna samtycker till att inte skicka in, kopiera, återförsälja, åter     publicera eller att i allmänhet i någon som helst form till någon annan     individ eller juridisk person från något som helst land tillgängliggöra     något innehåll, några data, någon information eller något objekt som     mottagits av TheFork eller som är tillgängligt på webbplatsen     TheFork. Användarna samtycker till att följa nedanstående bestämmelser om     immateriell egendom. </p>
-
-<h5 style="text-align: justify;">     7.2 <u>Ägande av rättigheter</u></h5>
-
-<p style="text-align: justify;">     Alla ideella och värdefulla immateriella rättigheter som rör innehållet och     informationen på webbplatsen TheFork tillhör TheFork, med undantag     för tredje parters rättigheter som TheFork har erhållit nödvändiga     rättigheter eller licenser för. </p>
-
-<p style="text-align: justify;">     De rättigheter som tilldelas användarna genom användning av webbplatsen     TheFork och de tjänster som tillhandahålls av TheFork, medför inte     någon licens vad beträffar rättigheter eller någon tillåtelse att använda     eller utnyttja någon del av webbplatsen TheFork. </p>
-
-<h5 style="text-align: justify;">     7.3     <u>         Skydd för alla element: varumärken, ritningar, logotyper, hyperlänkar,         information osv.     </u></h5>
-
-<p style="text-align: justify;">     Alla element (varumärken, ritningar, texter, hyperlänkar, logotyper,     bilder, videor, ljud, programvara, skärm-layout, databaser, koder osv.)     i/på webbplatsen TheFork och på anknutna webbplatser, skyddas av nationell     och internationell immaterialrätt. Dessa element förblir enbart TheFork och/eller dess licensgivares egendom. </p>
-
-<h5 style="text-align: justify;">     7.4 <u>Förbud mot otillåten användning</u></h5>
-
-<p style="text-align: justify;">     Utan skriftligt tillstånd från TheFork och/eller dess partner för     användarna därför inte helt eller delvis reproducera, representera, åter     publicera, åter distribuera, anpassa, översätt och/eller ändra någon     information på webbplatsen TheFork eller överföra den till något annat     medium. </p>
-
-<h5 style="text-align: justify;">     7.5 <u>Påföljder</u></h5>
-
-<p style="text-align: justify;">     Användarna bekräftar och förstår att underlåtenhet att följa bestämmelserna     i denna artikel 7 utgör ett intrång som kan medföra civil- eller     straffrättsliga påföljder. </p>
-
-<p><br>
-</p>
-
-<h4 style="text-align: justify;"><strong>8. <u>Ansvarsbegränsning</u></strong></h4>
-
-<h5 style="text-align: justify;">8.1 <u>Varning</u></h5>
-
-<p style="text-align: justify;">     Det är upp till användarna att utföra eventuella kontroller som verkar vara     nödvändiga eller lämpliga innan de gör en bokning på någon av de     restauranger som är listade på webbplatsen TheFork. </p>
-
-<p style="text-align: justify;">     TheFork ger inga som helst garantier i samband med     restaurangägarinnehåll eller tjänster som erbjuds och/eller affärsmetoder     som utövas av tredje parter som är listade på webbplatsen TheFork. Därför     garanterar TheFork inte att användarna kommer att bli nöjda med de     produkter, tjänster och/eller affärsmetoder som de upplever efter en     bokning via webbplatsen TheFork. </p>
-
-<p style="text-align: justify;">     TheFork erbjuder ingen garanti för användarinnehållets innehåll,     objektivitet eller riktighet, inklusive bland annat för de betyg som     användare publicerar på webbplatsen TheFork. </p>
-
-<h5 style="text-align: justify;">     8.2 <u>Ändringar av webbplatsen TheFork</u></h5>
-
-<p style="text-align: justify;">     Med tanke på att webbplatsen TheFork är interaktiv kan den information som     finns på webbplatsen ändras när som helst, utan att detta medför ansvar för     TheFork. </p>
-
-<h5 style="text-align: justify;">     8.3 <u>Användning av webbplatsen TheFork</u></h5>
-
-<p style="text-align: justify;">     På grund av internets specifika art garanterar TheFork inte att     webbplatsen TheFork kommer att fungera kontinuerligt. TheFork enda     skyldighet är att vidta rimliga åtgärder med hänsyn till detta. </p>
-
-<p style="text-align: justify;">     TheFork ska inte ansvara för misslyckande att få åtkomst till     webbplatsen TheFork eller för någon annan skada eller förlust som uppstår     på grund av användning eller omöjlighet att använda webbplatsen TheFork     eller dess innehåll, förutom enligt vad som stipuleras i lagen. </p>
-
-<p style="text-align: justify;">     TheFork garanterar inte att den information som visas är utförlig,     fullständig, verifiera eller riktig. Restaurangägarinnehållet,     informationen, restaurangsidorna och i allmänhet allt innehåll på     webbplatsen TheFork tillhandahålls i befintligt skick, utan några som helst     uttryckliga eller underförstådda garantier. </p>
-
-<p style="text-align: justify;">     Användarna bekräftar uttryckligen att fotona på webbplatsen TheFork inte är     av kontraktsnatur. </p>
-
-<p style="text-align: justify;">     Användarna godtar och bekräftar allmänt att bokningen på restaurangen inte     garanteras. Därmed garanterar TheFork inte bokningstjänstens     effektivitet. Tillgängligheten kontrolleras i realtid via dator. I och med     att TheFork inte fysiskt kan verifiera att den insamlade     informationen och/eller den information som restaurangerna tillhandahåller     är korrekt, kan TheFork emellertid inte anses vara ansvarig om     användarna inte kan utnyttja restaurangens tjänster. Inställningarna för     bokningsprogramvaran som fungerar i realtid är faktiskt delvis beroende på     den information som tillhandahållits och/eller registrerats av restaurangen     och det är möjligt att den inte motsvarar verkligheten. Därmed bekräftar     och godtar användarna till exempel bland annat att TheFork inte på     något sätt ansvarar för att en bokning annulleras, att restaurangen är     stängd (oavsett skäl) eller om en tredje part vägrar att tillhandahålla en     tjänst, oavsett skäl. </p>
-
-<p style="text-align: justify;">     Användarna godtar på samma sätt att TheFork inte på något som helst     sätt ansvarar för att användarna eventuellt inte kan utnyttja kampanjer     eller specialerbjudanden som en restaurang erbjuder. Användarna bekräftar     och godtar att TheFork inte på något sätt ansvarar för att en     restaurang av något skäl inte låter dem använda en kampanj eller ett     specialerbjudande. </p>
-
-<h5 style="text-align: justify;">     8.4 <u>Användarens garantier och gottgörelser</u></h5>
-
-<p style="text-align: justify;">     Användarna garanterar att de är helt förtrogna med hur internet fungerar     och med dess begränsningar. De bekräftar i synnerhet att det är omöjligt     att garantera att data som skickas av användare på internet är helt säkra.     TheFork kan inte anses ansvara för eventuella incidenter som kan     uppstå vid denna överföring av data. </p>
-
-<p style="text-align: justify;">     Användarna samtycker till att ersätta TheFork för skadestånd, skador,     utgifter, krav eller kostnader som TheFork ådrar sig från eventuella     krav eller tvister i eller utanför domstol i samband med användning av TheFork tjänster, inklusive användarnas publicering av användarinnehåll     på webbplatsen TheFork. </p>
-
-<p style="text-align: justify;">     I alla händelser bekräftar och samtycker användarna uttryckligen till     användning av webbplatsen TheFork på egen risk och på sitt eget ansvar. </p>
-
-<h5 style="text-align: justify;">     8.5 <u>Meddelanden om och borttagande av olagligt innehåll</u></h5>
-
-<p style="text-align: justify;">     Alla användare kan meddela om ett krav eller en invändning som rör olagliga     element eller olagligt innehåll som har publicerats på webbplatsen TheFork. </p>
-
-<p style="text-align: justify;">     Om en användare anser att element eller innehåll som har publicerats på     webbplatsen TheFork är olagligt eller gör intrång på användarens copyright,     ska användaren meddela TheFork med rekommenderat brev med     mottagningsbevis som ska vara adresserat till ”Legal department” (juridiska avdelningen), eller med e-post till    <a href="mailto:kontakt@thefork.se">kontakt@thefork.se</a>, med     anmärkningen ”For the attention of the Legal Department” (Till juridiska     avdelningens kännedom) på ämnesraden. De ska bifoga alla eventuella     tillgängliga bevis som stöder ägandet av rättigheterna. När detta     förfarande har följts och efter att meddelandets riktighet har     kontrollerats ska TheFork försöka ta bort det olagliga innehållet så     snart som möjligt. </p>
-
-<p style="text-align: justify;">     TheFork är en mellanhand vid tillhandahållandet av tjänster till     användaren. Därmed, och i enlighet med artikel 6 I.3 i den franska lagen om     tillit till den digitala ekonomin (LCEN) av den 21 juni 2004 (i ändrad     form), kan TheFork inte anses vara straffrättsligt ansvarigt för den     information som lagras på webbplatsen TheFork om bolaget inte hade faktiskt     kännedom om den olagliga aktiviteten eller informationen (inklusive     användarinnehåll, restaurangägarinnehåll osv.) eller om bolaget så snart     det blev medvetet om detta vidtog omedelbara åtgärder för att ta bort     dylikt innehåll eller blockera åtkomsten till detta. </p>
-
-<p><br>
-</p>
-
-<h4 style="text-align: justify;"><strong>9. <u>Övriga bestämmelser</u></strong></h4>
-
-<h5 style="text-align: justify;">9.1 <u>Avskiljbarjet - Åtskiljande - Rubriker</u></h5>
-
-<p style="text-align: justify;">     Om någon bestämmelse i dessa användarvillkor förklaras vara ogiltig,     olaglig, icke verkställbar eller icke tillämpbar, ska detta inte på något     sätt påverka eller begränsa giltigheten, lagligheten, verkställbarheten     eller tillämpningen av de andra bestämmelserna i dessa användarvillkor,     utan dessa övriga bestämmelser förblir i full kraft. </p>
-
-<p style="text-align: justify;">     TheFork kan upprätta en ny bestämmelse som återupprättar parternas     gemensamma vilja enligt vad som angavs i den ursprungliga bestämmelsen.     Detta ska göras i enlighet med tillämplig lag. </p>
-
-<p style="text-align: justify;">     Artikelrubrikerna i detta dokument är enbart avsedda som illustration och     ska inte anses utgöra någon väsentlig del av dessa användarvillkor. </p>
-
-<h5 style="text-align: justify;">     9.2 <u>Inga undantag</u></h5>
-
-<p style="text-align: justify;">     Förutom enligt vad som på annat sätt kan stipuleras i dessa användarvillkor     ska TheFork underlåtenhet att använda någon av sina rättigheter     eller någon åtgärd enligt bestämmelserna i dessa användarvillkor eller en     försenad dylik användning, inte utgöra ett undantag från rätten eller     åtgärden och ska inte förhindra vidare användning av rättigheten eller     åtgärden. Tvärtom ska en dylik rätt eller åtgärd förbli i full kraft. </p>
-
-<h5 style="text-align: justify;">     9.3 <u>Tillämplig lag</u></h5>
-
-<p style="text-align: justify;">     I den mån som tillåts i lag ska dessa användarvillkor och relationen mellan     TheFork och användarna regleras av och tolkas enligt fransk lag. I     den mån som tillåts i lag och om dessa användarvillkor har skrivits på     eller översatts till andra språk, ska enbart den franska versionen av dessa     användarvillkor gälla. </p>
-
-<h5 style="text-align: justify;">     9.4 <u>Domsrätt</u></h5>
-
-<p style="text-align: justify;">     I den mån som tillåts i lag ska eventuella krav, tvister eller frågor som     uppstår i eller i samband med dessa användarvillkor, hanteras av behörig     domstol i Paris. </p>
-
-<p style="text-align: justify;">I enlighet med EU:s direktiv 2013/11/EU av den 21 maj 2013 om alternativ     tvistlösning vid konsumenttvister finns länken till den europeiska     plattformen för tvistlösning på nätet nedan:              <a href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.show&amp;lng=SV" rel="nofollow">https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.show&amp;lng=SV</a></p>
-
-<p><br>
-</p>
-
-<h2 style="text-align: justify;"><strong>DEL 2.     BONUSPROGRAM - SPECIELLA VILLKOR</strong></h2>
-
-<p style="text-align: justify;">     Dessa villkor för Bonusprogram – Speciella villkor kompletterar Del 1:     Allmänna användarvillkor I händelse av eventuell oförenlighet mellan     bestämmelserna i denna Del 2, Bonusprogram – Speciella villkor och     bestämmelserna i Del 1, Allmänna användarvillkor, ska bestämmelserna i     denna Del 2, Bonusprogram – Speciella villkor gälla. </p>
-
-<p><br>
-</p>
-
-<h4 style="text-align: justify;"><strong>1. <u>Beskrivning av Bonusprogrammet</u></strong></h4>
-
-<p style="text-align: justify;">     Användarna kan använda Bonusprogrammet till att samla in bonuspoäng     (”Yums”) efter en bokning på webbplatsen TheFork som de infinner sig för     enligt reglerna (”Bonusprogrammet”). </p>
-
-<p><br>
-</p>
-
-<h4 style="text-align: justify;"><strong>2. <u>Deltagande i Bonusprogrammet</u></strong></h4>
-
-<p style="text-align: justify;">     Alla användare som har ett konto på webbplatsen TheFork kan delta i     Bonusprogrammet. </p>
-
-<p style="text-align: justify;">     Deltagande i Bonusprogrammet är gratis och automatiskt. </p>
-
-<p><br>
-</p>
-
-<h4 style="text-align: justify;"><strong>3. <u>Tjäna Yums</u></strong></h4>
-
-<h5 style="text-align: justify;">3.1 <u>Allmänna villkor för att tjäna Yums</u></h5>
-
-<p style="text-align: justify;">     Med l Bonusprogrammet kan användarna samla bonuspoäng efter en bokning     på webbplatsen TheFork som de infinner sig för enligt reglerna, oavsett     vilken restaurang som har bokats på webbplatsen TheFork och oavsett om     bokningen gjordes med kampanjerbjudande eller ej. </p>
-
-<p><span lang="SV">När en bokning är gjord på TheFork får användaren på förhand ett definierat antal Yums för varje bokning som gjorts på webbplatsen som användaren har infunnit sig till enligt reglerna (antalet poäng kan variera, i synnerhet beroende på bokningssätt: webbplats, mobil eller app), sju dagar efter måltidens datum oavsett antalet gäster som är anknutna till bokningen och oavsett land där bokningen gjordes.</span></p>
-
-<p><span lang="SV">Om bokningen är gjord med en Lojalitetsrabatt (som definierad i stycke 4.1 nedan) eller om användaren annullerat bokningen eller om användaren uteblir från restaurangen enligt reglerna (no show), tjänar användaren inga Yums.</span></p>
-
-<p style="text-align: justify;"> Antalet Yums som användaren tjänar lagras under ”<a href="https://www.thefork.se/#user-account" rel="nofollow">Min bonusprofil</a>”     i användarens konto och åtkomst till poängen fås där. </p>
-
-<h5 style="text-align: justify;">     3.2 <u>Speciella villkor för att tjäna Yums</u></h5>
-
-<h5 style="text-align: justify;">     3.2.1 <u>Speciella kampanjer med kampanjkod</u></h5>
-
-<p style="text-align: justify;">     Ibland använder TheFork speciella kampanjer under en begränsad tid då     användarna kan tjäna fler Yums än vanligt (den ”Speciella kampanjen”). </p>
-
-<p style="text-align: justify;">     Under varje speciell kampanj får användarna e-post där villkoren för att     tjäna extra Yums specificeras. Ett av dessa villkor är skyldigheten att     ange en kampanjkod nästa gång användarna bokar på webbplatsen TheFork     (”Kampanjkoden”). </p>
-
-<p style="text-align: justify;"> Antalet Yums som tjänas lagras med den speciella kampanjen, lagras under ”<a href="https://www.thefork.se/#user-account" rel="nofollow">Min bonusprofil</a>”     i användarens konto och åtkomst till poängen fås där. </p>
-
-<p style="text-align: justify;">     När kampanjkoden har utfärdats är dess giltighetstid begränsad till den     speciella kampanjens giltighetstid. Kampanjkoden har inget penningvärde och     kan inte lånas ut, överföras eller säljas till någon annan eller användas     för något annat ändamål än dem som TheFork fastställt i dessa     Bonusprogram – Speciella villkor. </p>
-
-<p style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; box-sizing: border-box; color: rgb(51, 51, 51); font-family: ">3.2.2 <u>Hänvisningsprogram med rekommendationskod</u></p>
-
-<p style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; box-sizing: border-box; color: rgb(51, 51, 51); font-family: ">TheFork har startat ett hänvisningsprogram som gör att både en sponsor och en sponsrad person (en familjemedlem, vän, kollega eller annan person som sponsorn känner på samma sätt) kan få extra Yums för den sponsrade personens första bokning på webbplatsen TheFork då den sponsrade personen har angett en rekommendationskod i samband med bokningen (”Rekommendationskod”).</p>
-
-<p style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; box-sizing: border-box; color: rgb(51, 51, 51); font-family: ">Alla användare som har ett konto på webbplatsen TheFork kan vara en sponsor.</p>
-
-<p style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; box-sizing: border-box; color: rgb(51, 51, 51); font-family: ">Alla personer över 18 års ålder som inte har gjort någon bokning på webbplatsen TheFork under de två åren som föregår användningen av rekommendationskoden, kan vara en sponsrad person.</p>
-
-<p style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; box-sizing: border-box; color: rgb(51, 51, 51); font-family: ">En sponsor får ha flera sponsrade personer. En sponsrad person får bara ha en sponsor. Sponsorn får inte sponsra sig själv.</p>
-
-<p style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; box-sizing: border-box; color: rgb(51, 51, 51); font-family: ">För att få sin sponsringskod ska sponsorn gå till ”<a href="https://www.thefork.se/#user-account" rel="nofollow">Min rekommendationssida</a>” i kontot på webbplatsen TheFork.</p>
-
-<p style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; box-sizing: border-box; color: rgb(51, 51, 51); font-family: ">Antalet Yums som fås genom hänvisningsprogrammet anges under ”<a href="https://www.thefork.se/#user-account" rel="nofollow">Min rekommendationssida</a>” och ”<a href="https://www.thefork.se/#user-account" rel="nofollow">Min bonusprofil</a>” i användarens konto på webbplatsen TheFork.</p>
-
-<p style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; box-sizing: border-box; color: rgb(51, 51, 51); font-family: ">Då rekommendationskoden har utfärdats och i enlighet med de andra villkoren i dessa Lojalitetsprogram – Speciella villkor, har rekommendationskoden en giltighetstid som är begränsad till hänvisningsprogrammets giltighetstid.</p>
-
-<p style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; box-sizing: border-box; color: rgb(51, 51, 51); font-family: ">Rekommendationskoden<span style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; box-sizing: border-box; color: rgb(51, 51, 51); font-family: ;"> a) ska användas för avsedd målgrupp och avsett ändamål och på ett lagligt sätt, b) har inget penningvärde, c) får inte dupliceras, lånas ut, överföras (förutom enligt vad som tillåts här) eller säljas till någon eller tillgängliggöras till allmänheten (oavsett om den publiceras på ett offentligt forum, en webbplats för kuponger eller på annat sätt), d) får när som helst avaktiveras av TheFork utan skäl, varsel eller ersättningsskyldighet och e) får endast användas i enlighet med villkoren i dessa Bonusprogram – Speciella villkor.</span></p>
-
-<p><br>
-</p>
-
-<h4 style="text-align: justify;"><strong>4. <u>Använda Yums</u></strong></h4>
-
-<h5 style="text-align: justify;">     4.1 <u>Omvandling av Bonusrabatt</u></h5>
-
-<p style="text-align: justify;">     Då de väl har erhållits och efter en bokning på webbplatsen TheFork, kan     Yums omvandlas till rabatter på priset som dras av på notan i en restaurang     som deltar i Bonusprogrammet (”Bonusrabatten”). </p>
-
-<p style="text-align: justify;">Tabellen över omvandling av Yums till en Bonusrabatt finns    <a href="https://www.thefork.se/#user-account" rel="nofollow">här</a>.</p>
-
-<p style="text-align: justify;">     Listan över partnerrestauranger som deltar i Bonusprogrammet finns under     lojalitet i användarens konto på webbplatsen TheFork. Överallt på     webbplatsen TheFork identifieras partnerrestaurangerna med ett specifikt omnämnande. </p>
-
-<p style="text-align: justify;">För att omvandla Yums till Bonusrabatt måste användaren välja boka bord på en     partnerrestaurang som deltar i Bonusprogrammet, välja alternativet för bonusrabatt och en tidpunkt då bonusrabatt accepteras innan bokningen bekräftas.</p>
-
-<p style="text-align: justify;">     Partnerrestaurangen som deltar i Bonusprogrammet ansvarar då för att     automatiskt och utan vidare formaliteter dra av Bonusrabatten från notan. </p>
-
-<p style="text-align: justify;">     Om Bonusrabatten är större än notans belopp får det avdrag som restaurangen     gör inte överskrida notans belopp. Med andra ord kan restaurangen inte     betala skillnaden mellan Bonusrabattens belopp och notans belopp till     användaren. </p>
-
-<p style="text-align: justify;">     I händelse av att det finns ett kampanjerbjudande, som kan kombineras med en bonusrabatt kommer restaurangen applicera kampanjerbjudandet innan Bonusrabatten dras av. </p>
-
-<p><span lang="SV">De Yums som användarna tjänar in kan omvandlas till Bonusrabatter under deras giltighetsperiod, som nämns i presentationen på Lojalitetsprogrammets sida på TheFork webbplats. Utgångsdatum för tjänade Yums går att hitta på ”<a href="https://www.thefork.se/#user-account" rel="nofollow">Min bonusprofil</a>” i användarens konto.</span></p>
-
-<p style="text-align: justify;">     Yums är strikt personliga, har inget penningvärde och kan inte lånas ut,     överföras eller säljas till någon annan eller användas för något annat     ändamål än dem som TheFork fastställt i dessa Bonusprogram –     Speciella villkor. </p>
-
-<h5 style="text-align: justify;">     4.2 <u>Avbokning/no show</u></h5>
-
-<p style="text-align: justify;">     Om en användare har bokat med Bonusrabatt och annullerar bokningen eller om     restaurangen annullerar bokningen, registreras de Yums som vid     bokningstidpunkten har omvandlats till Bonusrabatt tillbaka till     användarens konto och kan användas för en ny bokning. </p>
-
-<p style="text-align: justify;">     Om en användare uteblir från restaurangen (no show), går de Yums som har     omvandlats förlorade och registreras inte igen på användarens konto. </p>
-
-<p><br>
-</p>
-
-<h4 style="text-align: justify;"><strong>5. <u>Borttagande av Yums</u></strong></h4>
-
-<p style="text-align: justify;">TheFork förbehåller sig rätten att innehålla eller ta bort Yums som     har erhållits genom att en användare har använt kampanjkoder eller     sponsringskoder om TheFork på rimligt sätt fastställer eller anser     att användningen eller inlösningen av kampanjkoder eller sponsringskoder     var bedräglig, olaglig, gjordes av misstag eller var ett brott mot gällande     villkor för speciell kampanj eller mot dessa Bonusprogram –Speciella     villkor.</p>
-
-<p style="text-align: justify;">     Dessutom kan användarnas underlåtenhet att efterleva dessa användarvillkor     (inklusive underlåtenhet att infinna sig för flera bokningar (no show)),     missbruk eller bedräglig användning av webbplatsen TheFork och/eller Yums     eller annat beteende som kan skada TheFork intressen, medföra att     användarens konto avaktiveras och/eller att alla eller en del av de Yums     som finns under lojalitet i användarens konto på webbplatsen TheFork tas     bort, utan varsel eller ersättning. </p>
-
-<p><br>
-</p>
-
-<h4 style="text-align: justify;"><strong>6. <u>Ändring/tillfälligt avbrott/avslutande av Bonusprogrammet</u></strong></h4>
-
-<p style="text-align: justify;">     TheFork förbehåller sig rätten att när som helst ändra, tillfälligt     avbryta eller avsluta Bonusprogrammet utan att detta medför något som helst     slags ersättningsskyldighet. I så fall meddelar TheFork användarna     med e-post och/eller genom att publicera ett meddelande på webbplatsen     TheFork där det anger de nya allmänna villkoren för Bonusprogrammet     och/eller villkoren för avslutande av Bonusprogrammet. </p>
-
-<p><br>
-</p>
-
-<h4 style="text-align: justify;"><strong>7. <u>Ansvarsbegränsning</u></strong></h4>
-
-<p style="text-align: justify;">     Vad beträffar Bonusprogrammet är TheFork endast skyldigt att sträva     till rimliga åtgärder och påtar sig ansvar enbart vad beträffar tilldelning     av Yums till användarna. Därmed kan TheFork inte anses ansvara för     eventuella krav som rör Yums efter att TheFork har tilldelat dessa     till en användare enligt reglerna. Mer specifikt har TheFork ingen     ersättningsskyldighet när en användare har omvandlat Yums till en     Bonusrabatt. </p>
-
-<p style="text-align: justify;">     Därmed ansvarar TheFork inte för en restaurangs eventuella     underlåtelse att ge användaren Bonusrabatten. </p>
-
-<p style="text-align: justify;">     I alla händelser frånsäger sig TheFork allt ansvar i samband med     Bonusprogrammet i händelse av kontraktsbrott och/eller fel från användarens     sida. </p>
+<p style="text-align: justify;">     Sans préjudice des sanctions opérées par TheFork en vertu de     l’article 4.7.1, TheFork sera également en droit de réclamer des     indemnités destinées à compenser le préjudice subi.</p>
 
 <p style="text-align: justify;"><br>
 </p>
 
+<h3 style="text-align: justify;"><strong>5. <u>Avis et Contenu Utilisateur</u></strong></h3>
+
+<p style="text-align: justify;">     L'Utilisateur doit suivre les règles suivantes pour publier tout Contenu     Utilisateur et notamment tout avis sur le site concernant un restaurant     référencé sur le Site TheFork. </p>
+
+<h4 style="text-align: justify;">     5.1 <u>Conditions de publication des avis</u></h4>
+
+<ul type="disc">
+  <li style="text-align: justify;">         Pour publier un avis, l'Utilisateur doit avoir un compte sur le Site TheFork qui l'identifie ou avoir été invité à déposer un avis par         un email envoyé par TheFork et avoir réservé ou avoir été invité         dans un restaurant par l'intermédiaire du Site TheFork, tout en         ayant honoré la réservation dans ce restaurant.     </li>
+
+  <li style="text-align: justify;">         Afin d'éviter tout conflit d'intérêt et pour des raisons d'objectivité         évidentes, si l'Utilisateur travaille dans le domaine de la         restauration, celui-ci n'est pas autorisé à publier d'avis sur le Site         TheFork.     </li>
+
+  <li style="text-align: justify;">         L'avis doit contenir plus de 200 caractères et concerner exclusivement         le restaurant au sein duquel l'Utilisateur s'est rendu. Tout avis         mentionnant un autre restaurant pourra être refusé par TheFork.     </li>
+</ul>
+
+<h4 style="text-align: justify;">     5.2 <u> Motifs de rejet du Contenu Utilisateur</u></h4>
+
+<p style="text-align: justify;">     L’Utilisateur est informé que son Contenu Utilisateur peut être rejeté pour     les motifs suivants : </p>
+
+<ul type="disc">
+  <li style="text-align: justify;">         si les « Conditions de publication des avis » énoncées ci-dessus ne         sont pas respectées par l’Utilisateur ;     </li>
+
+  <li style="text-align: justify;">         si TheFork estime que sa responsabilité civile ou pénale peut         être engagée ;     </li>
+
+  <li style="text-align: justify;">         si le Contenu Utilisateur ou les éléments relatifs à l’identité de         l’auteur comportent des injures ou grossièretés ;     </li>
+
+  <li style="text-align: justify;">         si le Contenu Utilisateur textuel comporte des caractères aléatoires ou         des suites de mots sans aucune signification ;     </li>
+
+  <li style="text-align: justify;">         si le Contenu Utilisateur est sans rapport avec le restaurant noté ;     </li>
+
+  <li style="text-align: justify;">         si le Contenu Utilisateur est ou est soupçonné d’être une contrefaçon ;     </li>
+
+  <li style="text-align: justify;">         si l’avis soulève ou si TheFork estime que l’avis comporte des         éléments de conflits d’intérêts ou de fraude ;     </li>
+
+  <li style="text-align: justify;">         si le Contenu Utilisateur textuel est mal écrit au point d'en être         inintelligible ;     </li>
+
+  <li style="text-align: justify;">         si un Utilisateur formule un commentaire inapproprié sur un autre         Contenu Utilisateur ou son auteur ;     </li>
+
+  <li style="text-align: justify;">         si le Contenu Utilisateur comporte des informations personnelles ou des         éléments susceptibles d'aboutir à un vol d'identité, telles que le nom         ou prénom d'individus qui ne sont pas des personnes publiques, un         numéro de téléphone, une adresse physique précise ou une adresse email     </li>
+
+  <li style="text-align: justify;">         si le Contenu Utilisateur mentionne des sites Internet, liens         hypertexte, URL, adresses email ou numéros de téléphone ; ou     </li>
+
+  <li style="text-align: justify;">         si le Contenu Utilisateur est clairement du spam.</li>
+</ul>
+
+<p style="text-align: justify;">     En cas d’identification d’un Utilisateur ayant déposé un avis frauduleux ou     que TheFork estime être frauduleux, et après avoir appliqué les     procédures liées au rejet ou à la suppression d’avis, TheFork pourra     désactiver le compte de l’Utilisateur concerné (ce qui entraine     l’annulation des réservations en cours et la suppression des Yums     éventuellement cumulés), et supprimera l’ensemble des avis liés à cet     Utilisateur. </p>
+
+<h4 style="text-align: justify;">     5.3 <u> Modération des avis</u></h4>
+
+<p style="text-align: justify;">     TheFork n’a aucune obligation de modérer ou de supprimer les avis. TheFork procède à une modération des avis, dans le cadre d’une     obligation de moyens, dans le but de s'assurer de la conformité des avis aux     présentes Conditions d’Utilisation en vue de publier, rejeter ou supprimer     cet avis. Chaque avis est soumis à une modération a priori, par filtres     automatiques et, en cas de signalement particulier, à une modération     humaine. Le délai de modération est de 2 semaines au maximum. L'Utilisateur peut demander la modération d'un avis déjà publié à l'adresse    <a href="mailto:contact@thefork.fr">contact@thefork.fr</a> en     précisant les motifs de sa demande de modération. </p>
+
+<p style="text-align: justify;">     L'Utilisateur qui a publié un avis peut demander a posteriori la suppression de cet avis à l'adresse    <a href="mailto:contact@thefork.fr">contact@thefork.fr</a>. Si TheFork a connaissance d’une fermeture ou d’un changement de     propriétaire d’un restaurant, les avis s’y rapportant seront supprimés.     L'Utilisateur est informé qu'il peut être contacté par TheFork à des     fins de vérification de l'authenticité de son avis, par email et/ou par     téléphone. L'Utilisateur est informé que son avis peut être transmis à des     sites partenaires de TheFork et être publié sur ces sites     partenaires. Afin de faciliter la lecture des avis par les Utilisateurs du     Site TheFork, l’Utilisateur autorise TheFork à publier à côté de     l’avis déposé les éléments suivants : date d'inscription au site, nombre     d'avis déposés, prénom et 1ère lettre du nom, statut et date du repas.     Conformément à la loi ‘Informatique et Libertés’ du 6 janvier 1978     modifiée, l'Utilisateur dispose d'un droit d'accès, de modification, de     rectification et de suppression des données le concernant, ainsi que d'un     droit d'opposition pour motifs légitimes. L'Utilisateur peut exercer ces droits en cliquant <a href="https://privacyportal.onetrust.com/webform/da774af3-e615-4e8c-8a28-3d13e98367c5/091dbabd-4724-4ae9-a3a7-541da83969f3" rel="nofollow">ici</a>.&nbsp;</p>
+
+<h4 style="text-align: justify;">     5.4 <u> Avis de la part de plusieurs convives</u></h4>
+
+<p style="text-align: justify;">     L'Utilisateur qui réserve un restaurant pour plusieurs convives est invité     à indiquer les adresses email de ses convives pour que leur soient     transmises les informations pratiques concernant la réservation (adresse du     restaurant, heure de réservation…) L'Utilisateur reconnaît dans ce cas     avoir reçu l'autorisation préalable de ses convives pour transmettre leurs     adresses email à TheFork. Chaque convive est ensuite invité à poster     un avis sur son expérience dans le restaurant réservé par l’Utilisateur. </p>
+
+<p style="text-align: justify;">     Les données personnelles des convives collectées dans ce contexte ne seront     pas réutilisées par TheFork. </p>
+
+<h4 style="text-align: justify;">     5.5 <u> Droit de réponse</u></h4>
+
+<p style="text-align: justify;">     Chaque Restaurateur dispose d'un droit de réponse afin notamment de : </p>
+
+<ul type="disc">
+  <li style="text-align: justify;">         donner sa version des faits ;     </li>
+
+  <li style="text-align: justify;">         remercier le consommateur pour sa contribution ; et/ou     </li>
+
+  <li style="text-align: justify;">         indiquer les éventuels changements intervenus dans le restaurant depuis         la rédaction de l'avis.     </li>
+</ul>
+
+<p style="text-align: justify;">     Le droit de réponse doit être exercé dans les 3 mois de la diffusion de l’avis auquel il répond par le biais de l’outil <a href="https://login.theforkmanager.com/">THEFORK&nbsp;MANAGER</a>, ou en écrivant à l’adresse email    <a href="mailto:contact@thefork.fr">contact@thefork.fr</a>, le     cas échéant. La demande d’exercice du droit de réponse par email doit     comporter les éléments suivants : </p>
+
+<ul>
+  <li style="text-align: justify;">         références de l'avis ;     </li>
+
+  <li style="text-align: justify;">         identification de son auteur ;     </li>
+
+  <li style="text-align: justify;">mention des passages contestés ;</li>
+
+  <li style="text-align: justify;">teneur de la réponse sollicitée (la réponse ne peut être plus longue que     l'avis de l'Utilisateur auquel elle répond). </li>
+</ul>
+
+<p style="text-align: justify;">     La réponse devra être conforme aux dispositions des présentes Conditions     d’Utilisation et sera modérée dans les mêmes conditions que les avis des     Utilisateurs et publiée le cas échéant à la suite de l’avis auquel elle     répond. </p>
+
+<h4 style="text-align: justify;">     5.6 <u> Note des restaurants</u></h4>
+
+<p style="text-align: justify;">     Chaque Utilisateur ayant réservé un restaurant par le Site TheFork et     honoré sa réservation dans ce restaurant est invité à donner une note     correspondant à son expérience de consommation. </p>
+
+<p style="text-align: justify;">     L’Utilisateur est informé que la note indiquée sur le Site TheFork à     côté de chaque restaurant correspond à une moyenne pondérée des notes     données. </p>
+
+<h4 style="text-align: justify;">     5.7 <u>Utilisation du Contenu Utilisateur</u></h4>
+
+<p style="text-align: justify;">     L’utilisateur convient qu’en publiant le Contenu Utilisateur sur le Site     TheFork il accorde automatiquement à TheFork, une autorisation     irrévocable, permanente, non exclusive, sans contrepartie pécuniaire     d’utiliser, de copier, d’afficher, d’adapter, de modifier, de traduire, de     distribuer, de faire distribuer ou de promouvoir, d'incorporer à des     publicités ou autres documents, de créer des œuvres dérivées de celui-ci,     de mettre en valeur, de distribuer ledit Contenu Utilisateur, dans le monde     entier, mais aussi de permettre à des tiers d’agir de même, et ce sur tout     support en ligne ou non. En outre, en publiant un Contenu Utilisateur sur     le Site TheFork, l’Utilisateur accorde automatiquement à TheFork     tous les droits nécessaires pour interdire tout affichage, agrégation,     copie ou exploitation ultérieure dudit Contenu Utilisateur par un tiers à     quelque fin que ce soit. L’Utilisateur s’interdit d’exercer son droit moral     sur le Contenu Utilisateur de manière incompatible avec les autorisations     ci-dessus accordées. L’utilisateur déclare et garantit qu’il est en droit     d’accorder les autorisations ci-dessus accordées.</p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h3 style="text-align: justify;"><strong>6. <u>Confidentialité</u></strong></h3>
+
+<p>TheFork a mis en place une Déclaration relative  à la confidentialité et aux cookies afin de protéger au mieux les données  personnelles des Utilisateurs. <a href="#PolitiqueDeConfidentialite">Cliquer ici</a>  pour consulter notre Déclaration relative à la confidentialité et aux cookies actuellement en vigueur, qui s’applique  également à l’utilisation du Site TheFork.</p>
+
 <p><br>
 </p>
 
-<h1 id="Personuppgiftspolicy">C. SEKRETESS- OCH COOKIEPOLICY</h1>
+<h3 style="text-align: justify;"><strong>7. <u>Propriété intellectuelle</u></strong></h3>
 
-<p style="text-align: center;"><strong>Senast  uppdaterad: 3 juni 2021</strong></p>
+<h4 style="text-align: justify;">7.1     <u>         Respect du droit national et international de la propriété         intellectuelle</u></h4>
 
-<p>Vi vet att du delar dina personuppgifter med oss baserat på ett förtroende.  Vi tar detta på allvar och strävar efter att säkerställa att vi respekterar din  sekretess när du besöker vår webbplats eller använder våra tjänster. Läs igenom  den här Policyn noggrant för att ta reda  på mer om våra sekretessmetoder.</p>
+<p style="text-align: justify;">     L'Utilisateur s'engage à ne pas soumettre, copier, revendre, rééditer, ou,     en général, rendre disponible par quelque forme que ce soit tout contenu,     donnée, information ou élément, reçu de TheFork ou disponible sur le     Site TheFork, à une autre personne physique ou morale, de tous pays.     L'Utilisateur s'engage à respecter les dispositions ci-après relatives à la     propriété intellectuelle. </p>
 
-<p>Vi driver en onlinetjänst som ger sina användare  (”du”, ”din”) möjlighet att välja och boka ett bord på en restaurang och, på  vissa platser, betala för sin måltid (i denna Policy kallas ovanstående  gemensamt för våra Tjänster). </p>
+<h4 style="text-align: justify;">     7.2 <u>Propriété des droits</u></h4>
 
-<p>Våra Tjänster drivs av La Fourchette SAS som ägare och  personuppgiftsansvarig. Genom att besöka våra webbplatser och relaterade  applikationer, oavsett om det sker på en dator, telefon, surfplatta eller en  liknande enhet (alla kallade ”Enhet”), godkänner du de metoder som beskrivs  nedan.</p>
+<p style="text-align: justify;">     Tous les droits, patrimoniaux et moraux, de propriété intellectuelle,     afférents aux contenus et aux éléments d'information du Site TheFork     appartiennent en propre à TheFork, sous réserve de tout droit     patrimonial pouvant appartenir à un tiers et pour lesquels la Société TheFork a obtenu les cessions de droits ou les autorisations     nécessaires. </p>
 
-<p>Som  ett globalt företag är vi verksamma i ett antal länder och territorier där  lagarna och sederna skiljer sig åt. Denna Policy ger en allmän översikt över  våra sekretessmetoder. Du kan se viss landsspecifik information genom att välja  ditt hemland i jurisdiktionslänkarna längst ner i denna Policy.</p>
+<p style="text-align: justify;">     Les droits conférés à l'Utilisateur en vue de l'utilisation du Site TheFork et des services fournis par&nbsp;TheFork n'emportent aucune     cession ni aucune autorisation d'exploiter ou d'utiliser l'un quelconque     des éléments du Site TheFork. </p>
 
-<h3><strong>Information som samlas in</strong></h3>
+<h4 style="text-align: justify;">     7.3     <u>         Protection de tous les éléments : Marques, dessins, logos, liens         hypertextes, informations, etc.     </u></h4>
 
-<p>När du  besöker eller använder våra Tjänster samlar vi in information från och om dig  för att tillhandahålla en mer personanpassad och relevant upplevelse. Viss  information samlar vi in automatiskt. Övrig information samlar vi in från olika  källor, däribland dotterbolag, affärspartner och andra oberoende källor från  tredje part. När du använder våra Tjänster genom att ”klicka dig vidare” från  en webbplats från tredje part eller när du besöker webbplatser från tredje part  via våra Tjänster, kan dessa webbplatser från tredje part dela information med  oss om din användning av deras tjänst. Den information som samlas in kan  omfatta följande: </p>
+<p style="text-align: justify;">     Tous les éléments (marques, dessins, textes, liens hypertextes, logos,     images, vidéos, éléments sonores, logiciels, mise en page, bases de     données, codes...) contenus sur le Site TheFork et dans les sites     associés sont protégés par le droit national et international de la     propriété intellectuelle. Ces éléments restent la propriété exclusive de TheFork et/ou de ses partenaires ou concédants. </p>
+
+<h4 style="text-align: justify;">     7.4 <u>Interdiction d'utilisation sans autorisation</u></h4>
+
+<p style="text-align: justify;">     Par conséquent, sauf autorisation préalable et écrite de TheFork     et/ou de ses partenaires, l'Utilisateur ne peut procéder à une quelconque     reproduction, représentation, réédition, redistribution, adaptation,     traduction et/ou transformation partielle ou intégrale, ou un transfert sur     un autre support de tout élément composant ou présent sur le Site     TheFork. </p>
+
+<h4 style="text-align: justify;">     7.5 <u>Sanctions</u></h4>
+
+<p style="text-align: justify;">     L'Utilisateur reconnaît et prend connaissance que le non-respect des     dispositions du présent article 7 est constitutif d'un acte de contrefaçon     répréhensible tant civilement que pénalement.</p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h3 style="text-align: justify;"><strong>8. <u>Limitations de responsabilité</u></strong></h3>
+
+<h4 style="text-align: justify;">8.1 <u>Avertissement</u></h4>
+
+<p style="text-align: justify;">     Il appartient à l'Utilisateur de faire toutes vérifications qui semblent     nécessaires ou opportunes avant de procéder à une quelconque réservation     dans l'un des restaurants référencés sur le Site TheFork. </p>
+
+<p style="text-align: justify;">     TheFork ne garantit aucunement et de quelque façon que ce soit le     Contenu Restaurateur ou les services et/ou pratiques commerciales des tiers     présents sur le site TheFork. En ce sens, TheFork ne garantit     pas à l'Utilisateur qu'il soit satisfait des produits, services et/ou     pratiques commerciales qu'il a obtenus suite à une réservation par le biais     du Site TheFork. </p>
+
+<p style="text-align: justify;">     TheFork ne garantit aucunement et de quelque façon que ce soit la     teneur, l’objectivité ou l’exactitude du Contenu Utilisateur, et notamment     des avis déposés sur le Site TheFork. </p>
+
+<h4 style="text-align: justify;">     8.2 <u> Modification du Site TheFork</u></h4>
+
+<p style="text-align: justify;">     Toutes les informations contenues sur le Site TheFork sont     susceptibles d'être modifiées à tout moment, compte tenu de l'interactivité     du Site TheFork, sans que cela puisse engager la responsabilité de TheFork. </p>
+
+<h4 style="text-align: justify;">     8.3 <u> Utilisation du Site TheFork</u></h4>
+
+<p style="text-align: justify;">     Compte tenu des spécificités du réseau Internet, TheFork n'offre     aucune garantie d’accès au Site TheFork ou de continuité du service,     n'étant tenue à cet égard que d'une obligation de moyens. </p>
+
+<p style="text-align: justify;">     TheFork décline toute responsabilité en cas de de difficulté d’accès     au Site TheFork ou pour tout dommage ou perte lié à l'utilisation ou     l'impossibilité d'utiliser le Site TheFork ou son contenu, sauf     exception prévue par la loi. </p>
+
+<p style="text-align: justify;">     TheFork ne garantit pas que les informations présentées soient     détaillées, complètes, vérifiées ou exactes. Le Contenu Restaurateur, les     informations, fiches descriptives, et, en général, tout contenu présent sur     le Site TheFork sont fournis en "l'état", sans aucune garantie     expresse ou tacite de quelque sorte que ce soit. </p>
+
+<p style="text-align: justify;">     L'Utilisateur reconnaît expressément que les photos présentes sur le Site TheFork ne soient pas contractuelles. </p>
+
+<p style="text-align: justify;">     De façon générale, l'Utilisateur accepte et reconnaît que la réservation     auprès d’un restaurant ne soit pas garantie. En ce sens, TheFork ne     garantit pas l'effectivité du service de réservation. La disponibilité est     vérifiée en temps réel informatiquement. Toutefois, TheFork ne     pouvant pas matériellement vérifier l'exactitude des renseignements     collectés et/ou donnés par les restaurants, l'Utilisateur accepte que la     responsabilité de TheFork ne puisse être engagée si l'Utilisateur ne     parvient pas à bénéficier des prestations du restaurant. En effet, les     paramétrages du logiciel de réservation en temps réel dépendent pour partie     des informations fournies et/ou enregistrées par le restaurant et peuvent     ne pas correspondre à la réalité. Ainsi, par exemple et de façon non     exhaustive, l'Utilisateur reconnaît et accepte que la responsabilité de TheFork ne soit en aucun cas recherchée en cas d'annulation de     réservation, en cas d'établissement fermé, et ce pour quelque raison que ce     soit, ou encore en cas de refus de prestation, et ce pour quelque raison     que ce soit.     </p>
+
+<p style="text-align: justify;">De même, l'Utilisateur accepte que la responsabilité de TheFork ne     puisse pas être engagée si l'Utilisateur ne parvient pas à bénéficier des     promotions ou offres spéciales proposées par le restaurant. L'Utilisateur     reconnaît et accepte que la responsabilité de TheFork ne soit en     aucun cas recherchée dans le cas où le restaurant n'honorerait pas une     promotion ou une offre spéciale, et ce pour quelque raison que ce soit. </p>
+
+<h4 style="text-align: justify;">     8.4 <u> Garanties de l'Utilisateur</u></h4>
+
+<p style="text-align: justify;">     L'Utilisateur déclare qu'il connaît parfaitement les caractéristiques et     les contraintes de l'Internet. Il reconnaît notamment qu'il est impossible     de garantir que les données que l'Utilisateur aura transmises via Internet     seront entièrement sécurisées. TheFork ne pourra être tenue     responsable des incidents qui pourraient découler de cette transmission. </p>
+
+<p style="text-align: justify;">     L'Utilisateur s'engage à indemniser TheFork à hauteur des coûts que TheFork devrait supporter à la suite de toute réclamation ou     contestation, judiciaire ou extrajudiciaire, liées à l'utilisation des     services de TheFork et notamment le dépôt de Contenu Utilisateur sur     le Site TheFork par l'Utilisateur et garantit TheFork de toute     condamnation à ce titre. </p>
+
+<p style="text-align: justify;">     En tout état de cause, l'Utilisateur reconnaît expressément et accepte     d'utiliser le Site TheFork à ses propres risques et sous sa     responsabilité exclusive. </p>
+
+<h4 style="text-align: justify;">     8.5 <u> Notification et retrait de contenu illicite</u></h4>
+
+<p style="text-align: justify;">     TheFork informe tout Utilisateur qu'il peut notifier une réclamation     ou une objection quant à des éléments ou des contenus du Site TheFork. </p>
+
+<p style="text-align: justify;">     Si l'Utilisateur estime que des éléments ou des contenus du Site     TheFork sont illicites et/ou contrefont des droits d'auteur qu'il     détient, l'Utilisateur doit adresser une notification à TheFork par     Lettre Recommandée avec Accusé de Réception adressée au ‘Service Juridique’ ou par courriel à    <a href="mailto:contact@thefork.fr">contact@thefork.fr</a> avec     la mention « A l’attention du Service Juridique » dans la ligne d’objet et     contenant tous les éléments justificatifs de titularité des droits le cas     échéant. Une fois cette procédure suivie et après vérification de     l'exactitude de la notification, TheFork s'efforcera, dans une mesure     raisonnable et dans les meilleurs délais, de retirer le contenu illicite. </p>
+
+<p style="text-align: justify;">     TheFork agit comme intermédiaire dans le cadre de la fourniture de     ses services à l’Utilisateur. A ce titre, conformément à l’article 6 I.3 de     la loi pour la confiance dans l’économie numérique (LCEN) du 21 juin 2004,     modifiée, TheFork ne saurait voir sa responsabilité pénale engagée à     raison des informations stockées sur le Site TheFork si elle n'avait     pas effectivement connaissance de l'activité ou de l'information illicites     (notamment Contenu Utilisateur et Contenu Restaurateur) ou si, dès le     moment où elle en a eu connaissance, elle a agi promptement pour retirer     ces informations ou en rendre l'accès impossible.</p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h3 style="text-align: justify;"><strong>9. <u>Dispositions diverses</u></strong></h3>
+
+<h4 style="text-align: justify;">9.1 <u>Nullité partielle - Dissociation - Titres</u></h4>
+
+<p style="text-align: justify;">     Dans l'hypothèse où une disposition des présentes conditions générales     serait nulle, illégale, inopposable ou inapplicable d'une manière     quelconque, la validité, la légalité, l’opposabilité ou l'application des     autres dispositions des présentes Conditions d’Utilisation n'en serait     aucunement affectée ou altérée, ces autres dispositions demeurant en     vigueur et conservant leur plein et entier effet. </p>
+
+<p style="text-align: justify;">     TheFork pourra le cas échéant procéder à la rédaction d'une nouvelle     clause ayant pour effet de rétablir la volonté commune des Parties telle     qu'exprimée dans la clause initiale, et ce, dans le respect du droit en     vigueur applicable aux présentes Conditions d’Utilisation.     <br>
+<br>
+                                    Les titres des articles des présentes n'ont qu'une valeur indicative et ne     doivent pas être considérés comme faisant partie intégrante des présentes     Conditions d’Utilisation. </p>
+
+<h4 style="text-align: justify;">     9.2 <u>Absence de renonciation</u></h4>
+
+<p style="text-align: justify;">     Sauf stipulation contraire prévue éventuellement dans les présentes     Conditions d’Utilisation, aucune tolérance, inaction, abstention ou     omission, aucun retard de TheFork pour se prévaloir de l'un     quelconque de ses droits conformément aux termes des présentes, ne portera     atteinte audit droit, ni ne saurait impliquer une renonciation pour     l'avenir à se prévaloir d'un tel droit. Au contraire, ledit droit demeurera     pleinement en vigueur. </p>
+
+<h4 style="text-align: justify;">     9.3 <u>Loi applicable</u></h4>
+
+<p style="text-align: justify;">     Les présentes Conditions d’Utilisation et les relations qui se nouent entre     TheFork et l'Utilisateur sont soumises au droit français. Dans la     mesure permise par la loi, en cas de rédaction des présentes Conditions     d’Utilisation en plusieurs langues ou de traduction, seule la version     française fera foi. </p>
+
+<h4 style="text-align: justify;">     9.4 <u>Compétence juridictionnelle</u></h4>
+
+<p style="text-align: justify;">     Toute contestation et/ou difficulté d'interprétation ou d'exécution des     présentes Conditions d‘Utilisation relèvera des tribunaux compétents de la     ville de Paris. </p>
+
+<p style="text-align: justify;">En application de la directive européenne 2013/11/EU du 21 mai 2013     relative au règlement extrajudiciaire des litiges de consommation,     veuillez-trouver ci-dessous le lien vers la plateforme européenne de     règlement en ligne des litiges de consommation :              <a href="https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.show&amp;lng=FR" rel="nofollow">https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.show&amp;lng=FR</a></p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h2 style="text-align: justify;"><strong>TITRE 2. CONDITIONS PARTICULIERES&nbsp;D’UTILISATION DU PROGRAMME DE FIDELITE</strong></h2>
+
+<p style="text-align: justify;">Les présentes Conditions Particulières d’Utilisation du Programme de     Fidélité viennent compléter le Titre 1 : Conditions Générales     d’Utilisation. En cas de contradiction entre les dispositions du présent     Titre 2. Conditions Particulières d’Utilisation du Programme de Fidélité et     celles du Titre 1. Conditions Générales d’Utilisation, les dispositions du     présent titre 2 Conditions Particulières d’Utilisation du Programme de     Fidélité prévalent.</p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h3 style="text-align: justify;"><strong>1. <u>Description du Programme de Fidélité</u></strong></h3>
+
+<p style="text-align: justify;">     Le programme de fidélité permet à l’Utilisateur de cumuler des points     fidélités (ci-après, les « Yums ») à l’issue d'une réservation sur le     Site TheFork dûment honorée (ci-après, le « Programme de Fidélité »).</p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h3 style="text-align: justify;"><strong>2. <u>Participation au Programme de Fidélité</u></strong></h3>
+
+<p style="text-align: justify;">     Tout Utilisateur titulaire d’un compte sur le Site TheFork est     éligible au Programme de Fidélité. </p>
+
+<p style="text-align: justify;">     La participation au Programme de Fidélité est gratuite et automatique.</p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h3 style="text-align: justify;"><strong>3. <u>Obtention des Yums</u></strong></h3>
+
+<h4 style="text-align: justify;">     3.1 <u>Conditions générales d’obtention des Yums</u></h4>
+
+<p style="text-align: justify;">     Le Programme de Fidélité permet à l’Utilisateur de cumuler des Yums à     l’issue d'une réservation sur le Site de TheFork dûment honorée,     quel que soit le restaurant réservé sur le Site TheFork et que la     réservation ait été faite avec ou sans offre promotionnelle. </p>
+
+<p style="text-align: justify;">Quand une réservation est effectuée sur le Site TheFork et honorée,     l’Utilisateur obtient un nombre de Yums pre-défini (qui peut varier,     notamment en fonction du support de réservation : site web, mobile ou     application) sept jours après la date du repas, quel que soit le nombre de     convives associés à la réservation et quel que soit le pays où la     réservation a été faite. </p>
+
+<p>Il est précisé que dans le cas où ladite réservation a été effectuée avec une Remise Fidélité (telle que définie à l’article 4.1 ci-après) ou a été annulée par l’Utilisateur, ou si l’Utilisateur ne s’est pas rendu au restaurant pour ladite réservation (no-show), l’Utilisateur n’obtient pas de Yums.</p>
+
+<p style="text-align: justify;">La somme des Yums obtenue par l’Utilisateur est stockée et peut être consultée par l’Utilisateur dans la rubrique "Mon espace fidélité" du <a href="https://www.thefork.fr/#user-account" rel="nofollow" target="_blank">compte de l’Utilisateur</a>.</p>
+
+<h4 style="text-align: justify;">     3.2 <u>Conditions particulières d’obtention des Yums</u></h4>
+
+<h5 style="text-align: justify;">     3.2.1 <u>Opérations spéciales avec code fidélité</u></h5>
+
+<p style="text-align: justify;">     TheFork réalise des opérations spéciales à durée limitée pendant     lesquelles l’Utilisateur peut bénéficier de plus de Yums qu’à la normale     (ci-après, l’« Opération spéciale »). </p>
+
+<p style="text-align: justify;">     Lors de chaque Opération spéciale, l’Utilisateur reçoit un email précisant     les conditions d’obtention des Yums. Parmi ces conditions, figure     l’obligation d’indiquer un code fidélité lors de la prochaine réservation     de l’Utilisateur sur le Site TheFork (ci-après, le « Code fidélité »). </p>
+
+<p style="text-align: justify;">La somme des Yums obtenue grâce à l’Opération spéciale est stockée et peut être consultée par l’Utilisateur dans la rubrique "Mon espace fidélité" du <a href="https://www.thefork.fr/#user-account" rel="nofollow" target="_blank">compte de l’Utilisateur</a>.</p>
+
+<p style="text-align: justify;">     A compter de son émission, le Code fidélité a une durée de validité limitée     à la durée de l’Opération spéciale. Le Code fidélité n’a pas de valeur     monétaire et ne peut en aucun cas être prêté, cédé, ni vendu à quiconque ou     utilisé à d’autres fins que celles définies par TheFork dans les     présentes Conditions Particulières d’Utilisation du Programme de Fidélité. </p>
+
+<h5 style="text-align: justify;">     3.2.2 <u>Parrainage avec code parrainage</u></h5>
+
+<p style="text-align: justify;">     TheFork a mis en place un programme de parrainage permettant à la     fois, au parrain et au filleul (un membre de la famille, un ami, un     collègue ou tout autre personne similairement connue du parrain), de     bénéficier d’une somme de Yums supérieure à la normale lors de la première     réservation du filleul sur le Site de TheFork, grâce au code     parrainage renseigné par le filleul lors de cette réservation (ci-après, le     « Code parrainage »). </p>
+
+<p style="text-align: justify;">     Tout Utilisateur ayant un compte avec le Site TheFork peut être un     parrain. </p>
+
+<p style="text-align: justify;">     Toute personne majeure et n’ayant pas effectué de réservation sur le Site     TheFork deux ans avant l’utilisation du Code parrainage peut être un     filleul. </p>
+
+<p style="text-align: justify;">     Un parrain peut avoir plusieurs filleuls. Un filleul ne peut avoir qu’un     parrain. Le parrain ne peut pas se parrainer lui-même. </p>
+
+<p style="text-align: justify;">Pour obtenir son Code parrainage, le parrain se rend dans la rubrique "Mon espace parrainage" de <a href="https://www.thefork.fr/#user-account" rel="nofollow" target="_blank">son compte TheFork</a>.</p>
+
+<p style="text-align: justify;">La somme des Yums obtenue grâce au parrainage est indiquée dans les rubriques "Mon espace parrainage" et "Mon espace fidélité" du <a href="https://www.thefork.fr/#user-account" rel="nofollow" target="_blank">compte de l’Utilisateur</a>.</p>
+
+<p style="text-align: justify;">     A compter de son émission, et sous réserve des autres dispositions des     présentes, le Code parrainage a une durée de validité limitée à la durée du     programme de parrainage. </p>
+
+<p style="text-align: justify;">     Le Code parrainage : a) doit être utilisé légalement par le public auquel     il est destiné et pour les finalités envisagées ; b) n’a pas de valeur     monétaire et ne peut en aucun cas être prêté, cédé (sauf comme permis par     les présentes), ni vendu à quiconque, ni être mis à la disposition du     public en général (qu’ils soit posté sur un forum public, un site de     coupon, ou autrement) ; d) peut être invalidé par TheFork à tout     moment sans qu’une raison ou un préavis soit donné et sans indemnités ; et     e) ne peut seulement être utilisé en conformité avec les présentes     Conditions Particulières d’Utilisation du Programme de Fidélité.</p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h4 style="text-align: justify;"><strong>4. <u>Utilisation des Yums</u></strong></h4>
+
+<h5 style="text-align: justify;">     4.1 <u>Conversion en remise fidélité</u></h5>
+
+<p style="text-align: justify;">     Une fois obtenus, les Yums sont convertibles en réduction de prix sur     l’addition d’un restaurant, partenaire du Programme de Fidélité après     réservation sur le Site TheFork (ci-après, la « Remise Fidélité »). </p>
+
+<p style="text-align: justify;">Le barème des Yums convertibles en Remise Fidélité est disponible dans la rubrique "Mon espace fidélité" du <a href="https://www.thefork.fr/#user-account" rel="nofollow" target="_blank">compte de l’Utilisateur</a>.</p>
+
+<p style="text-align: justify;">     La liste des restaurants partenaires du Programme de Fidélité est     accessible dans l’espace fidélité du compte TheFork de l’Utilisateur.     Les restaurants partenaires sont également identifiables partout sur le     Site TheFork grâce à une mention spécifique. </p>
+
+<p style="text-align: justify;">     Pour convertir ses Yums en Remise Fidélité, L’Utilisateur doit sélectionner un restaurant partenaire du Programme de Fidélité, choisir l'option Remise Fidélité et un créneau où les Remises Fidélité sont acceptées avant de valider sa réservation. </p>
+
+<p style="text-align: justify;">     Ledit restaurant partenaire du Programme de Fidélité a ensuite la charge de     déduire automatiquement et sans autre formalité la Remise Fidélité du     montant de l’addition. </p>
+
+<p style="text-align: justify;">     Si le montant de la remise fidélité est supérieur au montant de l’addition,     la déduction opérée par le restaurant ne peut excéder le montant de     l’addition. En d’autres termes, le restaurant ne peut pas verser à     l’Utilisateur la différence entre le montant de la Remise Fidélité et le     montant de l’addition. </p>
+
+<p style="text-align: justify;">     En cas d’offre promotionnelle cumulable avec la Remise Fidélité, le restaurant     appliquera l’offre promotionnelle avant la déduction de la Remise Fidélité. </p>
+
+<p>Les Yums obtenus par l’Utilisateur sont convertibles en Remise Fidélité pendant leur durée de validité, telle que renseignée sur la page du Programme de Fidélité du Site TheFork. La date d’expiration des Yums peut être consultée dans la rubrique "Mon espace fidélité" du <a href="https://www.thefork.fr/#user-account" rel="nofollow" target="_blank">compte de l’Utilisateur</a>.</p>
+
+<p style="text-align: justify;">     Les Yums sont strictement personnels, n’ont pas de valeur monétaire et ne     peuvent en aucun cas être prêtés, cédés, ni vendus à quiconque ou utilisés     à d’autres fins que celles définies par TheFork dans les présentes     Conditions Particulières d’Utilisation du Programme de Fidélité. </p>
+
+<h5 style="text-align: justify;">     4.2 <u>Annulation / no-show</u></h5>
+
+<p style="text-align: justify;">     Si l’Utilisateur a réservé avec une Remise Fidélité et annule cette     réservation, ou si le restaurant annule la réservation, les Yums utilisés     pour la conversion en Remise Fidélité lors de la réservation seront     recrédités sur le compte de l’Utilisateur et pourront être utilisés pour     une nouvelle réservation. </p>
+
+<p style="text-align: justify;">     Si l’Utilisateur ne se présente pas au restaurant (no-show), la Remise     Fidélité et les Yums ainsi convertis sont perdus et ne seront pas     recrédités sur le compte de l’Utilisateur. </p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h4 style="text-align: justify;"><strong>5. <u>Retrait des Yums</u></strong></h4>
+
+<p style="text-align: justify;">     TheFork se réserve le droit de ne pas attribuer ou de supprimer les     Yums obtenus à travers l’utilisation d’un Code Fidélité ou Code Parrainage     par tout Utilisateur au cas où TheFork jugerait ou estimerait que     l’utilisation du Code Fidélité ou Code Parrainage s’est fait de façon     frauduleuse, illégale, erronée ou contraire aux conditions applicables à     l’Opération spéciale ou aux présentes Conditions Particulières     d’Utilisation du Programme de Fidélité. </p>
+
+<p style="text-align: justify;">     En outre, tout manquement par l’Utilisateur aux présentes Conditions     d’Utilisation (y compris le fait de ne pas honorer plusieurs réservations),     toute utilisation abusive ou frauduleuse du Site TheFork et/ou des     Yums, tout comportement préjudiciable aux intérêts de TheFork peut     entrainer de plein droit la désactivation du compte de l’Utilisateur et/ou     la suppression immédiate de tout ou partie des Yums stockés dans l’espace     fidélité du compte TheFork de l’Utilisateur, et ce, sans préavis ni     indemnité. </p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h4 style="text-align: justify;"><strong>6. <u>Modification/Suspension/clôture du Programme de Fidélité</u></strong></h4>
+
+<p style="text-align: justify;">     TheFork se réserve à tout moment le droit de modifier, suspendre, ou     supprimer le Programme de Fidélité à tout moment sans que sa responsabilité     ne puisse être engagée à quelque titre que ce soit. Dans ce cas, TheFork en informera les Utilisateurs par email et/ou par affichage sur     la Site TheFork en indiquant les nouvelles modalités du Programme de     Fidélité et/ou les conditions de clôture du Programme de Fidélité. </p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h4 style="text-align: justify;"><strong>7. <u>Limitation de Responsabilité</u></strong></h4>
+
+<p style="text-align: justify;">     Dans le cadre du Programme de Fidélité, la responsabilité de TheFork     se limite à une obligation de moyens et se limite à l’opération     d’attribution des Yums aux Utilisateurs. Ainsi, la responsabilité de TheFork ne saurait être engagée pour toute réclamation portant sur les     Yums après que ceux-ci aient été dûment attribués par TheFork à     l’Utilisateur. Plus particulièrement, la responsabilité de TheFork ne     saurait être engagée après que les Yums aient été convertis en Remise     Fidélité par L’Utilisateur. </p>
+
+<p style="text-align: justify;">     A ce titre, TheFork décline toute responsabilité en cas de non     application de la Remise Fidélité par le restaurant à l’Utilisateur. </p>
+
+<p style="text-align: justify;">     En tout état de cause, TheFork décline toute responsabilité dans le     cadre du Programme de Fidélité en cas de manquement contractuel et/ou faute     de l’Utilisateur.</p>
+
+<p style="text-align: justify;"><br>
+</p>
+
+<h1 id="PolitiqueDeConfidentialite" style="text-align: justify;"><strong>C. DÉCLARATION RELATIVE À LA CONFIDENTIALITÉ ET AUX  COOKIES</strong></h1>
+
+<p style="text-align: center;"><strong>Dernière mise à jour : 3 juin&nbsp;2021</strong></p>
+
+<p>Nous savons que le partage  de vos informations personnelles avec nous est basé sur la confiance. Nous  prenons cette question très au sérieux et nous nous engageons à respecter votre  vie privée lorsque vous consultez notre site Web ou utilisez nos services.  Veuillez examiner la Déclaration suivante avec attention pour en  savoir plus sur nos pratiques en matière de confidentialité.</p>
+
+<p>Nous  exploitons un service en ligne qui permet aux utilisateurs (« vous »,  « votre ») de choisir et réserver une table dans un restaurant,  voire, selon le lieu, de régler leur repas. Dans la présente Déclaration, les  options susmentionnées sont désignées collectivement comme nos Services. </p>
+
+<p>Nos Services sont détenus exploités par La Fourchette SAS, qui  agit en qualité de responsable du traitement des données et de propriétaire. En  consultant nos sites Web et nos applications connexes, que ce soit sur un  ordinateur, un téléphone, une tablette ou un appareil similaire (tous désignés  sous le nom d'«Appareil »), vous acceptez les pratiques décrites  ci-dessous.</p>
+
+<p>En tant qu'entreprise internationale,  nous exerçons nos activités dans un certain nombre de pays et de territoires où  les lois et les coutumes diffèrent. La présente Déclaration donne un aperçu  général de nos pratiques en matière de confidentialité ; vous pouvez  consulter certaines informations spécifiques à votre pays en sélectionnant  votre lieu de résidence dans les liens de juridiction au bas de ce document.</p>
+
+<h3><strong>Collecte de  données</strong></h3>
+
+<p>Lorsque vous accédez ou utilisez nos Services, nous  collectons des données vous concernant afin de vous offrir une expérience plus  personnalisée et pertinente. Certaines données sont collectées automatiquement.  D'autres données sont collectées de différentes sources, y compris des entités  affiliées, des partenaires commerciaux et d'autres sources tierces  indépendantes. Lorsque vous utilisez nos Services en cliquant sur un lien  figurant sur un site tiers ou lorsque vous consultez des sites tiers via nos Services,  ces sites tiers peuvent partager avec nous des données sur votre utilisation de  leur service. Les données collectées peuvent comprendre les éléments  suivants: </p>
 
 <ul>
-  <li>kontaktuppgifter, inklusive namn, telefonnummer och post- och  e-postadresser</li>
+  <li>Coordonnées, y compris nom,  numéro de téléphone et adresses postale et électronique</li>
 
-  <li>fakturerings- eller betalningsinformation (som ditt kreditkortsnummer,  kortinnehavarens namn, utgångsdatum, verifieringskod och faktureringsadress)  via vårt partnerskap med en betrodd betaltjänstleverantör</li>
+  <li>Informations de facturation ou  de paiement (telles que le numéro de votre carte bancaire, le nom du titulaire  de la carte, la date d'expiration, le code d'authentification et l'adresse de  facturation), collectées par le biais de notre partenariat avec un prestataire&nbsp; de services de paiement de confiance</li>
 
-  <li>användarnamn och lösenord</li>
+  <li>Nom d'utilisateur et mot de  passe</li>
 
-  <li>foton, omdömen och inlägg i sociala medier som du kan ha tillhandahållit  oss</li>
+  <li>Photos, avis et messages sur  les réseaux sociaux que vous nous avez peut-être fournis</li>
 
-  <li>platsinformation</li>
+  <li>Données  relatives à la géolocalisation</li>
 
-  <li>enhetsinformation, till exempel när du har besökt våra Tjänster och  information om den Enhet som används (t.ex. IP-adress, programvara eller  webbläsare som används, föredragna språk, unika enhetsidentifierare och  reklamidentifierare)</li>
+  <li>Données relatives à  l'appareil, telles que l'heure à laquelle vous avez accédé à nos Services et  des informations sur l'Appareil utilisé (par exemple, adresse IP, logiciel ou  navigateur Internet utilisé, langues préférées, identificateurs uniques  d'appareils et identificateurs publicitaires)</li>
 
-  <li>onlineaktivitet,  inklusive sidor som du har besökt, granskat innehåll och granskade  applikationer</li>
+  <li>Activité en ligne, y compris les pages que  vous avez consultées, le contenu et les applications examinés</li>
 
-  <li>historik för restaurangbokningar</li>
+  <li>Historique  des&nbsp; reservations auprès de restaurants</li>
 
-  <li>information om dina restaurangbokningar och  restaurangpreferenser.</li>
+  <li>Informations  sur&nbsp; vos réservations dans les  restaurants et vos préférences</li>
 </ul>
 
-<p>Vi kan, då du tillhandahåller detta, även samla in information om andra  matgäster, inklusive deras e-postadress och annan bokningsinformation, så som  deras förnamn och efternamn. Om du delar information med oss om andra personer  måste du erhålla deras samtycke.&nbsp;Du måste erhålla samtycke från samtliga andra personer om du tillhandahåller deras data till oss. </p>
+<p>Si vous nous les avez fournies, nous pouvons également collecter  des informations sur d'autres clients vous ayant accompagnés, y compris leur  adresse électronique et d'autres données fournies lors des réservations,  notamment leur prénom et leur nom de famille. Si vous partagez avec nous des  informations sur d'autres personnes, vous devez obtenir leur consentement.&nbsp;Vous devez obtenir le consentement de toute autre personne sur laquelle vous nous communiquez des informations.  </p>
 
-<p>Utöver  de kategorier som anges ovan kan vi även samla in platsinformation om du har  angett att din Enhet ska skicka sådan information via sekretessinställningarna  på Enheten eller om du till exempel har laddat upp foton som har taggats med  platsinformation. Vi kan använda din platsinformation direkt och/eller dela din  plats med tredjeparter. Vi samlar in och delar platsinformation för att ge dig  relevant innehåll, för att analysera din användning av våra Tjänster, för att  förbättra våra Tjänster och för att tillhandahålla rekommendationer. Vi kan  till exempel använda din plats för att visa dig restauranger i närheten. </p>
+<p>Outre  les catégories susmentionnées, nous pouvons également collecter certaines  informations concernant votre localisation si votre Appareil a été configuré  pour envoyer ce type d'informations via ses paramètres de confidentialité ou,  par exemple, si vous avez chargé des photos contenant des informations de  géolocalisation. Nous pouvons utiliser les informations concernant votre  localisation directement et/ou partager votre localisation avec des tiers. Nous  recueillons et partageons vos informations de localisation afin de vous fournir  un contenu pertinent, d'analyser votre utilisation de nos Services, de les  améliorer et de fournir des recommandations. Nous pouvons par exemple utiliser  votre localisation pour vous montrer des avis sur des restaurants proches de  vous. </p>
 
-<p>Du kan  när som helst ändra sekretessinställningarna på Enheten för att stänga av  funktionen att samla in och dela med dig av platsinformation och/eller  funktionen att tagga dina bilder med platsinformation. Om du stänger av  platsdelning kan det dock påverka vissa funktioner som vi erbjuder. Om du har  frågor om sekretessinställningarna på din Enhet föreslår vi att du kontaktar  Enhetens tillverkare eller din mobilleverantör för hjälp.</p>
+<p>Vous  pouvez modifier les paramètres de confidentialité de votre Appareil à tout  moment et désactiver la fonctionnalité qui collecte et partage des informations  sur votre localisation et/ou la fonctionnalité de géolocalisation de vos  photos. Toutefois, la désactivation du partage de lieux peut affecter certaines  fonctionnalités que nous proposons. Pour obtenir de l'aide concernant les  paramètres de confidentialité de votre Appareil, nous vous invitons à contacter  le fabricant de votre Appareil ou votre fournisseur de service mobile.</p>
 
-<p>Se  avsnittet <a href="#cookies">Cookies</a> nedan  för mer information om användningen av cookies och annan teknik som beskrivs i  detta avsnitt, inklusive dina val i samband med sådan teknik.</p>
+<p>Veuillez  consulter la section sur les <a href="#cookies">cookies</a> ci-dessous pour plus d'informations  concernant l'utilisation des cookies et des autres technologies qui y sont  décrites, y compris concernant vos choix relatifs à ces technologies.</p>
 
-<h3><strong>Användning  av information</strong></h3>
+<h3><strong>Utilisation des  informations</strong></h3>
 
-<p>Vi  strävar efter att förse dig med relevant innehåll i våra Tjänster och  respektera datasekretesslagarna i de olika jurisdiktioner där vi verkar. Vi  använder information om dig så att vi kan hjälpa dig att utnyttja och använda  våra Tjänster, inklusive på följande sätt: </p>
+<p>Nous nous engageons à vous fournir un contenu pertinent  sur nos Services et à respecter les lois relatives à la confidentialité des  données des différentes juridictions dans lesquelles nous exerçons nos  activités. Nous utilisons les informations vous concernant afin de vous aider à  profiter et à utiliser nos Services, notamment des manières  suivantes : </p>
 
 <ul>
-  <li>registrera dig och hantera ditt konto, däribland för att du ska kunna få  åtkomst till och använda våra tjänster</li>
+  <li>Pour votre inscription et  gérer votre compte, y compris pour vous permettre d'accéder à nos Services et  de les utiliser.</li>
 
-  <li>underlätta dina restaurangbokningar</li>
+  <li>Pour faciliter vos  réservations auprès des restaurants</li>
 
-  <li>mäta intresse för och förbättra våra Tjänster</li>
+  <li>Pour mesurer l'intérêt pour  nos Services et les améliorer</li>
 
-  <li>meddela dig om specialerbjudanden och tjänster som är tillgängliga från  oss, våra dotterbolag, våra partner eller restauranger som kan vara av intresse  för dig</li>
+  <li>Pour vous informer sur les  offres spéciales et les services disponibles chez nous ou auprès de nos  sociétés affiliées, nos partenaires ou des restaurants qui pourraient vous intéresser</li>
 
-  <li>driva och hantera bonusprogrammet</li>
+  <li>Pour gérer et mener à bien le  programme de fidélité</li>
 
-  <li>kommunicera med dig</li>
+  <li>Pour  communiquer avec vous</li>
 
-  <li>göra det möjligt för oss att publicera dina omdömen, betyg, foruminlägg,  foton och annat innehåll</li>
+  <li>Pour nous permettre de publier  vos avis, évaluations, messages sur les forums, photos et autres contenus</li>
 
-  <li>organisera utlottningar, tävlingar eller enkäter</li>
+  <li>Pour organiser des tirages au  sort, des concours ou des enquêtes</li>
 
-  <li>anpassa din upplevelse, däribland anpassa de annonser som visas för dig på  våra Tjänster och via internet</li>
+  <li>Pour personnaliser votre  expérience, y compris en personnalisant les publicités qui vous sont présentées  sur nos Services et sur Internet</li>
 
-  <li>dra slutsatser om dina intressen eller preferenser</li>
+  <li>Pour faire des suppositions  sur vos intérêts ou préférences</li>
 
-  <li>ge dig en optimerad upplevelse och gruppera användare av våra Tjänster  baserat på till exempel användning och demografi </li>
+  <li>Pour vous fournir une  expérience optimisée et regrouper les utilisateurs de nos Services en fonction,  par exemple, de l'utilisation et des données démographiques </li>
 
-  <li>skicka inbjudningar till enkäter eller marknadsundersökningar</li>
+  <li>Pour vous envoyer des  invitations à participer à des sondages ou des études de marché</li>
 
-  <li>svara på dina frågor och kommentarer</li>
+  <li>Pour répondre à vos questions  et commentaires</li>
 
-  <li>lösa tvister eller felsöka problem</li>
+  <li>Pour résoudre des conflits ou  problèmes</li>
 
-  <li>förhindra potentiellt förbjudna eller olagliga aktiviteter</li>
+  <li>Pour empêcher toute activité  potentiellement interdite ou illicite</li>
 
-  <li>genomdriva våra villkor för användning och   tillkännagivanden; och annat som beskrivs för dig vid tidpunkten för  insamlingen.</li>
+  <li>Pour appliquer nos conditions d'utilisation et   avis ; et comme décrit par ailleurs lors du  recueil des informations</li>
 </ul>
 
-<p>Observera  att viss information om dig krävs för att vi ska kunna tillhandahålla relevanta  erbjudanden från oss, våra dotterbolag, våra partner och restauranger för att  du ska kunna dra nytta av andra fördelar med att vara en registrerad användare.  Läs avsnittet ”Informationsalternativ” nedan för information om dina val i  samband med insamling och användning av dina uppgifter.</p>
+<p>Veuillez noter que certaines informations vous concernant sont  nécessaires pour que nous puissions vous proposer des offres pertinentes de  notre part, de la part de nos sociétés affiliées, de nos partenaires et de  restaurants et pour vous permettre de profiter d'autres avantages en tant  qu'utilisateur inscrit. Veuillez prendre connaissance de la section  « Choix des informations » ci-dessous en ce qui concerne vos choix  relatifs à la collecte et à l'utilisation de vos données.</p>
 
-<h3><strong>Informationsdelning</strong></h3>
+<h3><strong>Partage des informations</strong></h3>
 
-<p>För  att kunna tillhandahålla vissa av våra Tjänster kan vi behöva dela information  med vissa andra tredjeparter, däribland vår företagsgrupp, under följande  omständigheter: </p>
+<p>Afin de fournir certains de nos Services, nous pouvons  être amenés à partager des informations avec d'autres tiers, y compris notre  groupe de sociétés, dans les circonstances suivantes : </p>
 
 <ul>
-  <li><u>Vår företagsgrupp</u>. Vi delar  information med företag i vår företagsfamilj så att vi kan ge dig information  om produkter och tjänster, både restaurangrelaterade och andra, som kan  intressera dig. <a href="#thefork-webbplatser-och-foretag">Dessa företag och webbplatser</a>  följer denna Policy och alla tillämpliga lagar som reglerar överföringen av  reklammeddelanden.</li>
+  <li><u>Notre groupe de sociétés</u>.  Nous partageons des informations avec des entreprises au sein de notre famille  de sociétés afin de pouvoir vous proposer des informations relatives à des  produits et services (en matière de restaurants et autre) susceptibles de vous  intéresser. <a href="#les-sites-web-et-entreprises-lafourchette">Ces sociétés et sites Web</a> se  conformeront à la présente Déclaration et à toutes les lois applicables  régissant la transmission de communications promotionnelles.</li>
 
-  <li><u>Restauranger</u>. Vi delar din information med våra  partnerrestauranger för att ge dem möjlighet att genomföra och hantera dina  restaurangbokningar och för att sköta klagomål eller tvister i samband med dem.  När du gör en bokning kan du få möjlighet att välja att ta emot  marknadsföringsmeddelanden från den berörda restaurangen. Om du samtycker till  att ta emot marknadsföringsmeddelanden från restaurangen ansvarar restaurangen  för all behandling av den information vi förmedlar till den.</li>
+  <li><u>Restaurants</u>.  Nous partageons vos informations avec nos restaurants partenaires afin de leur  permettre de traiter et gérer vos réservations ainsi que de gérer les plaintes  ou conflits les concernant. Lors de vos réservations, vous aurez peut-être la  possibilité de choisir de recevoir des communications marketing de la part des  restaurants concernés. Si vous acceptez de recevoir ces communications, le  restaurant dont elles émanent est responsable de l'ensemble  du traitement des informations que nous lui communiquons. </li>
 
-  <li><u>Leverantörer</u>. Vi delar information med vissa  leverantörer som används för att underlätta våra Tjänster, däribland för att  hjälpa till med transaktioner, som eventuella bokningar du gör. </li>
+  <li><u>Fournisseurs</u>.  Nous partageons des informations avec certains fournisseurs avec lesquels nous  travaillons pour faciliter la prestation de nos Services, y compris pour  faciliter les transactions, telles que les réservations que vous pourriez  effectuer. </li>
 
-  <li><u>Affärspartner</u>. Vi kan dela information om dig,  dina Enheter och din användning av våra Tjänster med våra betrodda  affärspartner. Vi kan till exempel dela information så att vi kan förse dig med  relevant innehåll eller för att underlätta betalning för din måltid på en  restaurang. Denna delning sker vanligtvis i enlighet med skriftliga avtal som  omfattar skyldigheter gällande konfidentialitet, sekretess och säkerhet.  Observera dock att vi inte kontrollerar sekretessrutinerna för dessa affärspartner  från tredje part.</li>
+  <li><u>Partenaires commerciaux</u>.  Nous pouvons partager des informations vous concernant, concernant vos  Appareils et votre utilisation de nos Services avec nos partenaires commerciaux  de confiance. Nous pouvons par exemple être amenés à partager des informations  afin de vous fournir un contenu pertinent ou de faciliter le paiement de vos  repas.   Ce partage se fait généralement en vertu de contrats écrits qui comprennent des  obligations en matière de confidentialité, de protection de la vie privée et de  sécurité ; toutefois, veuillez noter que nous ne contrôlons pas les  pratiques en matière de protection de la vie privée de ces partenaires  commerciaux tiers.</li>
 
-  <li><u>Webbplatser för sociala medier</u>. När du använder  våra Tjänster och väljer att dela information med webbplatser för sociala  medier från tredje part styrs den information du delar av sekretesspolicyerna  för dessa sociala medier-webbplatser och de sekretessinställningar som du har  angett för de sociala medier-webbplatserna. </li>
+  <li><u>Sites de réseaux sociaux</u>.  Lorsque vous utilisez nos Services et choisissez de partager des informations  avec des sites de réseaux sociaux tiers, les informations que vous partagez  sont régies par les politiques de confidentialité de ces sites de réseaux  sociaux et les paramètres de confidentialité que vous avez définis avec lesdits  sites. </li>
 
-  <li><u>Annonsnätverk</u>. Vi samlar ibland in och delar  information om dina intressen med annonsnätverk. Vissa av företagen är  medlemmar i <a href="https://www.networkadvertising.org/">Network Advertising Initiative</a> eller  <a href="http://optout.aboutads.info/">Digital Advertising Alliance</a> som  erbjuder en plats där du kan välja bort riktade annonser från medlemsföretag.  Klicka <a href="http://optout.networkadvertising.org/?c=1">här</a> för att ta reda  på mer. </li>
+  <li><u>Réseaux publicitaires</u>.  Nous recueillons et partageons parfois des informations sur vos centres  d'intérêt avec des réseaux publicitaires. Certaines de ces sociétés sont  membres de la <a href="https://www.networkadvertising.org/">Network Advertising Initiative</a> ou  de la <a href="http://optout.aboutads.info/">Digital Advertising Alliance</a>,  qui vous permettent, depuis un emplacement unique, de vous désinscrire des  annonces ciblées des sociétés membres. Pour en savoir plus, cliquez <a href="http://optout.networkadvertising.org/?c=1">ici</a>. </li>
 
-  <li><u>Andra tredjeparter, t.ex. hänvisande webbplatser</u>.  Tredjeparter kan också hjälpa oss att samla in information genom till exempel  driftsfunktioner på vår webbplats eller underlätta leveransen av  onlineannonsering som skräddarsys efter dina intressen. Vi kan dela  målgruppssegment och annan information med tredjeparter som använder den  informationen för skräddarsydd annonsering till dig.</li>
+  <li><u>Autres tiers, tels que des sites Web de renvoi</u>.  Des tiers peuvent également nous aider à recueillir des informations, notamment  pour permettre l'exécution des fonctionnalités de notre site Web ou vous  proposer des annonces en ligne ciblées sur vos intérêts. Nous pouvons partager  des segments d'audience et d'autres informations avec des tiers qui utilisent  ces informations pour vous envoyer des publicités ciblées.</li>
 </ul>
 
-<p>Tredjeparter får endast samla in eller komma åt  information efter behov för att kunna utföra sina tillåtna funktioner.</p>
+<p>Ces tiers ne peuvent recueillir ou accéder aux informations que  dans la mesure nécessaire à l'exécution des fonctionnalités autorisées.</p>
 
-<p>Vissa  versioner av Enheters operativsystem ger dig möjlighet att välja bort vissa  typer av informationsdelning, däribland till vissa annonsnätverk. Kontrollera  dina Enhetsinställningar om du vill begränsa sådan spårning.</p>
+<p>Certaines versions du système  d'exploitation de l'Appareil vous permettent de refuser le partage de certains  types d'informations, y compris vers certains réseaux publicitaires. Veuillez  vérifier les paramètres de votre Appareil si vous souhaitez limiter ce type de  suivi.</p>
 
-<h3><strong>Informationsalternativ</strong></h3>
+<h3><strong>Choix des informations</strong></h3>
 
-<p>Du har  valmöjligheter avseende insamlingen och användningen av dina uppgifter. Du kan  komma åt, uppdatera och till och med stänga ner ditt konto genom att besöka  sidan <a href="https://www.thefork.se/#user-account" rel="nofollow">”Min personliga</a><u> information”</u> på vår webbplats. </p>
+<p>Plusieurs options s'offrent  à vous s'agissant du recueil et de l'utilisation de vos informations. Vous  pouvez accéder à votre compte, le mettre à jour et même le fermer via la page <u><a href="https://www.lafourchette.com/#user-account" rel="nofollow">« Mes informations personnelles »</a></u> sur  notre site Web </p>
 
-<p>Dina  alternativ: </p>
+<p>Vos options : </p>
 
 <ul>
-  <li>Du kan välja hur vi ska kommunicera  med dig. Du kan välja att inte uppge viss information för oss, även om det kan  krävas för att dra nytta av vissa funktioner som erbjuds på våra webbplatser. </li>
+  <li>Vous pouvez choisir la façon dont nous communiquerons avec vous.  Vous pouvez choisir de ne pas nous communiquer certaines informations, bien que  ces dernières puissent être nécessaires pour bénéficier de certaines fonctions  proposées sur les sites Web. </li>
 
-  <li>Du kan förhindra insamling av  geografisk information, men observera att om du stänger av platsdelning kan det  påverka vissa funktioner i våra Tjänster. </li>
+  <li>Vous pouvez empêcher la collecte de vos informations de  géolocalisation, mais notez que la désactivation du partage de localisation  peut affecter certaines fonctionnalités de nos Services. </li>
 
-  <li>Du kan också lägga till eller  uppdatera information och avsluta ditt konto. Om du väljer att avsluta ditt  konto inaktiverar vi ditt konto och tar bort dina profiluppgifter från aktiv  visning. Vi kan behålla viss information kopplad till ditt konto (däribland  tidigare bokningar) för interna syften, inklusive säkerhetskopiering,  bedrägeriförebyggande, tvistlösning, utredningar och juridisk efterlevnad under  den period som krävs för att uppfylla de syften som beskrivs i denna Policy. </li>
+  <li>Vous pouvez ajouter ou mettre à jour vos informations et fermer  votre compte. Si vous fermez votre compte, nous le désactiverons et  supprimerons les informations de votre profil de la vue active. Nous pouvons  conserver certaines informations associées à votre compte (y compris les  réservations passées) à des fins internes, y compris les sauvegardes, la  prévention de la fraude, le règlement des différends, les enquêtes et la  conformité juridique, pendant la période nécessaire pour atteindre les  objectifs énoncés dans la présente Déclaration. </li>
 
-  <li>Som registrerad  användare kan du när som helst ändra dina marknadsföringsprenumerationer,  däribland prenumerationsalternativen för e-post, i dina kontoinställningar. Du  får även möjlighet att <u><a href="https://www.thefork.se/#user-account" rel="nofollow">avregistrera dig</a></u>  från marknadsföringsmeddelanden i e-postmeddelanden vi skickar. </li>
+  <li>En  tant qu‘utilisateur inscrit, vous pouvez modifier vos abonnements marketing, y  compris vos choix d'abonnement par e-mail à tout moment dans vos paramètres de  compte. Vous pourrez également choisir de <u><a href="https://www.lafourchette.com/#user-account" rel="nofollow">ne  plus recevoir</a></u> de messages promotionnels,&nbsp; par le biais de chaque e-mail que nous  envoyons. </li>
 </ul>
 
-<h3><strong>Informationsöverföringar</strong></h3>
+<h3><strong>Transferts d'informations</strong></h3>
 
-<p>Vi är ett globalt  företag och verkar inom många olika jurisdiktioner. Om vi överför dina  uppgifter till andra länder kommer vi att använda och skydda den informationen  enligt beskrivningen i denna Policy och i enlighet med gällande lag. </p>
+<p>Nous sommes une entreprise mondiale et  nous exerçons nos activités dans de nombreuses juridictions. Si nous  transférons vos informations à d'autres pays, nous utiliserons et protégerons  ces informations conformément aux dispositions décrites dans la présente  Déclaration et au droit applicable. </p>
 
-<h3><strong>Informationssäkerhet</strong></h3>
+<h3><strong>Sécurité des informations</strong></h3>
 
-<p>Vi har  implementerat lämpliga administrativa, tekniska och fysiska säkerhetsrutiner  för att skydda din information. </p>
+<p>Nous avons mis en place des procédures de sécurité  administrative, technique et physique appropriées pour nous aider à protéger  vos informations. </p>
 
-<p>Vi tillåter endast att specifika anställda får tillgång  till personuppgifter och de får endast göra detta i syfte att utföra tillåtna  affärsfunktioner. Vi använder kryptering vid överföring av din information  mellan ditt system och våra, och mellan våra system och de som tillhör de  parter som vi delar information med. Vi använder även brandväggar och system  för intrångsdetektering som ska bidra till att förhindra obehörig åtkomst till  din information. Vi kan dock inte garantera informationssäkerheten från obehörigt  intrång eller obehörig användning, maskinvaru- eller programvarufel eller andra  omständigheter utanför vår kontroll.</p>
+<p>Seuls certains de nos employés sont autorisés à accéder aux  données personnelles, et ils ne peuvent le faire qu'à des fins professionnelles  légitimes. Nous avons recours au chiffrement lors de la transmission de vos  données personnelles entre votre système et le nôtre et entre notre système et  celui des parties avec lesquelles nous partageons des informations. Nous  utilisons également des pare-feu et des systèmes de détection des intrusions  afin d'empêcher toute personne non autorisée d'accéder à vos informations. Toutefois, nous ne pouvons  garantir la sécurité des informations en cas d'accès ou d'utilisation non  autorisée, de pannes matérielles ou logicielles, ou d'autres circonstances  indépendantes de notre volonté.</p>
 
-<h3><strong>Kvarhållande  av information</strong></h3>
+<h3><strong>Conservation des  informations</strong></h3>
 
-<p>Vi behåller kopior  av din information så länge du behåller ditt konto eller så länge det krävs i  samband med de syften som anges i denna Policy, såvida inte tillämplig lag  kräver en längre kvarhållningsperiod. Dessutom kan vi behålla din information  under den tid som krävs för att upprätta, utöva eller försvara juridiska  rättigheter.</p>
+<p>Nous conserverons des copies de vos  données personnelles tant que votre compte restera ouvert ou aussi longtemps  que nécessaire dans le cadre des fins énoncées dans la présente Déclaration, à  moins que le droit applicable n'exige une période de conservation plus longue.  De plus, nous pouvons être amenés à conserver vos informations pendant toute la  durée de la période nécessaire pour faire valoir ou exercer nos droits ou nous  défendre contre toute action en justice.</p>
 
-<h3><strong>Do Not  Track-signaler</strong></h3>
+<h3><strong>Signaux d'anti-pistage</strong></h3>
 
-<p>Vår  webbplats är inte avsedd att svara på signalbegäranden om ”Do Not Track”  (”DNT”) från webbläsare. Detta beror på bristen på global, standardiserad  tolkning som definierar ”Do Not Track”-signaler. När branschen har fastställt  standarder som rör det här problemet kan vi ompröva denna metod.</p>
+<p>Notre site Web&nbsp;n'est pas conçu  pour répondre actuellement aux demandes de signaux anti-pistage (« Do Not  Track » – DNT) provenant des navigateurs. Ceci est dû à l'absence  d'interprétation standardisée au niveau mondial qui définit les signaux DNT.  Une fois que le secteur aura fixé des normes concernant cette question, nous  pourrons réévaluer cette approche.</p>
 
 <h3 id="cookies"><strong>Cookies</strong></h3>
 
-<p>Vi vill att din  åtkomst till våra Tjänster ska vara så enkel, effektiv och användbar som  möjligt. Som hjälp med detta använder vi cookies och liknande tekniker för att  förbättra din upplevelse, för att förbättra webbplatsens säkerhet och för att  visa dig relevant reklam.</p>
+<p>Nous voulons que votre accès à nos  Services soit aussi facile, efficace et utile que possible. Pour ce faire, nous  utilisons des cookies et des technologies similaires pour enrichir votre  expérience, améliorer votre sécurité sur le site Web et vous présenter des  publicités pertinentes.</p>
 
-<p>Vad är  cookies?</p>
+<p>Les cookies, c'est quoi ?</p>
 
-<p>Cookies är små  textfiler som automatiskt sparas på din Enhet när du besöker en webbplats. De  lagras av din webbläsare och innehåller grundläggande information om din  internetanvändning. Din webbläsare skickar tillbaka dessa cookies till en  webbplats varje gång du besöker den på nytt, så att den kan känna igen din  Enhet och förbättra din upplevelse genom att bland annat tillhandahålla  personligt innehåll. Vi använder även cookies för att komma ihåg dina  inloggningsuppgifter, så att du inte behöver ange dem på nytt upprepade gånger  när du använder våra Tjänster. Andra cookies hjälper oss att förstå dina  preferenser. </p>
+<p>Les  cookies sont de petits fichiers texte qui sont copiés automatiquement sur votre  Appareil lorsque vous consultez n'importe quel site Web. Ils sont stockés par votre  navigateur et contiennent des informations de base sur votre utilisation  d'Internet. Votre navigateur renvoie ces cookies à un site Web chaque fois que  vous le consultez, afin que votre Appareil soit reconnu et que votre expérience  soit améliorée, entre autres, en vous proposant un contenu personnalisé. Nous  utilisons également des cookies pour mémoriser vos informations de connexion,  afin que vous n'ayez pas à les ressaisir à chaque utilisation de nos Services.  D'autres cookies nous aident à comprendre vos préférences. </p>
 
-<p>De  cookies vi använder faller in under tre olika kategorier. </p>
+<p>Les cookies que nous utilisons sont répartis en trois  catégories. </p>
 
 <table width="0" cellspacing="0" cellpadding="0" border="1">
   <tbody>
     <tr>
-      <td width="137" valign="top">
-        <p><strong>Kategori</strong></p>
+      <td width="141" valign="top">
+        <p><strong>Catégorie</strong></p>
       </td>
 
-      <td width="429" valign="top">
-        <p>Exempel<br>
+      <td width="460" valign="top">
+        <p>Exemple<br>
 <br>
 <!--[if !supportLineBreakNewLine]--></p>
       </td>
     </tr>
 
     <tr>
-      <td width="137" valign="top">
-        <p>Nödvändiga </p>
+      <td width="141" valign="top">
+        <p>Cookies de base </p>
       </td>
 
-      <td width="429" valign="top">
-        <p>Dessa cookies är    nödvändiga för att du ska få tillgång till och kunna navigera på webbplatsen    samt använda alla dess funktioner. Utan dessa cookies skulle inte webbplatsen    fungera ordentligt och du skulle inte kunna använda vissa viktiga funktioner.    Vi använder till exempel en cookie för att hålla dig inloggad så att du inte    behöver logga in varje gång du går till en ny sida på webbplatsen. Vi kan    också använda nödvändiga cookies för att upptäcka och förebygga bedrägeri.</p>
-               Du kan inte    stänga av nödvändiga cookies via verktyget för godkännande av cookies,    eftersom dessa cookies krävs för att du ska kunna komma åt och använda    webbplatsens funktioner.<br>
+      <td width="460" valign="top">
+        <p>Ces    cookies sont nécessaires pour vous permettre d'accéder au site Web, de le    parcourir et d'utiliser l'ensemble de ses fonctionnalités. Sans eux, le site Web&nbsp;   risque de ne pas fonctionner correctement et de vous empêcher d'utiliser    certaines de ses fonctionnalités les plus importantes. Par exemple, nous    utilisons un cookie qui maintient votre connexion tout au long de votre    visite, afin de vous éviter d'avoir à indiquer systématiquement vos    identifiants dès que vous accédez à une nouvelle page. Nous pouvons également    utiliser des cookies de base à des fins de prévention et de détection des    fraudes.</p>
+                        Vous    ne pouvez pas désactiver les cookies de base à l'aide de l'outil de gestion    des cookies, dans la mesure où ils sont nécessaires pour que vous puissiez    accéder aux fonctionnalités du site Web et les utiliser.<br>
 <!--[if !supportLineBreakNewLine]--><br>
       </td>
     </tr>
 
     <tr>
-      <td width="137" valign="top">
-        <p>Analys och    anpassning</p>
+      <td width="141" valign="top">
+        <p>Cookies    de personnalisation et d'analyse</p>
       </td>
 
-      <td width="429" valign="top">
-        <p>Vi använder    cookies för att få en bättre förståelse för hur webbplatsen används och hur    vi kan förbättra din upplevelse av den. Dessa cookies kan ge information som    hjälper oss förstå vilka delar av webbplatsen som våra besökare är    intresserade av och om de upplever några fel. Vi använder dessa cookies för    att prova olika utseenden och funktioner för sidorna samt för att se hur    besökare kommer till webbplatsen.</p>
-               Vi använder även    cookies för att spara dina inställningar och preferenser på webbplatsen,    såsom språkinställningar och uppgifter som du har angett tidigare när du har    sökt efter restaurangalternativ. Vissa anpassningscookies krävs för att du    ska kunna använda vissa funktioner på webbplatsen.<br>
+      <td width="460" valign="top">
+        <p>Ces    cookies nous permettent de comprendre l'utilisation qui est faite de notre    site Web&nbsp;et nous aident à l'améliorer. Ils peuvent nous fournir des informations    qui nous aident à connaître les éléments du site qui intéressent nos    visiteurs et à détecter toute erreur pendant la navigation. Nous les    utilisons pour tester différentes mises en page et fonctionnalités, ainsi que    pour savoir par quels moyens les visiteurs parviennent jusqu'au site Web.</p>
+                        Nous    avons également recours à des cookies pour enregistrer vos paramètres et    préférences sur le site Web&nbsp;(langue favorite et informations précédemment saisies    lors d'une recherche sur les options d'un&nbsp;restaurant, par exemple). Certains    cookies de personnalisation sont essentiels à l'utilisation de    fonctionnalités spécifiques du site Web.<br>
 <!--[if !supportLineBreakNewLine]--><br>
       </td>
     </tr>
 
     <tr>
-      <td width="137" valign="top">
-        <p>Annonsering</p>
+      <td width="141" valign="top">
+        <p>Cookies publicitaires</p>
       </td>
 
-      <td width="429" valign="top">
-        <p>Annonscookies    ser till att de annonser du ser på webbplatsen är så relevanta för dig som    möjligt. Till exempel används vissa annonscookies för att välja ut annonser    som baseras på dina intressen. Andra förhindrar att samma annons hela tiden    visas på nytt.</p>
+      <td width="460" valign="top">
+        <p>Les    cookies publicitaires permettent de s'assurer que les publicités que vous    voyez sont aussi pertinentes que possible pour vous. Par exemple, certains    cookies publicitaires permettent de sélectionner des publicités en fonction    de vos centres d'intérêt. D'autres permettent d'éviter que la même annonce ne    réapparaisse continuellement à votre écran.</p>
 
-        <p>Vi använder även    cookies för att göra det enkelt för dig att dela innehåll från webbplatsen    med dina vänner via de sociala nätverk du använder mest. Webbplatser för    sociala medier kan placera ut cookies som känner igen dig när du visar    innehåll på webbplatsen och som ger dig möjlighet att dela innehåll på både    webbplatsen och sidan för sociala medier med hjälp av delningsinställningar.    För mer information ska du läsa användarvillkoren och sekretesspolicyn för    webbplatsen för sociala medier. </p>
+        <p>Nous    utilisons également des cookies pour faciliter le partage du contenu du site    Web&nbsp;avec vos amis via vos réseaux sociaux préférés. Les sites de réseaux sociaux    peuvent installer des cookies qui vous reconnaissent lorsque vous visualisez    du contenu sur le site Web. De plus, ils vous permettent de partager du contenu à    la fois sur le site Web et sur le site de réseaux sociaux grâce à l'utilisation    de paramètres de partage. Pour plus d'informations, veuillez consulter les    conditions d'utilisation et la politique de confidentialité de votre site de    réseaux sociaux. </p>
 
-        <p>Vi samarbetar    även med annonsörer från tredje part för att ge dig tillgång till    restauranginnehåll som kan vara av intresse, och kan ställa in cookies i våra    Tjänster för att tillhandahålla reklam som matchar dina intressen och    preferenser. Dessa ”cookies från tredje part” samlar in information om ditt    surfbeteende och din interaktion med annonser eller Tjänsterna mer allmänt. Den    här informationen hjälper oss även att begränsa det antal gånger som du kan    se samma annonser och att förbättra din onlineupplevelse.</p>
+        <p>Nous    travaillons également avec des annonceurs tiers pour vous donner accès à du    contenu relatif à des restaurants susceptible de vous intéresser, et pouvons    placer des cookies sur nos Services pour vous présenter des annonces    publicitaires qui correspondent à vos centres d'intérêts et préférences. Ces    « cookies tiers » collectent des informations sur votre    comportement de navigation et vos interactions avec les publicités ou les    Services en général. Ces informations nous aident également à limiter le    nombre de fois que vous voyez les mêmes annonces et à améliorer votre    expérience en ligne.</p>
       </td>
     </tr>
   </tbody>
@@ -778,249 +759,262 @@
 <p><br>
 </p>
 
-<h3><strong>Verktyg för godkännande av cookies</strong></h3>
+<h3><strong>Outil de gestion des cookies</strong></h3>
 
-<p>För  att ge dig kontroll tillhandahåller vi ett verktyg för godkännande av cookies.  Med det kan du granska cookies från första och tredje part som placeras ut via  vår webbplats och justera dina inställningar för cookies, däribland om du vill  godkänna eller förkasta  dessa cookies. </p>
+<p>Pour vous donner plus de contrôle, nous vous fournissons  un Outil de gestion des cookies qui vous permet d'examiner les cookies internes  et de tiers placés sur notre site Web et d'ajuster vos paramètres afin de les  accepter ou de les refuser. </p>
 
-<p>Du kan använda  verktyget för godkännande av cookies när du vill genom att klicka <a class="evidon-consent-dialog" href="https://info.evidon.com/pub_info/17008?v=1&amp;nt=0&amp;nw=true" rel="nofollow" target="_blank">här</a> eller när som helst via länken  Godkänn cookies längst ned på varje sida eller&nbsp;igenom att ändra dina inställningar  i vår cookiebanner. Du kan även  hantera cookies i webbläsarens inställningar. Du kan ställa in så att  webbläsaren meddelar dig när du får en ny cookie, radera enskilda cookies eller  radera alla cookies.</p>
+<p>Vous  pouvez accéder à l'Outil de gestion des cookiesen  cliquant <a class="evidon-consent-dialog" href="https://info.evidon.com/pub_info/17002?v=1&amp;nt=0&amp;nw=true" rel="nofollow" target="_blank">ici</a> ou  à tout moment via le lien « Gestion des cookies » en bas de chaque  page ou dans notre bannière cookie. En outre, vous pouvez gérer les cookies via  les paramètres de votre navigateur Internet. Vous pouvez faire en sorte que le  navigateur vous envoie une notification lorsque vous recevez un nouveau cookie,  supprimez certains cookies ou l'ensemble de ceux-ci.</p>
 
-<p>Du kan välja att  inte visa annonscookies från de flesta annonsnätverk. Läs <a href="http://www.aboutads.info/choices/">www.aboutads.info/choices/</a> och <a href="http://www.youronlinechoices.com/se/">www.youronlinechoices.com</a><u>/se/</u> för  användbar information om hur du gör detta.</p>
+<p>La  plupart des réseaux publicitaires vous offrent la possibilité de refuser les  cookies publicitaires. Vous trouverez des informations utiles sur la manière de  procéder sur ces pages <a href="http://www.aboutads.info/choices/">www.aboutads.info/choices/</a> et <a href="http://www.youronlinechoices.com/fr/">www.youronlinechoices.com/fr/</a>.</p>
 
-<p>Om du raderar dina  cookies kan din åtkomst till vissa funktioner och delar av våra Tjänster  försämras eller begränsas.</p>
+<p>Si  vous supprimez vos cookies, votre accès à certaines fonctionnalités et zones de  nos Services pourrait être dégradé ou restreint.</p>
 
-<p>Vår användning av  all information vi samlar in genom cookies lyder under denna Policy, som är  länkad på varje sida på vår webbplats.</p>
+<p>L'utilisation  que nous faisons de toute information que nous recueillons par le biais des  cookies est assujettie à la présente Déclaration, laquelle peut être consultée  à partir de chaque page de notre site Web grâce à un lien.</p>
 
-<h3><strong>Policyändringar  och meddelanden</strong></h3>
+<h3><strong>Modifications de la  Déclaration et notifications</strong></h3>
 
-<p>Vi kan komma att uppdatera denna Policy i framtiden. Om vi anser att vissa  ändringar är väsentliga meddelar vi dig genom att göra något av följande:  Skicka ett meddelande om ändringarna, visa ett meddelande på webbplatsen och/eller publicera en  uppdaterad Policy på webbplatsen. Vi anger högst upp i denna Policy när den  senast uppdaterades. Vi rekommenderar att du återkommer med jämna mellanrum för  att granska den senaste versionen och regelbundet granskar den här Policyn för  aktuell information om våra sekretessmetoder.</p>
+<p>Nous pourrons être amenés à  mettre à jour la présente Déclaration ultérieurement. Si nous estimons que les  modifications apportées sont importantes, nous vous en informerons par l'un ou  plusieurs des moyens suivants : en vous envoyant une communication sur les  modifications, en plaçant  une notification sur le site Web et/ou en affichant une mise à jour de la  Déclaration sur le site Web. Nous indiquerons au début de la présente Déclaration  la date de sa dernière mise à jour. Nous vous encourageons à consulter et  examiner périodiquement la version la plus récente pour obtenir les dernières  informations disponibles sur nos pratiques en matière de confidentialité des  données.</p>
 
-<h3><strong>Kontakt</strong></h3>
+<h3><strong>Contact</strong></h3>
 
-<p>Om du har  en begäran om datasekretess, till exempel en begäran om att ta bort eller få  tillgång till dina data, kan du besöka vår dedikerade sekretessportal genom att  <a href="https://privacyportal.onetrust.com/webform/da774af3-e615-4e8c-8a28-3d13e98367c5/091dbabd-4724-4ae9-a3a7-541da83969f3" rel="nofollow">klicka här</a>.  För allmänna datasekretessfrågor eller frågor som rör vår sekretess- och cookiepolicy kan du kontakta vårt sekretessteam genom att <a href="https://privacyportal.onetrust.com/webform/da774af3-e615-4e8c-8a28-3d13e98367c5/6468483f-9cb0-4a04-9897-090a47438535">klicka här</a>. </p>
+<p>Pour toute demande  concernant la confidentialité des données, par exemple pour demander la  suppression ou l'accès à vos données, veuillez consulter notre portail dédié à  la confidentialité <a href="https://privacyportal.onetrust.com/webform/da774af3-e615-4e8c-8a28-3d13e98367c5/091dbabd-4724-4ae9-a3a7-541da83969f3" rel="nofollow">ici</a>. Pour toute  demande d'ordre général concernant la confidentialité des données ou pour toute  question concernant notre Déclaration relative à la confidentialité et aux  cookies, veuillez contacter notre équipe chargée de la protection de la vie privée <a href="https://privacyportal.onetrust.com/webform/da774af3-e615-4e8c-8a28-3d13e98367c5/6468483f-9cb0-4a04-9897-090a47438535">ici</a>. </p>
 
-<p><br>
-</p>
+<h2 align="center"><strong>Europe</strong></h2>
 
-<p><br>
-</p>
+<h3><strong>Déclaration de  confidentialité au titre du Règlement général sur la protection des données  (« Déclaration de confidentialité des données au titre du RGPD »)</strong></h3>
 
-<h2 align="center"><strong>EUROPA  </strong></h2>
+<p>La présente Déclaration de confidentialité des données au titre du RGPD  s'applique aux personnes se trouvant dans l'Espace économique européen  (« EEE »), y compris celles basées au Royaume-Uni. La présente  Déclaration de confidentialité des données au titre du RGPD complète notre  Déclaration ; toutefois, lorsque celle-ci entre en conflit avec la  Déclaration de confidentialité des données au titre du RGPD, cette dernière  prévaudra pour les personnes se trouvant dans l'EEE.</p>
 
-<h3><strong>Sekretesspolicy  för allmänna dataskyddsförordningen (”GDPR-policy”)</strong></h3>
+<h3><strong>Responsable du traitement  des données personnelles</strong></h3>
 
-<p>Denna GDPR-policy gäller personer inom Europeiska  ekonomiska samarbetsområdet (”EES”), inklusive de som är baserade i  Storbritannien. Denna GDPR-policy kompletterar vår Policy; om uttalandet  strider mot GDPR-policyn gäller dock GDPR-policyn för personer inom EES.</p>
+<p>La Fourchette SAS est le responsable du traitement des données personnelles que nous recueillons. Toutefois, conformément à la loi sur la protection des données en vigueur, nous avons désigné un représentant au sein du Royaume Uni. </p>
 
-<h3><strong>Registeransvarig  för personuppgifter</strong></h3>
+<p>Les coordonnées de notre représentant pour l’Union européenne sont les suivantes :</p>
 
-<p>La Fourchette SAS är registeransvarig för de personuppgifter vi samlar in. I enlighet med tillämplig datasekretesslag har vi dock utsett representanter inom Storbritannien.</p>
+<p>La Fourchette SAS<br>
+            70 rue Saint Lazare<br>
+            75009 Paris<br>
+            France<br>
+            Attn: Privacy Officer</p>
 
-<p>Kontaktuppgifterna till vår representant inom Europeiska unionen är:</p>
-
-<p>La Fourchette SAS</p>
-
-<p> 70 rue Saint Lazare</p>
-
-<p> 75009 Paris</p>
-
-<p> Frankrike</p>
-
-<p> Attn: Privacy Officer</p>
-
-<p><br>
-</p>
-<!--[if !supportLineBreakNewLine]-->
-<p><br>
-</p>
-
-<p>Kontaktuppgifterna till vår representant inom Storbritannien är:</p>
+<p>Les coordonnées de notre représentant pour le Royaume Uni sont les suivantes :</p>
 
 <p>Bookatable Limited<br>
-      7 Soho Square<br>
-      London<br>
-      W1D 3QB<br>
-      Storbritannien<br>
-      Attn: Privacy Officer</p>
+            7 Soho Square<br>
+            London<br>
+            W1D 3QB<br>
+            United Kingdom<br>
+            Attn: Privacy Officer</p>
 
-<p>Bookatable Limited roller i detta avseende är begränsat enbart till att vara en kontaktpunkt angående frågor om dataskydd för boende i Storbritannien och de övervakande myndigheterna för dataskydd. För att undvika oklarheter kan varken Bookatable Limited ta emot annan kommunikation eller juridiska processer på uppdrag av La Fourchette SAS.</p>
-<!--[if !supportLineBreakNewLine]-->
-<h3><strong>Dina rättigheter enligt GDPR</strong></h3>
+<p>Le rôle de Bookatable Limited est limité exclusivement à celui de contact pour les questions sur la protection des données des citoyens britanniques et sur les autorités de contrôle de la protection des données. Plus précisément, Bookatable Limited ne peut établir d'autres communications ou procédures juridiques au nom de La Fourchette SAS.</p>
 
-<p>Du har  vissa rättigheter gällande dina personuppgifter. </p>
+<h3><strong>Vos droits en vertu du RGPD</strong></h3>
 
-<p>Dina rättigheter med avseende på dina egna  personuppgifter omfattar följande:</p>
+<p>Vous disposez de certains droits concernant vos données  personnelles : </p>
+
+<p>Vos droits concernant les  données personnelles sont les suivants :</p>
 
 <ul>
-  <li>Rätten att begära åtkomst till dina  personuppgifter. Detta ger dig möjlighet att få en kopia av de personuppgifter  vi har om dig.   </li>
+  <li>Le droit de demander l'accès à  vos données personnelles. Cela vous permet de recevoir une copie des données  personnelles que nous détenons à votre sujet.</li>
 
-  <li>Rätten att begära att dina personuppgifter  korrigeras om de är felaktiga. Du kan också komplettera eventuella  ofullständiga personuppgifter som vi har, med hänsyn till ändamålen för  behandlingen.   </li>
+  <li>Le droit de demander la  correction de vos données personnelles si elles sont inexactes. Vous pouvez  également compléter les données personnelles incomplètes en notre possession,  compte tenu des fins du traitement.</li>
 
-  <li>Rätten att begära radering av dina personuppgifter  om:                                                                                                                                                                                                                                           
+  <li>Le droit de demander la  suppression de vos données personnelles si :                                                                                                                                                                                                                                                                                                                                                                                
     <ul>
-      <li>dina personuppgifter inte längre krävs för de  ändamål för vilka vi samlade in eller behandlade dem; eller</li>
+      <li>vos données personnelles ne  sont plus nécessaires aux fins pour lesquelles nous les avons collectées ou  traitées ; ou</li>
 
-      <li>du drar tillbaka ditt samtycke, om behandlingen av  dina personuppgifter baseras på samtycke och inga andra rättsliga grunder  finns, eller</li>
+      <li>vous retirez votre  consentement lorsque le traitement de vos données personnelles est basé sur le  consentement et qu'il n'est pas autrement justifié juridiquement ; ou</li>
 
-      <li>du nekar till hanteringen av dina personuppgifter  och vi inte har en övergripande rättslig grund för behandlingen, eller</li>
+      <li>vous vous opposez au  traitement de vos données personnelles et celui-ci n'est pas autrement justifié  par des motifs légitimes impérieux ; ou</li>
 
-      <li>dina personuppgifter behandlas på ett olagligt  sätt, eller</li>
+      <li>vos données personnelles sont  traitées illégalement ; ou</li>
 
-      <li>dina personuppgifter måste raderas för att en  juridisk förpliktelse ska efterlevas.   </li>
+      <li>l'effacement de vos données  personnelles est nécessaire pour remplir une obligation légale.   </li>
     </ul>
   </li>
 
-  <li>Rätten att invända mot behandlingen av dina  personuppgifter. Vi efterlever din begäran, såvida vi inte har ett övertygande  övergripande legitimt intresse för behandlingen eller om vi måste fortsätta att  behandla dina personuppgifter för att fastställa, utöva eller försvara ett  juridiskt anspråk.   </li>
+  <li>Le droit de vous opposer au  traitement de vos données personnelles. Nous accéderons à votre demande, à  moins que le traitement ne soit motivé par un intérêt légitime sérieux et  impérieux ou que nous devions continuer à traiter vos données personnelles afin  d'engager, exercer ou défendre une action en justice.</li>
 
-  <li>Rätten att begränsa behandlingen av  personuppgifter, om:                                                                                                                                                                                                                                           
+  <li>Le droit de demander la  limitation du traitement de vos données personnelles si :                                                                                                                                                                                                                                                                                                                                                                                
     <ul>
-      <li>korrektheten hos dina personuppgifter ifrågasätts  av dig under den period då vi ska kontrollera korrektheten hos  personuppgifterna</li>
+      <li>vous contestez l'exactitude de  vos données personnelles, pendant la période durant laquelle nous sommes tenus  de vérifier l'exactitude des données personnelles ; ou</li>
 
-      <li>behandlingen är olaglig och du motsätter dig  raderingen av dina personuppgifter och begär begränsningar, eller</li>
+      <li>le traitement est illégal et  vous vous opposez à la suppression et demandez plutôt une limitation du  traitement ; ou</li>
 
-      <li>vi inte längre behöver dina personuppgifter för  behandlingsändamål, men dina personuppgifter krävs av dig för juridiska  anspråk, eller</li>
+      <li>nous n'avons plus besoin de  vos données personnelles aux fins du traitement, mais vous en avez besoin pour  des actions en justice ; ou</li>
 
-      <li>du har invänt till behandlingen, under den period  som vi har för att verifiera övergripande rättsliga grunder.   </li>
+      <li>vous vous opposez au  traitement, pour la période durant laquelle nous sommes tenus de vérifier les  motifs légitimes impérieux.   </li>
     </ul>
   </li>
 
-  <li>Rätten till dataportabilitet. Du kan begära att vi ska skicka dessa  personuppgifter till en tredje part, om möjligt. Du har denna rättighet bara  när det rör personuppgifter som du tillhandahållit till oss där behandlingen  baseras på samtycke eller krävs för uppfyllande av ett kontrakt mellan dig och  oss och behandlingen sker med hjälp av automatiska metoder.</li>
+  <li>Le droit à la portabilité des  données. Vous pouvez également nous demander d'envoyer ces données personnelles  à un tiers, dans la mesure du possible. Vous disposez de ce droit uniquement  pour les données personnelles que vous nous avez fournies et pour lesquelles le  traitement est basé sur le consentement ou nécessaire à l'exécution d'un  contrat entre vous et nous et s'il est réalisé par des moyens automatisés.</li>
 
-  <li>Du har också rättigheten att skicka in en besväran till din nationella dataskyddsmyndighet. </li>
+  <li>Le droit de déposer une plainte auprès du responsable de la protection des données de votre pays. </li>
 </ul>
 
-<p>Du behöver inte betala en avgift för att få åtkomst till dina personuppgifter  (eller för att utöva någon av de andra rättigheter som beskrivs i denna  Policy). Vi kan däremot ta ut en rimlig avgift om din begäran är klart  ogrundad, repetitiv eller orimlig.</p>
+<p>Vous ne devrez pas payer de frais pour accéder à vos  données personnelles (ou exercer l'un quelconque des autres droits décrits dans  la présente Déclaration). Toutefois, nous pouvons vous facturer des frais d'un  montant raisonnable si votre demande est manifestement injustifiée, répétée ou  excessive.</p>
 
-<p>Vi kan  behöva begära specifik information från dig för att hjälpa oss att bekräfta din  identitet och säkerställa din rätt att komma åt dina personuppgifter (eller för  att utöva någon av dina andra rättigheter). Detta är en säkerhetsåtgärd för att  säkerställa att personuppgifter inte lämnas ut till någon som inte har rätt att  ta del av dem. I syfte att svara snabbare kan vi även komma att kontakta dig  och be om mer information i samband med din begäran. Du kan utöva flera av dina  rättigheter via avsnittet för personuppgifter i ditt konto. <!--StartFragment-->För att utöva dina andra rättigheter kan du skicka in en begäran genom att&nbsp;<a href="https://privacyportal.onetrust.com/webform/da774af3-e615-4e8c-8a28-3d13e98367c5/091dbabd-4724-4ae9-a3a7-541da83969f3" rel="nofollow">klicka här</a><!--EndFragment-->. </p>
+<p>Nous pouvons vous demander de nous communiquer des informations  spécifiques afin de nous aider à confirmer votre identité et d'assurer que vous  avez effectivement le droit d'accéder à vos données personnelles (ou d'exercer  l'un quelconque de vos autres droits). Il s'agit d'une mesure de sécurité  visant à empêcher la divulgation de vos données personnelles à des personnes  non autorisées. Dans un souci de réduction de notre délai de réponse, nous  pouvons également vous contacter pour vous demander des informations  complémentaires concernant votre demande. Vous pouvez exercer plusieurs de vos  droits par l'intermédiaire de la section de votre compte réservée aux  informations personnelles. <!--StartFragment-->Vous pouvez demander à exercer vos autres droits en&nbsp;<a href="https://privacyportal.onetrust.com/webform/da774af3-e615-4e8c-8a28-3d13e98367c5/091dbabd-4724-4ae9-a3a7-541da83969f3" rel="nofollow">cliquant ici</a><!--EndFragment-->.</p>
 
-<h3><strong>Användning  av information</strong></h3>
+<h3><strong>Utilisation des  informations</strong></h3>
 
-<p>Vi använder bara dina personuppgifter när det är tillåtet  enligt lag. </p>
+<p>Nous utilisons vos données personnelles  uniquement lorsque nous y sommes autorisés par la loi. </p>
 
-<p>I enlighet med  GDPR använder vi dina personuppgifter i en eller flera av följande  omständigheter:</p>
+<p>Conformément  au RGPD, nous utilisons vos données personnelles dans l'une ou plusieurs des  circonstances suivantes :</p>
 
 <ul>
-  <li>När vi  ska fullgöra det avtal vi håller på att ingå eller har ingått med dig.</li>
+  <li>Lorsque nous en avons besoin pour exécuter  le contrat que nous avons conclu avec vous</li>
 
-  <li>När  det krävs för våra (eller en tredje parts) legitima intressen och dina  intressen och grundläggande rättigheter inte åsidosätter sådana intressen.</li>
+  <li>Lorsque cela est nécessaire pour la  défense de nos intérêts légitimes (ou de ceux d'un tiers) et que vos intérêts  et vos droits fondamentaux ne l'emportent pas sur ces intérêts</li>
 
-  <li>När vi  måste följa en lagstadgad eller rättslig förpliktelse.</li>
+  <li>Lorsque nous devons nous conformer à une  obligation légale ou réglementaire</li>
 
-  <li>Med  ditt samtycke. </li>
+  <li>Avec votre  consentement </li>
 </ul>
 
-<h3><strong>Internationella  överföringar</strong></h3>
+<h3><strong>Transferts  internationaux</strong></h3>
 
-<p>Dina  personuppgifter kan lagras eller överföras till länder utanför EES för de  ändamål som beskrivs i denna Policy. När vi lagrar eller överför dina  personuppgifter utanför EES vidtar vi följande försiktighetsåtgärder för att se  till att dina personuppgifter är ordentligt skyddade.</p>
+<p>Vos données personnelles peuvent être transférées vers  des pays situés hors de l'Espace économique européen (EEE) et stockées dans ces  pays aux fins indiquées dans la présente Déclaration. Lorsque nous stockons ou  transférons vos données personnelles hors de l'EEE, nous prenons les  précautions suivantes afin de nous assurer qu'elles sont correctement protégées.</p>
 
-<p>När vi  lagrar eller överför dina personuppgifter utanför EES gör vi det i enlighet med  tillämplig lag och vi garanterar att en liknande skyddsnivå erbjuds för detta  förfarande genom att tillämpa lämpliga skyddsåtgärder. Överföringar av  personuppgifter görs</p>
+<p>Lorsque nous stockons ou transférons vos données personnelles hors  de l'EEE, nous le faisons conformément à la loi en vigueur et nous nous  assurons qu'elles bénéficient d'un niveau de protection similaire en mettant en  place des dispositifs de sauvegarde appropriés. Les transferts de données personnelles  sont réalisés:</p>
 
 <ul>
-  <li>till ett land eller som av EU-kommissionen bedöms  tillhandahålla en adekvat skyddsnivå, eller</li>
+  <li>vers un pays reconnu par la  Commission européenne comme assurant un niveau de protection adéquat, ou ;</li>
 
-  <li>till ett land som inte erbjuder tillräckligt skydd, men vars överföring har  styrts av EU-kommissionens kontraktsenliga standardklausuler eller genom  tillämpandet av andra lämpliga gränsöverskridande överföringslösningar som ger  tillräckligt skydd.</li>
+  <li>vers un pays qui n'offre pas  de protection adéquate, le transfert étant régi par les clauses contractuelles  types de la Commission européenne, ou en mettant en œuvre d'autres solutions  appropriées de transfert international pour assurer l'adéquation de la  protection.</li>
 </ul>
 
-<p>Genom  att använda våra tjänster samtycker du till att dina personuppgifter kan  överföras till våra anläggningar och de tredjeparter med vilka vi delar dem  enligt denna Policy.</p>
+<p>En utilisant nos services, vous comprenez que vos données  personnelles peuvent être transférées vers nos installations et aux tiers avec  lesquels nous les partageons, comme indiqué dans la présente Déclaration.</p>
 
 <p><br>
 </p>
 
-<p>Föregående:&nbsp;<a href="https://c.tfstatic.com/tf-product/legal/personuppgiftspolicy-SE-2019"><!--StartFragment-->https://c.tfstatic.com/tf-product/legal/personuppgiftspolicy-SE-2019</a><!--EndFragment--></p>
+<p>Précédente:&nbsp;<a href="https://c.tfstatic.com/tf-product/legal/politique-de-confidentialite-FR-2019.pdf" rel="nofollow" target="_blank"><!--StartFragment-->https://c.tfstatic.com/tf-product/legal/politique-de-confidentialite-FR-2019.pdf</a><!--EndFragment--></p>
 
-<p><br>
+<p id="GiftCard"><br>
 </p>
 
-<p><br>
-</p>
+<h1 style="text-align: justify;"><strong>D. CONDITIONS D'UTILISATION DE LA CARTE CADEAU THEFORK</strong></h1>
 
-<h1 style="text-align: justify;" id="meddelande-om-omdömen-och-betygsättning">D. MEDDELANDE OM OMDÖMEN OCH BETYGSÄTTNING</h1>
+<p>La Carte Cadeau TheFork ("la Carte Cadeau") peut être utilisée dans les restaurants TheFork participants. Elle est valable dix-huit (18) mois à compter de sa date d'émission indiquée sur la Carte Cadeau, (qui peut être antérieure à la date de réception effective de la Carte Cadeau), sauf si sa valeur nominale est entièrement dépensée avant cette échéance.</p>
 
-<p>Publicerad 7 september 2022</p>
+<p>La Carte Cadeau se compose d'un code, d'un visuel et d'informations associés. </p>
 
-<h3><strong>1. Beräkning av restaurangens betyg</strong></h3>
+<p>Les Cartes Cadeaux ont une valeur :e vingt-cinq (25), cinquante (50) ou cent (100) euros. Cette valeur est prédéterminée et ne peut être modifiée.</p>
 
-<p>När användare betygsätter en restaurang, ber vi dem utvärdera tre kriterier:</p>
+<p>Il n’est pas possible de remplacer, de recharger ou de se faire rembourser (même partiellement) une Carte Cadeau. TheFork décline toute responsabilité en cas de perte, de vol, de destruction ou d'utilisation non autorisée de la Carte Cadeau.</p>
+
+<p>La Carte Cadeau ne peut pas être échangée contre des espèces. La Carte Cadeau ne peut pas être revendue mais elle peut être offerte à une tierce personne.</p>
+
+<p>La Carte Cadeau peut être utilisée dans les restaurants partenaires de TheFork situés en France pour  des repas (nourriture et boissons) mais également des produits alimentaires et des boissons proposés par le restaurant, s’ils sont ajoutés à votre addition, comme suit :</p>
 
 <ul>
-  <li>Måltidens kvalitet, som motsvarar 50 % av betyget</li>
+  <li>rentrez le code de la Carte Cadeau dans TheFork PAY ;</li>
 
-  <li>Servicen, som motsvarar 25 % av betyget</li>
+  <li>réservez une table dans un restaurant participant sur thefork.fr ou sur l'application (la "Plate-forme") ; </li>
 
-  <li>Restaurangens atmosfär, som motsvarar 25 % av betyget</li>
+  <li>profitez de votre repas…et ajoutez peut être une bouteille de ce grand vin ou de cette huile d'olive que vous venez de goûter à emporter;</li>
+
+  <li>payez l’addition avec TheFork PAY - si la Carte Cadeau ne couvre pas la totalité de l’addition, vous pouvez compléter avec une carte de crédit enregistrée dans TheFork PAY ou avec tout autre moyen de paiement.</li>
 </ul>
 
-<p>Beräkningen av restaurangens betyg på TheFork-plattformen är ett genomsnitt av alla användarbetyg från det senaste året. TheFork använder sig av den aritmetiska metoden (bayesianska metoden i Nederländerna) för att beräkna det genomsnittliga betyget för en partnerrestaurang.</p>
+<p>Les restaurants participants peuvent être sélectionnés : a) en cliquant sur le bouton " Où utiliser ma Carte Cadeau?" dans TheFork PAY ; b) une fois que vous avez entré le code de la Carte Cadeau dans TheFork PAY en recherchant la liste des restaurants participants qui apparaîtra dans TheFork PAY ; ou c) sur la Plate-forme en utilisant le filtre "Cartes Cadeaux".</p>
 
-<p>Användarna kan också betygsätta förhållandet mellan kvalitet och pris, ljudnivån, väntetiden och matens kvalitet. Dessa extra kriterier påverkar inte betyget, men de kan bidra till att förbättra restaurangens service genom att ge restaurangen feedback på dessa punkter.</p>
+<p>Les Cartes Cadeaux sont émises par La Fourchette SAS (opérant sous le nom de TheFork).</p>
 
-<p>Slutligen kan användarna också lämna ett omdöme för att styrka sitt betyg, där de kortfattat förklarar hur deras upplevelse på restaurangen var, vad deras favoriträtt var, atmosfären och servicen.</p>
+<p>Les Cartes Cadeaux ne peuvent être utilisées de toute autre manière ou pour toute autre chose que ce qui est prévu dans les présentes Conditions d'Utilisation.</p>
 
-<p>Användarnas åsikter är inte bara viktiga för oss, utan även till nytta för alla i TheForks-gemenskapen.</p>
-
-<h3><strong>2. Hantering av användarnas omdömen</strong></h3>
-
-<p>Om användarna har gjort en bokning hos TheFork och ätit en måltid har de upp till tre månader på sig att dela med sig av sin matupplevelse. Vi föreslår att användarna lämnar ett omdöme så snart som möjligt för att undvika att de glömmer detaljerna om sin upplevelse.</p>
-
-<p>För att lämna ett omdöme om en gastronomisk upplevelse har Användarna följande 3 alternativ:</p>
-
-<ul>
-  <li>Använd länken från TheFork i e-postmeddelandet som du fick efter måltiden, om middagen var uppskattad.</li>
-
-  <li>Genom att gå via användarens TheFork-konto i appen</li>
-
-  <li>Genom att skanna TheForks QR-kod vid bordet på restauranger som erbjuder denna funktion, och först efter att du betalat notan med TheFork PAY</li>
-</ul>
-
-<p>De här tre alternativen är de enda möjligheterna för användarna att lämna omdömen, eftersom detta gör det möjligt för TheFork att verifiera att användarna har besökt restaurangen som de lämnar ett omdöme om.</p>
-
-<p>Vi vill betona att vår plattform, och omdömena om alla restauranger som listas, består av alla omdömen som lämnas av användarna. Det betyder att alla omdömen, positiva eller inte, publiceras så att alla användare kan ta del av dem (om de i övrigt uppfyller våra <a href="#Anvandarvillkor">Användarvillkor</a>, se vår process för moderering nedan). Vi anser att alla omdömen om matupplevelser har sin plats på vår plattform och är viktiga för TheFork-gemenskapen.</p>
-
-<h3><strong>3. TheForks moderering av omdömen</strong></h3>
-
-<p>För att hålla en hög nivå av tillförlitlighet och öppenhet kommer alla omdömen som skickas in av användare och svar från restauranger att gå igenom vår process för moderering.</p>
-
-<p>Omdömena verifieras både av ett automatiserat modereringsverktyg och av vårt team av moderatorer vid behov:</p>
-
-<ul>
-  <li>Vi använder ett avancerat automatiserat modereringsverktyg för att identifiera recensioner som kanske inte är äkta eller bryter mot våra regler för recensioner enligt våra <a href="#Anvandarvillkor">Användarvillkor</a> (artikel 6.1 Villkor för att publicera recensioner och artikel 6.2 Skäl för att avvisa användares innehåll). Omdömen som inte markeras som potentiellt oäkta eller som bryter mot våra regler publiceras automatiskt.</li>
-
-  <li>När vårt modereringsverktyg upptäcker ett potentiellt problem kontrollerar vårt modereringsteam omdömet och bekräftar att det kommer från en konsument som har haft en verklig erfarenhet av att äta på restaurangen i fråga och att det i övrigt uppfyller våra <a href="#Anvandarvillkor">Användarvillkor</a>. Det kan till exempel innebära att vi kontaktar användare via e-post eller telefon för att bekräfta informationen.</li>
-
-  <li>När vårt moderatorteam bekräftar att granskningen inte uppfyller kraven (t.ex. om användarna inte har ätit på restaurangen kan de inte lämna ett omdöme om den gastronomiska upplevelsen; om restaurangen anger att bokningen inte kommer att genomföras eller om gästerna avbokar) publicerar vi inte omdömet och användarna får inte möjlighet att omformulera sitt omdöme.</li>
-
-  <li>När omdömet inte följer våra andra regler (t.ex. när hela omdömet är obegripligt, när omdömet är diskriminerande, när det finns en stor inkonsekvens mellan betyget och kommentaren osv.), kommer vi att informera användaren och be honom eller henne att formulera om sitt omdöme på ett sätt som överensstämmer med våra <a href="#Anvandarvillkor">Användarvillkor</a>.</li>
-
-  <li>Om du misstänker att ett omdöme inte är äkta eller inte följer våra regler, ber vi dig kontakta oss på <a href="mailto:kontakt@thefork.se">kontakt@thefork.se</a> och ange orsaken till detta så kommer vårt modereringsteam att utreda saken enligt beskrivningen ovan. Vi svarar på alla förfrågningar om moderering, både från restauranger och användare.</li>
-</ul>
-
-<p>Eftersom många omdömen skickas in varje dag kan det förekomma en viss fördröjning  i publiceringen:</p>
-
-<ul>
-  <li><strong>Betyget</strong> publiceras omedelbart (om betyget inte uppfyller kravet ovan om att bokningen ska uppfyllas raderas det).</li>
-
-  <li>Det kan ta upp till 15 dagar innan <strong>omdömet</strong> publiceras, eftersom det måste kontrolleras av vårt modereringsteam.</li>
-
-  <li><strong>Omdömet</strong> kommer endast att visas på TheFork när restaurangen har minst 3 omdömen. Om restaurangen har färre än tre omdömen sparas de tre första omdömena och publiceras när restaurangen har uppnått gränsen.</li>
-</ul>
-
-<h3><strong>4. Restaurangens rätt att svara</strong></h3>
-
-<p>När ett omdöme har publicerats har restaurangägare rätt att svara inom tre månader från det att omdömet skickades in. Svaret får inte vara längre än omdömet och får inte överstiga 1024 tecken.</p>
-
-<p>Alla svar från restauranger behandlas på samma sätt som beskrivs i punkt 3 ovan.</p>
+<p>L'achat d'une Carte Cadeau n'entraîne aucune attribution de Yums.TheFork se réserve le droit de modifier les présentes Conditions d'Utilisation de temps à autre, à sa discrétion. Les présentes Conditions d'Utilisation sont applicables dans la mesure permise par la loi.</p>
 
 <p><br>
 </p>
 
-<h1 id="thefork-webbplatser-och-foretag">E. THEFORK WEBBPLATSER OCH FORETAG </h1>
+<h1 style="text-align: justify;" id="note-sur-les-avis-et-les-evaluations"><strong>E. NOTE SUR LES AVIS ET LES EVALUATIONS</strong></h1>
 
-<p>Dotterbolag och samarbetspartner  för La Fourchette SAS äger och driver en portfölj med webbplatser och företag  som inkluderar följande märken:</p>
+<p>Publié le 7 septembre 2022</p>
 
-<p><a href="https://www.thefork.fr" rel="nofollow">www.thefork.fr</a>, <a href="https://www.theforkmanager.com" rel="nofollow">www.theforkmanager.com</a>, <a href="https://www.thefork.ch" rel="nofollow">www.thefork.ch</a>, <a href="http://thefork.es" rel="nofollow" target="_blank">www.thefork.es</a>, och <a href="https://www.thefork.com" rel="nofollow">www.thefork.com</a> och alla lokaliserade versioner, sådan som <a href="https://www.thefork.it" rel="nofollow">www.thefork.it</a>, <a href="https://www.thefork.be" rel="nofollow">www.thefork.be</a>, etc.</p>
+<h3><strong>1. Calcul de l'évaluation du restaurant</strong></h3>
+
+<p>Lorsque les Utilisateurs notent un restaurant, nous leur demandons d'évaluer 3 critères :</p>
+
+<ul>
+  <li>La qualité du repas, qui correspond à 50% de l'évaluation</li>
+
+  <li>Le service, qui correspond à 25% de l'évaluation</li>
+
+  <li>L'ambiance du restaurant, qui correspond à 25% de l'évaluation</li>
+</ul>
+
+<p>Le calcul de l'évaluation du restaurant sur la plateforme TheFork est une moyenne de toutes les évaluations des Utilisateurs de l'année écoulée. TheFork s'appuie sur la méthode arithmétique (méthode bayésienne aux Pays-Bas) pour calculer l'évaluation moyenne de tout restaurant partenaire.</p>
+
+<p>Les Utilisateurs peuvent également noter le rapport qualité-prix, le niveau sonore, le temps d'attente et la qualité de la nourriture. Ces critères supplémentaires n'ont pas d'impact sur l'évaluation, mais ils peuvent aider à améliorer le service du restaurant en lui donnant un retour sur ces points.</p>
+
+<p>Enfin, les Utilisateurs peuvent également laisser un avis pour étayer leur évaluation ; ils peuvent expliquer brièvement comment s'est passée leur expérience au restaurant, quel était leur plat préféré, l'ambiance et le service.</p>
+
+<p>Les opinions des Utilisateurs sont non seulement importantes pour nous, mais également bénéfiques pour tous les membres de la communauté de TheFork.</p>
+
+<h3><strong>2. Gestion des avis par les Utilisateurs</strong></h3>
+
+<p>Si les Utilisateurs ont fait une réservation avec TheFork et ont apprécié un repas, ils ont jusqu'à 3 mois à partir de la date du repas pour partager leur expérience gastronomique. Nous proposons aux Utilisateurs de laisser un avis dès que possible pour éviter d'oublier les détails de leur expérience.</p>
+
+<p>Pour laisser un avis sur une expérience gastronomique, les Utilisateurs ont les 3 options suivantes :</p>
+
+<ul>
+  <li>En utilisant le lien fourni par TheFork dans l'email reçu après le repas, si le repas a été honoré</li>
+
+  <li>En passant par le compte TheFork de l'Utilisateur dans l'app</li>
+
+  <li>En scannant le QR code TheFork sur la table dans les restaurants qui proposent cette option, et seulement après avoir réglé l'addition avec TheFork PAY</li>
+</ul>
+
+<p>Ces 3 options sont les seuls moyens pour les Utilisateurs de fournir des avis, car cela permet à TheFork de vérifier que les Utilisateurs ont fréquenté le restaurant pour lequel ils laissent un avis.</p>
+
+<p>Nous tenons à souligner le fait que notre plateforme, et les avis de tous les restaurants répertoriés, correspondent à tous les avis fournis par les Utilisateurs. Cela signifie que tous les avis, positifs ou non, sont publiés pour que tous les utilisateurs puissent en tenir compte (s'ils respectent par ailleurs nos <a href="#ConditionsdUtilisation">Conditions d'utilisation</a>, voir notre processus de modération ci-dessous). Nous pensons que tous les avis sur les expériences gastronomiques ont leur place sur notre plateforme et sont essentiels pour la communauté TheFork.</p>
+
+<h3><strong>3. Modération des avis par TheFork</strong></h3>
+
+<p>Pour garantir un niveau élevé de fiabilité et de transparence, tous les avis soumis par les Utilisateurs et les réponses des restaurants seront soumis à notre processus de modération.</p>
+
+<p>Les avis sont vérifiés à la fois par un outil de modération automatisé et par notre équipe de modérateurs si nécessaire :</p>
+
+<ul>
+  <li>Nous utilisons un outil de modération automatisé sophistiqué pour identifier les avis qui pourraient ne pas être authentiques ou enfreindre nos règles sur les avis telles que définies dans nos <a href="#ConditionsdUtilisation">Conditions d'utilisation</a> (article 6.1 Conditions de publication des avis et article 6.2 Raisons du rejet du Contenu des Utilisateurs). Les avis qui ne sont pas signalés comme potentiellement non authentiques ou enfreignant nos règles seront publiés automatiquement.</li>
+
+  <li>Lorsque notre outil de modération détecte un problème potentiel, notre équipe de modération vérifie l'avis et confirme s'il provient d'un consommateur qui a eu une expérience authentique en mangeant dans le restaurant concerné et qui respecte par ailleurs nos <a href="#ConditionsdUtilisation">Conditions d'utilisation</a>. Cela peut inclure, par exemple, contacter les Utilisateurs par email ou par téléphone pour confirmer à nouveau les informations.</li>
+
+  <li>Lorsque notre équipe de modération confirme que l'avis n'est pas conforme aux exigences (par ex. lorsque les Utilisateurs n'ont pas mangé dans le restaurant, ils ne peuvent pas laisser d'avis sur l'expérience gastronomique ; si la réservation est définie comme No show par le restaurant ou si les clients annulent la réservation) nous ne le publions pas et les Utilisateurs n'auront pas la possibilité de reformuler leur avis.</li>
+
+  <li>Lorsque l'avis n'est pas conforme à nos autres règles (par ex. lorsque tout l'avis est incompréhensible, lorsque l'avis est discriminatoire, lorsqu'il y a une forte incohérence entre l'évaluation et le commentaire, etc.), nous informerons l'Utilisateur et lui demanderons de reformuler son avis de manière à respecter nos <a href="#ConditionsdUtilisation">Conditions d'utilisation</a>.</li>
+
+  <li>Si vous soupçonnez qu'un avis n'est pas authentique ou ne respecte pas nos règles, veuillez nous contacter à <a href="mailto:contact@thefork.fr">contact@thefork.fr</a> en précisant la raison de votre problème et notre équipe de modération enquêtera comme décrit ci-dessus. Nous répondons à toutes les demandes de modération, tant de la part des restaurants que des Utilisateurs, sans distinction.</li>
+</ul>
+
+<p>Comme de nombreux avis sont envoyés chaque jour, il peut y avoir un certain retard dans la publication :</p>
+
+<ul>
+  <li>L'évaluation est publiée immédiatement (si l'évaluation n'est pas conforme à l'exigence précitée concernant le respect de la réservation, elle est alors supprimée).</li>
+
+  <li>L'avis peut prendre jusqu'à 15 jours pour être publié lorsqu'il doit être vérifié par notre équipe de modération.</li>
+
+  <li>L'avis ne sera visible sur TheFork que lorsque le restaurant aura 3 avis ou plus. Si le restaurant a moins de 3 avis, les 3 premiers avis seront enregistrés et publiés lorsque le restaurant aura atteint le seuil.</li>
+</ul>
+
+<h3><strong>4. Droit de réponse du restaurant</strong></h3>
+
+<p>Une fois qu'un avis est publié, les propriétaires de restaurant ont le <strong>droit de répondre dans un délai de 3 mois</strong> après l'envoi de l'avis. La réponse ne doit pas dépasser la longueur de l'avis et, dans tous les cas, ne peut pas dépasser 1024 caractères.</p>
+
+<p>Toutes les réponses des restaurants sont soumises au même processus de modération que celui décrit au point 3 ci-dessus.</p>
 
 <p><br>
 </p>
 
+<h1 id="les-sites-web-et-entreprises-lafourchette" style="text-align: justify;"><strong>F. LES SITES WEB ET  ENTREPRISES THEFORK</strong></h1>
+
+<p>La Fourchette SAS et ses filiales et sociétés  affiliées gèrent et exploitent un portefeuille de sites web et d'entreprises  regroupant les marques suivantes : </p>
+
+<p><a href="http://www.thefork.fr" rel="nofollow">www.thefork.fr</a>,  <a href="http://www.theforkmanager.com">www.theforkmanager.com</a>, <a href="http://www.thefork.ch" rel="nofollow">www.thefork.ch</a>, <a href="http://thefork.es" rel="nofollow" target="_blank">www.thefork.es</a>, et <a href="http://www.thefork.com">www.thefork.com</a> et toutes les versions  localisées, comme <a href="http://www.thefork.it">www.thefork.it</a>, <a href="http://www.thefork.be">www.thefork.be</a>, etc.</p>
+
 <p><br>
 </p>
 
-<p>©2022 La Fourchette SAS. Med ensamrätt</p>
+<p>©2022 La Fourchette SAS. Tous droits réservés</p>
